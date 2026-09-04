@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+2342,123,DJP1122,DJ-CLO-0123,"What is T-shirt New Design (L, M, XL)?","T-shirt New Design (L, M, XL) is a product under the CLOTHING category, offered by the brand Domatti.",general_info,1,Various Documents,N/A,medium
+2343,123,DJP1122,DJ-CLO-0123,"What is the price and business volume (BV) for T-shirt New Design (L, M, XL)?","The MRP is ₹699.0, Distributor Price (DP) is ₹599.0, and the Business Volume (BV) is 100.0.",pricing,2,Various Documents,N/A,high
+2344,123,DJP1122,DJ-CLO-0123,Who should use this?,Consumers interested in CLOTHING solutions provided by Dayjoy.,usage,3,Various Documents,N/A,medium
+2345,123,DJP1122,DJ-CLO-0123,Are there specific usage instructions?,Please refer to the product packaging for detailed usage and assembly instructions.,safety,4,Various Documents,N/A,medium
+2346,123,DJP1122,DJ-CLO-0123,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+2347,123,DJP1122,DJ-CLO-0123,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+2348,123,DJP1122,DJ-CLO-0123,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+2349,123,DJP1122,DJ-CLO-0123,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+2350,123,DJP1122,DJ-CLO-0123,How does it compare to other CLOTHING products?,This product is uniquely formulated under the Domatti brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+2351,123,DJP1122,DJ-CLO-0123,What is the pack size?,"This specific item comes in a L, M, XL pack size.",dosage,10,Various Documents,N/A,medium
+2352,123,DJP1122,DJ-CLO-0123,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

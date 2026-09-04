@@ -1,0 +1,9 @@
+check,result,status,note
+canonical_row_count,170,PASS,170 expected catalog rows
+duplicate_product_keys,0,PASS,zero duplicates
+null_pack_size,0,PASS,zero unresolved nulls
+null_mrp,0,PASS,zero missing MRP
+null_dp,0,PASS,zero missing DP
+null_bv,0,PASS,zero missing BV
+price_chunk_count,170,PASS,one pricing row per canonical product
+runtime_rag_evaluation,not_run,PENDING,requires deployed retriever/generator execution

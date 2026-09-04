@@ -1,0 +1,1748 @@
+{
+  "company_overview": {
+    "company_name": "Dayjoy Marketing Private Limited",
+    "brand_name": "Dayjoy",
+    "parent_company": "Adila Group",
+    "founded_year": "2018 (incorporated 17 Dec 2018)",
+    "direct_selling_launch": "2019",
+    "registered_office": "A-780, Indra Vihar, Kota, Rajasthan - 324005, India",
+    "headquarters": "Kota, Rajasthan, India",
+    "industry": "Direct Selling / Wellness / FMCG / E-commerce",
+    "business_model": "Direct Selling (MLM) + E-commerce + Wellness + FMCG + Personal Care + Networking",
+    "company_type": "Private Limited Company (Non-government)",
+    "cin": "U52600RJ2018PTC062258",
+    "registration_number": "62258",
+    "roc": "ROC Jaipur",
+    "company_status": "Active",
+    "authorized_share_capital": "Rs 100,000.00",
+    "paid_up_capital": "Rs 100,000.00",
+    "employee_count": "51-200",
+    "presence": "24 states across India; over 1,000 franchise outlets; 4 regional offices (Jharkhand, Odisha, Delhi, Hyderabad)",
+    "website": "https://dayjoy.in",
+    "email": "support@dayjoy.in",
+    "phone": "+91 74120 34387",
+    "instagram": "@dayjoy_india",
+    "nic_code": "5260",
+    "nic_description": "Retail sale via direct selling/online shopping/door-to-door/telemarketing"
+  },
+  "leadership": [
+    {
+      "name": "Shambhu Kumar Agrawal",
+      "role": "Founder, Adila Group (parent company)",
+      "details": "Founded Adila Group in August 2009"
+    },
+    {
+      "name": "Anmol Agarwal",
+      "role": "Director / Managing Entrepreneur",
+      "details": "Managing Dayjoy; part of Adila Group leadership"
+    },
+    {
+      "name": "Divyansh Agarwal",
+      "role": "Founder & Visionary Leader",
+      "details": "Leads Dayjoy's direct selling expansion; expanded franchise network to 1,000+ outlets"
+    }
+  ],
+  "sub_brands": [
+    {
+      "brand": "Asthprash",
+      "category": "Health Care",
+      "description": "Herbal formulation for lung/respiratory health; protects against pollution. Price: Rs 2,999 (300g)",
+      "key_products": "Asthprash 300g"
+    },
+    {
+      "brand": "Curind",
+      "category": "Health Care",
+      "description": "Herbal wellness products for respiratory, renal, liver care",
+      "key_products": "Curind Astheal Cough Syrup, Curind Renal Shield, Curind Arsha Relief Juice, Curind Liv-Ease Juice, Curind HB+ Juice"
+    },
+    {
+      "brand": "Wild Muse (Wildmuse)",
+      "category": "Personal Care",
+      "description": "Premium personal care products with natural ingredients",
+      "key_products": "Deep Cleansing Face Wash, Daily Care Cream SPF 30, Milk & Keratin Shampoo"
+    },
+    {
+      "brand": "Yumdum",
+      "category": "Food Products",
+      "description": "Food and snack products"
+    },
+    {
+      "brand": "Aayushmaan",
+      "category": "Wellness",
+      "description": "Wellness and health products"
+    },
+    {
+      "brand": "Homeshine",
+      "category": "Home Care",
+      "description": "Home cleaning and care products"
+    },
+    {
+      "brand": "Domatti",
+      "category": "Food Products",
+      "description": "Food products line"
+    },
+    {
+      "brand": "HappyGrow",
+      "category": "Agriculture",
+      "description": "Agricultural growth products"
+    },
+    {
+      "brand": "Seabuckthron",
+      "category": "Skin/Personal Care",
+      "description": "Seabuckthorn-based facial and skin care range",
+      "key_products": "Facial Kit, Cleanser, Scrub, Massage Gel, Massage Cream, Face Pack, Facial Fluid, Juice"
+    },
+    {
+      "brand": "Amara Beauty",
+      "category": "Color Cosmetics",
+      "description": "Color cosmetics line",
+      "key_products": "Kajal, Eyeliner"
+    },
+    {
+      "brand": "JoySpread / JoyGrow / JoyProtect / JoyCalcium / Joy-O-Zyme",
+      "category": "Agriculture & Veterinary",
+      "description": "Agri-input product range under the Joy series",
+      "key_products": "JoySpread 80 Gold, JoyGrow 2X Granules, JoyProtect, JoyCalcium, Joy-O-Zyme"
+    },
+    {
+      "brand": "Perfect-Ion",
+      "category": "Aqua Essentials",
+      "description": "Water ionizer / mineraliser product line",
+      "key_products": "New Perfect-Ion device, Testing Solutions, N-SF Mineralisers"
+    },
+    {
+      "brand": "Aqua Energiser",
+      "category": "Aqua Essentials",
+      "description": "Water energizing device",
+      "key_products": "Aqua Energiser Single, Pack of 3"
+    },
+    {
+      "brand": "Bio-Germanium",
+      "category": "Germanium Magnetic",
+      "description": "Magnetic therapy wellness product",
+      "key_products": "Bio-Germanium Magnetic Mattress (Single, Pack of 2)"
+    }
+  ],
+  "product_catalog": {
+    "Food Products": [
+      {
+        "product_name": "Black Salt Sprinkler 200g",
+        "mrp_inr": 59,
+        "dp_inr": 49,
+        "bv": 10,
+        "pack_size": "200g"
+      },
+      {
+        "product_name": "Chaat Masala 100g",
+        "mrp_inr": 75,
+        "dp_inr": 56,
+        "bv": 10,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Chicken Masala 100g",
+        "mrp_inr": 110,
+        "dp_inr": 90,
+        "bv": 15,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Daily Tea 250g",
+        "mrp_inr": 169,
+        "dp_inr": 125,
+        "bv": 20,
+        "pack_size": "250g"
+      },
+      {
+        "product_name": "Daily Tea 500g",
+        "mrp_inr": 329,
+        "dp_inr": 245,
+        "bv": 39,
+        "pack_size": "500g"
+      },
+      {
+        "product_name": "Dhaniya Powder 25g",
+        "mrp_inr": 20,
+        "dp_inr": 15,
+        "bv": 1,
+        "pack_size": "25g"
+      },
+      {
+        "product_name": "Dhaniya Powder 200g",
+        "mrp_inr": 95,
+        "dp_inr": 75,
+        "bv": 14,
+        "pack_size": "200g"
+      },
+      {
+        "product_name": "Dhaniya Powder 500g",
+        "mrp_inr": 210,
+        "dp_inr": 170,
+        "bv": 30,
+        "pack_size": "500g"
+      },
+      {
+        "product_name": "Garam Masala 100g",
+        "mrp_inr": 110,
+        "dp_inr": 99,
+        "bv": 20,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Haldi Powder 25g",
+        "mrp_inr": 20,
+        "dp_inr": 15,
+        "bv": 1,
+        "pack_size": "25g"
+      },
+      {
+        "product_name": "Haldi Powder 200g",
+        "mrp_inr": 135,
+        "dp_inr": 80,
+        "bv": 12,
+        "pack_size": "200g"
+      },
+      {
+        "product_name": "Haldi Powder 500g",
+        "mrp_inr": 320,
+        "dp_inr": 200,
+        "bv": 28,
+        "pack_size": "500g"
+      },
+      {
+        "product_name": "Himalayan Pink Salt Sprinkler 200g",
+        "mrp_inr": 75,
+        "dp_inr": 60,
+        "bv": 13,
+        "pack_size": "200g"
+      },
+      {
+        "product_name": "Jaljeera 100g",
+        "mrp_inr": 65,
+        "dp_inr": 55,
+        "bv": 15,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Organic Jeera 250g",
+        "mrp_inr": 199,
+        "dp_inr": 165,
+        "bv": 33,
+        "pack_size": "250g"
+      },
+      {
+        "product_name": "Kasuri Methi 50g",
+        "mrp_inr": 59,
+        "dp_inr": 45,
+        "bv": 9,
+        "pack_size": "50g"
+      },
+      {
+        "product_name": "Mirchi Powder 25g",
+        "mrp_inr": 20,
+        "dp_inr": 15,
+        "bv": 1,
+        "pack_size": "25g"
+      },
+      {
+        "product_name": "Mirchi Powder 200g",
+        "mrp_inr": 145,
+        "dp_inr": 110,
+        "bv": 18,
+        "pack_size": "200g"
+      },
+      {
+        "product_name": "Mirchi Powder 500g",
+        "mrp_inr": 335,
+        "dp_inr": 275,
+        "bv": 50,
+        "pack_size": "500g"
+      },
+      {
+        "product_name": "Rai 250g",
+        "mrp_inr": 99,
+        "dp_inr": 80,
+        "bv": 13,
+        "pack_size": "250g"
+      },
+      {
+        "product_name": "Sabji Masala 100g",
+        "mrp_inr": 110,
+        "dp_inr": 99,
+        "bv": 20,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "New Total Joy Rice Bran Oil 1 Litre",
+        "mrp_inr": 299,
+        "dp_inr": 235,
+        "bv": 24,
+        "pack_size": "1 L"
+      },
+      {
+        "product_name": "Total Joy Rice Bran Oil 2 Litre",
+        "mrp_inr": 599,
+        "dp_inr": 470,
+        "bv": 40,
+        "pack_size": "2 L"
+      },
+      {
+        "product_name": "Veg Biryani with Shahi Gravy",
+        "mrp_inr": 199,
+        "dp_inr": 135,
+        "bv": 17,
+        "pack_size": null
+      },
+      {
+        "product_name": "Poha with Bhujia",
+        "mrp_inr": 99,
+        "dp_inr": 67,
+        "bv": 9,
+        "pack_size": null
+      },
+      {
+        "product_name": "Upma with Bhujia",
+        "mrp_inr": 99,
+        "dp_inr": 71,
+        "bv": 9,
+        "pack_size": null
+      }
+    ],
+    "Personal Care": [
+      {
+        "product_name": "Anti Pollution Face Wash 150ml",
+        "mrp_inr": 249,
+        "dp_inr": 165,
+        "bv": 50,
+        "pack_size": "150ml"
+      },
+      {
+        "product_name": "Anti Pollution Aloevera Face Wash 100ml",
+        "mrp_inr": 135,
+        "dp_inr": 94,
+        "bv": 23,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Aloevera Gel 100g",
+        "mrp_inr": 150,
+        "dp_inr": 115,
+        "bv": 36,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "BR Rich Oil 200ml",
+        "mrp_inr": 249,
+        "dp_inr": 165,
+        "bv": 44,
+        "pack_size": "200ml"
+      },
+      {
+        "product_name": "Daily Care Cream 60g",
+        "mrp_inr": 149,
+        "dp_inr": 95,
+        "bv": 30,
+        "pack_size": "60g"
+      },
+      {
+        "product_name": "Luxury Saffron Soap 100g",
+        "mrp_inr": 125,
+        "dp_inr": 82,
+        "bv": 20,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Ecofriendly Toothbrush Pack of 2",
+        "mrp_inr": 149,
+        "dp_inr": 100,
+        "bv": 30,
+        "pack_size": "Pack of 2"
+      },
+      {
+        "product_name": "HerboSmile Herbal Toothpaste 100g",
+        "mrp_inr": 125,
+        "dp_inr": 82,
+        "bv": 20,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Hydra Aloevera Body Lotion 300ml",
+        "mrp_inr": 349,
+        "dp_inr": 245,
+        "bv": 76,
+        "pack_size": "300ml"
+      },
+      {
+        "product_name": "Kesham 100ml",
+        "mrp_inr": 149,
+        "dp_inr": 91,
+        "bv": 24,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Luxwash Handwash 250ml",
+        "mrp_inr": 150,
+        "dp_inr": 95,
+        "bv": 17,
+        "pack_size": "250ml"
+      },
+      {
+        "product_name": "Milk Keratin Extracts Shampoo 100ml",
+        "mrp_inr": 175,
+        "dp_inr": 118,
+        "bv": 33,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Milk Bath Soap 100g",
+        "mrp_inr": 75,
+        "dp_inr": 52,
+        "bv": 9,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Milk Bath Soap Pack of 3 100g",
+        "mrp_inr": 225,
+        "dp_inr": 150,
+        "bv": 25,
+        "pack_size": "Pack of 3"
+      },
+      {
+        "product_name": "Neem Tulsi Herbal Soap 100g Pack of 3",
+        "mrp_inr": 147,
+        "dp_inr": 107,
+        "bv": 19,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Regain Aloevera Shampoo 300ml",
+        "mrp_inr": 349,
+        "dp_inr": 245,
+        "bv": 76,
+        "pack_size": "300ml"
+      },
+      {
+        "product_name": "Sandalwood Shahi Gulab Body Lotion 150ml",
+        "mrp_inr": 249,
+        "dp_inr": 169,
+        "bv": 56,
+        "pack_size": "150ml"
+      },
+      {
+        "product_name": "Sanitary Pad XL Pack of 10",
+        "mrp_inr": 249,
+        "dp_inr": 130,
+        "bv": 40,
+        "pack_size": "Pack of 10"
+      },
+      {
+        "product_name": "Sanitary Pad XXL Pack of 10",
+        "mrp_inr": 275,
+        "dp_inr": 150,
+        "bv": 45,
+        "pack_size": "Pack of 10"
+      },
+      {
+        "product_name": "Seabuckthron Facial Kit 30g Pack of 6",
+        "mrp_inr": 1349,
+        "dp_inr": 799,
+        "bv": 290,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Seabuckthron Cleanser 30g",
+        "mrp_inr": 225,
+        "dp_inr": 145,
+        "bv": 52,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Seabuckthron Scrub 30g",
+        "mrp_inr": 225,
+        "dp_inr": 145,
+        "bv": 52,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Seabuckthron Massage Gel 30g",
+        "mrp_inr": 225,
+        "dp_inr": 145,
+        "bv": 52,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Seabuckthron Massage Cream 30g",
+        "mrp_inr": 225,
+        "dp_inr": 145,
+        "bv": 52,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Seabuckthron Face Pack 30g",
+        "mrp_inr": 225,
+        "dp_inr": 145,
+        "bv": 52,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Seabuckthron Facial Fluid 10ml",
+        "mrp_inr": 225,
+        "dp_inr": 145,
+        "bv": 52,
+        "pack_size": "10ml"
+      },
+      {
+        "product_name": "Deep Cleansing Face Wash 100ml",
+        "mrp_inr": 199,
+        "dp_inr": 139,
+        "bv": 48,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Deep Cleansing Facewash 60ml",
+        "mrp_inr": 125,
+        "dp_inr": 82,
+        "bv": 21,
+        "pack_size": "60ml"
+      },
+      {
+        "product_name": "WildMuse Premium Loofah",
+        "mrp_inr": 125,
+        "dp_inr": 99,
+        "bv": 36,
+        "pack_size": null
+      },
+      {
+        "product_name": "Amla Reetha Sikakai Shampoo 100ml",
+        "mrp_inr": 130,
+        "dp_inr": 110,
+        "bv": 34,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Haldi Chandan Facewash 60ml",
+        "mrp_inr": 85,
+        "dp_inr": 68,
+        "bv": 18,
+        "pack_size": "60ml"
+      }
+    ],
+    "Skin Care": [
+      {
+        "product_name": "Face Serum 30ml",
+        "mrp_inr": 699,
+        "dp_inr": 499,
+        "bv": 170,
+        "pack_size": "30ml"
+      },
+      {
+        "product_name": "Gold Facial Kit",
+        "mrp_inr": 449,
+        "dp_inr": 310,
+        "bv": 100,
+        "pack_size": null
+      },
+      {
+        "product_name": "Sunscreen SPF 50 50gm",
+        "mrp_inr": 349,
+        "dp_inr": 299,
+        "bv": 92,
+        "pack_size": "50g"
+      },
+      {
+        "product_name": "Hydra Max Moisturizer 50gm",
+        "mrp_inr": 449,
+        "dp_inr": 369,
+        "bv": 110,
+        "pack_size": "50g"
+      },
+      {
+        "product_name": "AgeX Anti-Ageing Night Cream 50gm",
+        "mrp_inr": 799,
+        "dp_inr": 599,
+        "bv": 225,
+        "pack_size": "50g"
+      },
+      {
+        "product_name": "AcneX Anti-Acne Foaming Cleanser 100ml",
+        "mrp_inr": 399,
+        "dp_inr": 299,
+        "bv": 98,
+        "pack_size": "100ml"
+      }
+    ],
+    "Color Cosmetics": [
+      {
+        "product_name": "Amara Beauty Kajal",
+        "mrp_inr": 299,
+        "dp_inr": 199,
+        "bv": 65,
+        "pack_size": null
+      },
+      {
+        "product_name": "Amara Beauty Eyeliner",
+        "mrp_inr": 399,
+        "dp_inr": 299,
+        "bv": 105,
+        "pack_size": null
+      }
+    ],
+    "Health Care": [
+      {
+        "product_name": "Asthprash 300 grams",
+        "mrp_inr": 2999,
+        "dp_inr": 1499,
+        "bv": 720,
+        "pack_size": "300 g"
+      },
+      {
+        "product_name": "Adicardial 120 Tab",
+        "mrp_inr": 2099,
+        "dp_inr": 1325,
+        "bv": 620,
+        "pack_size": "120 Tab"
+      },
+      {
+        "product_name": "Adicardial Syrup 500ml",
+        "mrp_inr": 1399,
+        "dp_inr": 865,
+        "bv": 400,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Adila Forte 30 Tab",
+        "mrp_inr": 1499,
+        "dp_inr": 1030,
+        "bv": 480,
+        "pack_size": "30 Tab"
+      },
+      {
+        "product_name": "Adila Forte 60 Tab",
+        "mrp_inr": 2999,
+        "dp_inr": 1875,
+        "bv": 880,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Adilipo 120 Tab",
+        "mrp_inr": 2699,
+        "dp_inr": 1725,
+        "bv": 840,
+        "pack_size": "120 Tab"
+      },
+      {
+        "product_name": "Adilipo 60 Tab",
+        "mrp_inr": 1499,
+        "dp_inr": 950,
+        "bv": 450,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Adiliv 60 Tab",
+        "mrp_inr": 1199,
+        "dp_inr": 825,
+        "bv": 375,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Aloevera with Guava Juice 1L",
+        "mrp_inr": 1499,
+        "dp_inr": 710,
+        "bv": 285,
+        "pack_size": "1L"
+      },
+      {
+        "product_name": "Astheal Cough Syrup 100ml",
+        "mrp_inr": 199,
+        "dp_inr": 99,
+        "bv": 32,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Ashvagandha Extract 60 Veg Capsules",
+        "mrp_inr": 499,
+        "dp_inr": 299,
+        "bv": 110,
+        "pack_size": null
+      },
+      {
+        "product_name": "Amla Extract 60 Veg Capsules",
+        "mrp_inr": 499,
+        "dp_inr": 275,
+        "bv": 100,
+        "pack_size": null
+      },
+      {
+        "product_name": "Advanced Calcium Tablets",
+        "mrp_inr": 999,
+        "dp_inr": 325,
+        "bv": 130,
+        "pack_size": null
+      },
+      {
+        "product_name": "Arogya Churn 100g",
+        "mrp_inr": 189,
+        "dp_inr": 115,
+        "bv": 40,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Di-beat 60 Tab",
+        "mrp_inr": 1199,
+        "dp_inr": 825,
+        "bv": 375,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Golden Elixir - Nano Curcumin Drops Pack of 2 Bottles - each 25ml",
+        "mrp_inr": 4999,
+        "dp_inr": 2849,
+        "bv": 1320,
+        "pack_size": "Pack of 2"
+      },
+      {
+        "product_name": "Gas-O-Free 200ml",
+        "mrp_inr": 599,
+        "dp_inr": 375,
+        "bv": 160,
+        "pack_size": "200ml"
+      },
+      {
+        "product_name": "Gas-O-Free 500ml",
+        "mrp_inr": 1399,
+        "dp_inr": 865,
+        "bv": 400,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "GoPiles 60 Tab",
+        "mrp_inr": 1199,
+        "dp_inr": 825,
+        "bv": 375,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "GoPiles Syrup 500ml",
+        "mrp_inr": 1399,
+        "dp_inr": 865,
+        "bv": 400,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Giloe Extract 60 Veg Capsules",
+        "mrp_inr": 499,
+        "dp_inr": 275,
+        "bv": 100,
+        "pack_size": null
+      },
+      {
+        "product_name": "Eye Elixir Drops 10ml",
+        "mrp_inr": 149,
+        "dp_inr": 100,
+        "bv": 42,
+        "pack_size": "10ml"
+      },
+      {
+        "product_name": "Eye Health 60 Capsules",
+        "mrp_inr": 1799,
+        "dp_inr": 1099,
+        "bv": 480,
+        "pack_size": "60 Capsules"
+      },
+      {
+        "product_name": "HB 200ml",
+        "mrp_inr": 599,
+        "dp_inr": 375,
+        "bv": 160,
+        "pack_size": "200ml"
+      },
+      {
+        "product_name": "HB 500ml",
+        "mrp_inr": 1399,
+        "dp_inr": 865,
+        "bv": 400,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Hi-Energy 60 Tab",
+        "mrp_inr": 1199,
+        "dp_inr": 825,
+        "bv": 375,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Kidney Kawach 300 g",
+        "mrp_inr": 2999,
+        "dp_inr": 1799,
+        "bv": 840,
+        "pack_size": "300 g"
+      },
+      {
+        "product_name": "Liv-Ease 200ml",
+        "mrp_inr": 599,
+        "dp_inr": 375,
+        "bv": 160,
+        "pack_size": "200ml"
+      },
+      {
+        "product_name": "Liv-Ease 500ml",
+        "mrp_inr": 1399,
+        "dp_inr": 865,
+        "bv": 400,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Multivitamins Tablets",
+        "mrp_inr": 999,
+        "dp_inr": 425,
+        "bv": 180,
+        "pack_size": null
+      },
+      {
+        "product_name": "Nonima 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 400,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "N-astheal 120 Tab",
+        "mrp_inr": 2699,
+        "dp_inr": 1725,
+        "bv": 865,
+        "pack_size": "120 Tab"
+      },
+      {
+        "product_name": "N-astheal 60 Tab",
+        "mrp_inr": 1499,
+        "dp_inr": 960,
+        "bv": 465,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Orthofix 60 Tab",
+        "mrp_inr": 1199,
+        "dp_inr": 825,
+        "bv": 375,
+        "pack_size": "60 Tab"
+      },
+      {
+        "product_name": "Orthofix Oil 100ml",
+        "mrp_inr": 525,
+        "dp_inr": 325,
+        "bv": 112,
+        "pack_size": "100ml"
+      },
+      {
+        "product_name": "Omega 3-6-9",
+        "mrp_inr": 999,
+        "dp_inr": 500,
+        "bv": 200,
+        "pack_size": null
+      },
+      {
+        "product_name": "Quick 6 Pain Relief Gel 30g",
+        "mrp_inr": 149,
+        "dp_inr": 99,
+        "bv": 32,
+        "pack_size": "30g"
+      },
+      {
+        "product_name": "Super Rich Berry Juice 1 Ltr.",
+        "mrp_inr": 2999,
+        "dp_inr": 1660,
+        "bv": 740,
+        "pack_size": "1 L"
+      },
+      {
+        "product_name": "Seabuckthron Juice 1 Ltr.",
+        "mrp_inr": 2999,
+        "dp_inr": 1490,
+        "bv": 640,
+        "pack_size": "1 L"
+      },
+      {
+        "product_name": "Shatavari Extract 60 Veg Capsules",
+        "mrp_inr": 499,
+        "dp_inr": 299,
+        "bv": 110,
+        "pack_size": null
+      },
+      {
+        "product_name": "Super Food Capsule",
+        "mrp_inr": 1999,
+        "dp_inr": 999,
+        "bv": 420,
+        "pack_size": null
+      },
+      {
+        "product_name": "Premium Tulsi Max 30ml",
+        "mrp_inr": 299,
+        "dp_inr": 178,
+        "bv": 58,
+        "pack_size": "30ml"
+      },
+      {
+        "product_name": "Vital Protein Powder 300gm",
+        "mrp_inr": 1999,
+        "dp_inr": 1199,
+        "bv": 430,
+        "pack_size": "300g"
+      },
+      {
+        "product_name": "L-Arginine - Energy Drink 100g",
+        "mrp_inr": 1499,
+        "dp_inr": 799,
+        "bv": 300,
+        "pack_size": "100g"
+      },
+      {
+        "product_name": "Ample Meal - Meal Replacement Nutritional Shake 500g",
+        "mrp_inr": 2699,
+        "dp_inr": 1799,
+        "bv": 650,
+        "pack_size": "500g"
+      },
+      {
+        "product_name": "JuniorJoy - Kids Nutritional Drink 300g",
+        "mrp_inr": 1499,
+        "dp_inr": 899,
+        "bv": 325,
+        "pack_size": "300g"
+      },
+      {
+        "product_name": "Kahwa Masala Chai 25 Pcs",
+        "mrp_inr": 399,
+        "dp_inr": 295,
+        "bv": 95,
+        "pack_size": "25 Pcs"
+      },
+      {
+        "product_name": "Shilajit Gummies 60 Gummies",
+        "mrp_inr": 1499,
+        "dp_inr": 999,
+        "bv": 400,
+        "pack_size": "60 G"
+      },
+      {
+        "product_name": "Apple Cider Vinegar 3X20 Tablets",
+        "mrp_inr": 1425,
+        "dp_inr": 875,
+        "bv": 350,
+        "pack_size": "3X20 Tablets"
+      },
+      {
+        "product_name": "Marine Collagen 200g",
+        "mrp_inr": 1799,
+        "dp_inr": 999,
+        "bv": 380,
+        "pack_size": "200g"
+      }
+    ],
+    "Home Care": [
+      {
+        "product_name": "Dishwash Liquid Gel 500ml",
+        "mrp_inr": 189,
+        "dp_inr": 149,
+        "bv": 29,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Toilet Bowl Cleaner 500ml",
+        "mrp_inr": 149,
+        "dp_inr": 115,
+        "bv": 21,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Liquid Detergent 1Ltr.",
+        "mrp_inr": 449,
+        "dp_inr": 370,
+        "bv": 74,
+        "pack_size": "1L"
+      },
+      {
+        "product_name": "All in 1 Surface Cleaner 500ml",
+        "mrp_inr": 179,
+        "dp_inr": 140,
+        "bv": 27,
+        "pack_size": "500ml"
+      }
+    ],
+    "Clothing": [
+      {
+        "product_name": "Premium Suit Length Black",
+        "mrp_inr": 10000,
+        "dp_inr": 5999,
+        "bv": 2800,
+        "pack_size": null
+      },
+      {
+        "product_name": "Designer Mask Pack of 5",
+        "mrp_inr": 220,
+        "dp_inr": 180,
+        "bv": 55,
+        "pack_size": "Pack of 5"
+      },
+      {
+        "product_name": "Dayjoy Necktie",
+        "mrp_inr": 499,
+        "dp_inr": 299,
+        "bv": 50,
+        "pack_size": null
+      },
+      {
+        "product_name": "T-shirt New Design L, M, XL",
+        "mrp_inr": 699,
+        "dp_inr": 599,
+        "bv": 100,
+        "pack_size": null
+      }
+    ],
+    "Agriculture Veterinary": [
+      {
+        "product_name": "Happy Soil - Humic 500ml",
+        "mrp_inr": 849,
+        "dp_inr": 575,
+        "bv": 200,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Nano Tech-19 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 425,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Nano Tech-46 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 425,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Nano Tech-50 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 425,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Nano Tech-52 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 425,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "Prosperous 1 L",
+        "mrp_inr": 1499,
+        "dp_inr": 999,
+        "bv": 340,
+        "pack_size": "1 L"
+      },
+      {
+        "product_name": "Prosperous Tablets",
+        "mrp_inr": 1049,
+        "dp_inr": 599,
+        "bv": 310,
+        "pack_size": null
+      },
+      {
+        "product_name": "Joy-O-Zyme 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 335,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "JoySpread 80 Gold 250ml",
+        "mrp_inr": 499,
+        "dp_inr": 329,
+        "bv": 75,
+        "pack_size": "80 G"
+      },
+      {
+        "product_name": "JoySpread 80 Gold 100ml",
+        "mrp_inr": 249,
+        "dp_inr": 155,
+        "bv": 37,
+        "pack_size": "80 G"
+      },
+      {
+        "product_name": "JoyGrow 2X Granules 2kg",
+        "mrp_inr": 999,
+        "dp_inr": 499,
+        "bv": 180,
+        "pack_size": null
+      },
+      {
+        "product_name": "JoyProtect 500ml",
+        "mrp_inr": 1499,
+        "dp_inr": 949,
+        "bv": 390,
+        "pack_size": "500ml"
+      },
+      {
+        "product_name": "JoyCalcium 2 Litre",
+        "mrp_inr": 1049,
+        "dp_inr": 699,
+        "bv": 250,
+        "pack_size": "2 L"
+      }
+    ],
+    "Germanium Magnetic": [
+      {
+        "product_name": "Bio-Germanium Magnetic Mattress",
+        "mrp_inr": 15000,
+        "dp_inr": 9999,
+        "bv": 4250,
+        "pack_size": null
+      },
+      {
+        "product_name": "Bio-Germanium Magnetic Mattress Pack of 2",
+        "mrp_inr": 30000,
+        "dp_inr": 14999,
+        "bv": 5000,
+        "pack_size": "Pack of 2"
+      }
+    ],
+    "Aqua Essentials": [
+      {
+        "product_name": "Aqua Energiser Pack of 3",
+        "mrp_inr": 9000,
+        "dp_inr": 5499,
+        "bv": 2500,
+        "pack_size": "Pack of 3"
+      },
+      {
+        "product_name": "Aqua Energiser Single",
+        "mrp_inr": 3499,
+        "dp_inr": 2000,
+        "bv": 1100,
+        "pack_size": null
+      },
+      {
+        "product_name": "New Perfect-Ion",
+        "mrp_inr": 23999,
+        "dp_inr": 14999,
+        "bv": 5000,
+        "pack_size": null
+      },
+      {
+        "product_name": "Perfect-Ion Testing Solutions",
+        "mrp_inr": 1399,
+        "dp_inr": 699,
+        "bv": 280,
+        "pack_size": null
+      },
+      {
+        "product_name": "Perfect-Ion Leaflets Set of 25",
+        "mrp_inr": 36,
+        "dp_inr": 36,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Perfect-Ion Leaflets Set of 50",
+        "mrp_inr": 66,
+        "dp_inr": 66,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "N-SF 9.5 Mineraliser",
+        "mrp_inr": 1999,
+        "dp_inr": 1499,
+        "bv": 450,
+        "pack_size": null
+      },
+      {
+        "product_name": "N-SF 10.5 Mineraliser",
+        "mrp_inr": 1999,
+        "dp_inr": 1499,
+        "bv": 450,
+        "pack_size": null
+      }
+    ],
+    "Promotion Tools": [
+      {
+        "product_name": "Dayjoy Diary",
+        "mrp_inr": 299,
+        "dp_inr": 275,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Leather Bag",
+        "mrp_inr": 2999,
+        "dp_inr": 1599,
+        "bv": 550,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Cap",
+        "mrp_inr": 95,
+        "dp_inr": 95,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Mug",
+        "mrp_inr": 125,
+        "dp_inr": 125,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Bike Sticker",
+        "mrp_inr": 20,
+        "dp_inr": 20,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Car Sticker",
+        "mrp_inr": 40,
+        "dp_inr": 40,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Pin",
+        "mrp_inr": 150,
+        "dp_inr": 150,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Backpack Bag",
+        "mrp_inr": 1100,
+        "dp_inr": 1100,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "New Dayjoy Product Brochure Hindi",
+        "mrp_inr": 250,
+        "dp_inr": 250,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "New Dayjoy Product Brochure English",
+        "mrp_inr": 250,
+        "dp_inr": 250,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "New Dayjoy Product Brochure Telugu",
+        "mrp_inr": 250,
+        "dp_inr": 250,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Product Leaflets Set of 48 Leaflets",
+        "mrp_inr": 130,
+        "dp_inr": 130,
+        "bv": null,
+        "pack_size": "48 L"
+      },
+      {
+        "product_name": "Hindi One-Page Compensation Plan Set of 25 Leaflets",
+        "mrp_inr": 75,
+        "dp_inr": 75,
+        "bv": null,
+        "pack_size": "25 L"
+      },
+      {
+        "product_name": "English One-Page Compensation Plan Set of 25 Leaflets",
+        "mrp_inr": 75,
+        "dp_inr": 75,
+        "bv": null,
+        "pack_size": "25 L"
+      },
+      {
+        "product_name": "Hindi One-Page Compensation Plan Set of 50 Leaflets",
+        "mrp_inr": 135,
+        "dp_inr": 135,
+        "bv": null,
+        "pack_size": "50 L"
+      },
+      {
+        "product_name": "English One-Page Compensation Plan Set of 50 Leaflets",
+        "mrp_inr": 135,
+        "dp_inr": 135,
+        "bv": null,
+        "pack_size": "50 L"
+      },
+      {
+        "product_name": "Dayjoy Business Planner Book Hindi",
+        "mrp_inr": 250,
+        "dp_inr": 250,
+        "bv": null,
+        "pack_size": null
+      },
+      {
+        "product_name": "Dayjoy Business Planner Book English",
+        "mrp_inr": 250,
+        "dp_inr": 250,
+        "bv": null,
+        "pack_size": null
+      }
+    ],
+    "Combo Packages": [
+      {
+        "product_name": "STANDARD PACKAGE",
+        "mrp_inr": 10997,
+        "dp_inr": 5499,
+        "bv": 2500,
+        "pack_size": null
+      },
+      {
+        "product_name": "PREMIUM PACKAGE",
+        "mrp_inr": 17592,
+        "dp_inr": 10499,
+        "bv": 5000,
+        "pack_size": null
+      },
+      {
+        "product_name": "ELITE PACKAGE",
+        "mrp_inr": 28286,
+        "dp_inr": 15999,
+        "bv": 7500,
+        "pack_size": null
+      },
+      {
+        "product_name": "AGRI PRO PACKAGE",
+        "mrp_inr": 29076,
+        "dp_inr": 22650,
+        "bv": 10000,
+        "pack_size": null
+      },
+      {
+        "product_name": "AGRI STARTER PACKAGE",
+        "mrp_inr": 15587,
+        "dp_inr": 11499,
+        "bv": 5000,
+        "pack_size": null
+      },
+      {
+        "product_name": "LEGEND PACKAGE",
+        "mrp_inr": 27687,
+        "dp_inr": 18999,
+        "bv": 10000,
+        "pack_size": null
+      }
+    ]
+  },
+  "compensation_plan": {
+    "joining_packages": [
+      {
+        "package": "Starter",
+        "price": "Rs 7,600",
+        "pv": "5000 PV"
+      },
+      {
+        "package": "Premium",
+        "price": "Rs 7,700",
+        "pv": "5000 PV"
+      }
+    ],
+    "shopping_package": {
+      "amount": "Rs 2,500 - Rs 3,000",
+      "bv_points": "1000 BV",
+      "benefits": "Discount on MRP, Free Product Voucher, 20% Product Offer, Accidental Insurance Rs 2 Lacs, Free telephonic doctor consultation"
+    },
+    "income_streams": [
+      {
+        "name": "Retail Profit",
+        "rate": "Up to 30% / 50%",
+        "description": "Difference between MRP and Distributor Price (DP)"
+      },
+      {
+        "name": "Binary Income (Matching)",
+        "rate": "10%",
+        "description": "Per pair = Rs 500; Daily capping Rs 2,500; Monthly capping Rs 75,000"
+      },
+      {
+        "name": "Mentorship Bonus",
+        "rate": "100% of binary",
+        "description": "On business matching incentive of directly sponsored distributors"
+      },
+      {
+        "name": "Generation Income (Repurchase)",
+        "rate": "Up to 30%",
+        "description": "Monthly repurchase based income"
+      },
+      {
+        "name": "Performance Incentive",
+        "rate": "5% - 21%",
+        "description": "5 levels based on accumulated BV"
+      },
+      {
+        "name": "Gold Director Bonus",
+        "rate": "5%",
+        "description": "On total monthly group BV"
+      },
+      {
+        "name": "Royalty Income",
+        "rate": "5%",
+        "description": "Gold Director to Gold Director"
+      },
+      {
+        "name": "Platinum Director Bonus",
+        "rate": "5%",
+        "description": "On company turnover; Criteria 7,50,000 BV"
+      },
+      {
+        "name": "Travel Fund",
+        "rate": "2%",
+        "description": "On company turnover for Platinum+"
+      },
+      {
+        "name": "Emerald VP Bonus",
+        "rate": "4%",
+        "description": "Criteria 30 Lakh BV"
+      },
+      {
+        "name": "Car Fund",
+        "rate": "2%",
+        "description": "For Emerald VP+"
+      },
+      {
+        "name": "Sapphire VP Bonus",
+        "rate": "3%",
+        "description": "Criteria 1 Crore BV"
+      },
+      {
+        "name": "House Fund",
+        "rate": "2%",
+        "description": "For Sapphire VP+"
+      },
+      {
+        "name": "Diamond President Bonus",
+        "rate": "3%",
+        "description": "Criteria 2.25 Crore BV"
+      },
+      {
+        "name": "Lifestyle Fund",
+        "rate": "2%",
+        "description": "For Diamond President+"
+      },
+      {
+        "name": "Retailer Club Bonus",
+        "rate": "3%",
+        "description": "Self purchase minimum 500 BV monthly"
+      }
+    ],
+    "performance_levels": [
+      {
+        "level": "Level 1",
+        "bv_range": "1 - 10,000 BV",
+        "rate": "5%"
+      },
+      {
+        "level": "Level 2",
+        "bv_range": "10,000 - 40,000 BV",
+        "rate": "9%"
+      },
+      {
+        "level": "Level 3",
+        "bv_range": "40,000 - 80,000 BV",
+        "rate": "13%"
+      },
+      {
+        "level": "Level 4",
+        "bv_range": "80,000 - 1,60,000 BV",
+        "rate": "17%"
+      },
+      {
+        "level": "Level 5 (Gold Director)",
+        "bv_range": "1,60,000+ BV",
+        "rate": "21%"
+      }
+    ],
+    "annual_rewards": [
+      {
+        "bv": "1.5 Lakh BV",
+        "reward": "Smartphone / Rs 10,000"
+      },
+      {
+        "bv": "5 Lakh BV",
+        "reward": "Laptop / Rs 30,000"
+      },
+      {
+        "bv": "10 Lakh BV",
+        "reward": "Two Wheeler / Rs 65,000"
+      },
+      {
+        "bv": "25 Lakh BV",
+        "reward": "Bullet / Rs 1,70,000"
+      },
+      {
+        "bv": "50 Lakh BV",
+        "reward": "Gold / Rs 3,50,000"
+      },
+      {
+        "bv": "1 Crore BV",
+        "reward": "Sedan Car / Rs 7 Lakh"
+      },
+      {
+        "bv": "3 Crore BV",
+        "reward": "Car / Rs 25 Lakh"
+      }
+    ],
+    "loyalty_bonus": [
+      {
+        "months": "5 consecutive months at Rs 3,000",
+        "benefit": "Free products worth average in 6th month"
+      },
+      {
+        "months": "5 consecutive months at Rs 4,000",
+        "benefit": "Free products worth average in 6th month"
+      },
+      {
+        "months": "5 consecutive months at Rs 5,000",
+        "benefit": "Free products worth average in 6th month"
+      },
+      {
+        "months": "5 consecutive months at Rs 6,000",
+        "benefit": "Free products worth average in 6th month"
+      }
+    ],
+    "monthly_repurchase_criteria": {
+      "Distributor": "250 BV",
+      "Gold Director": "1,000 BV",
+      "Platinum Director": "2,000 BV"
+    },
+    "point_ratio": "30:30:40",
+    "bv_to_rupee": "1 BV = Rs 2 (max)"
+  },
+  "business_summary": {
+    "model": "Hybrid Plan (Binary + Generation + Mentorship)",
+    "type": "Direct Selling / Network Marketing",
+    "registration": "Free Registration available",
+    "minimum_purchase": "Rs 2,500 - Rs 3,000 (1000 BV)",
+    "kyc": "1 KYC = 1 ID",
+    "payment_modes": [
+      "NEFT",
+      "IMPS",
+      "Cheque",
+      "Debit Card",
+      "Credit Card",
+      "UPI",
+      "Net Banking",
+      "PayTM"
+    ],
+    "payout_frequency": "Daily and Monthly",
+    "binary_structure": "2 Direct compulsory (1 Left, 1 Right); 2:1 or 1:2 then 1:1",
+    "key_selling_points": [
+      "Own manufacturing unit",
+      "Natural ingredients and Ayurveda-based",
+      "150+ daily use products",
+      "Presence in 24 states",
+      "1,000+ franchise outlets",
+      "Highest payout direct selling company claim",
+      "16+ income streams",
+      "Accidental insurance and free doctor consultation"
+    ]
+  },
+  "legal_info": {
+    "legal_name": "Dayjoy Marketing Private Limited",
+    "cin": "U52600RJ2018PTC062258",
+    "date_of_incorporation": "2018-09-17",
+    "company_category": "Company limited by shares",
+    "company_sub_category": "Non-government company",
+    "class": "Private",
+    "roc": "Registrar of Companies, Jaipur",
+    "last_agm": "30 Dec 2023",
+    "last_balance_sheet_filed": "2023-03-31",
+    "directors": [
+      "Shambhu Kumar Agrawal",
+      "Anmol Agarwal",
+      "Divyansh Agarwal"
+    ],
+    "email": "support@dayjoy.in",
+    "registered_address": "A-780 Indra Vihar, Kota, Rajasthan - 324005"
+  },
+  "digital_presence": {
+    "website": "https://dayjoy.in",
+    "android_app": "Dayjoy (Google Play)",
+    "ios_app": "Dayjoy Nepal (App Store)",
+    "instagram": "@dayjoy_india (2,751 followers)",
+    "facebook": "Dayjoy Private Limited (20,361 likes)",
+    "linkedin": "Dayjoy Marketing Private Limited (757 followers)",
+    "app_developer": "Divyansh Agarwal",
+    "app_email": "marketingdayjoy@gmail.com",
+    "app_phone": "+17737977776"
+  },
+  "faq": [
+    {
+      "question": "What is Dayjoy?",
+      "answer": "Dayjoy Marketing Private Limited is a wellness and direct selling company founded in 2018, based in Kota, Rajasthan, India. It offers health, beauty, personal care, food, home care, and agricultural products through a direct selling model."
+    },
+    {
+      "question": "Who founded Dayjoy?",
+      "answer": "Dayjoy is part of the Adila Group, which was founded by Shambhu Kumar Agarwal in 2009. Dayjoy Marketing Private Limited was incorporated in 2018 and is led by directors Anmol Agarwal and Divyansh Agarwal."
+    },
+    {
+      "question": "Where is Dayjoy headquartered?",
+      "answer": "Dayjoy's registered office is at A-780, Indra Vihar, Kota, Rajasthan - 324005, India."
+    },
+    {
+      "question": "What products does Dayjoy sell?",
+      "answer": "Dayjoy sells 150+ products across categories: Health Care (Asthprash, juices, tablets, teas), Personal Care (Wild Muse brand - face wash, shampoo, creams), Food Products (spices, oils), Home Care (cleaning products), Textiles, and Agriculture (Happy Grow)."
+    },
+    {
+      "question": "What is the Dayjoy business plan?",
+      "answer": "Dayjoy uses a Hybrid Compensation Plan combining Binary Income (10%), Generation Income, Mentorship Bonus, Performance Incentive (5-21%), and multiple rank-based bonuses including Gold Director, Platinum Director, Emerald VP, Sapphire VP, and Diamond President bonuses."
+    },
+    {
+      "question": "How do I join Dayjoy?",
+      "answer": "Registration is free. After registration, purchase products worth Rs 2,500-3,000 (1000 BV) to activate your account. Joining packages are Rs 7,600 or Rs 7,700 (5000 PV). Visit dayjoy.in to register."
+    },
+    {
+      "question": "What is the minimum purchase to start earning?",
+      "answer": "You need to shop for Rs 2,500-3,000 worth of products to earn 1000 BV points and start earning from the compensation plan."
+    },
+    {
+      "question": "What is BV in Dayjoy?",
+      "answer": "BV stands for Business Volume. It is the point value assigned to products. 1 BV = Rs 2 (max). BV is used to calculate all income and bonuses in the compensation plan."
+    },
+    {
+      "question": "How does the Binary Income work?",
+      "answer": "Binary Income is 10% matching. You need 2 direct referrals (1 left, 1 right). Per pair earns Rs 500. Daily capping is Rs 2,500 and monthly capping is Rs 75,000."
+    },
+    {
+      "question": "What are the ranks in Dayjoy?",
+      "answer": "Ranks from lowest to highest: Distributor, Gold Director (1,60,000+ BV), Platinum Director (7,50,000 BV), Emerald VP (30 Lakh BV), Sapphire VP (1 Crore BV), Diamond President (2.25 Crore BV)."
+    },
+    {
+      "question": "What is Asthprash?",
+      "answer": "Asthprash is Dayjoy's flagship health product - a herbal formulation (300g, Rs 2,999) that protects lungs from pollution and promotes respiratory health."
+    },
+    {
+      "question": "Is Dayjoy a legitimate company?",
+      "answer": "Yes, Dayjoy Marketing Private Limited is registered with the Ministry of Corporate Affairs (CIN: U52600RJ2018PTC062258), incorporated under the Companies Act 2013. It is an Active private limited company registered with ROC Jaipur."
+    },
+    {
+      "question": "How many states does Dayjoy operate in?",
+      "answer": "Dayjoy has a presence in 24 states across India with over 1,000 franchise outlets and 4 regional offices in Jharkhand, Odisha, Delhi, and Hyderabad."
+    },
+    {
+      "question": "What is the loyalty program?",
+      "answer": "If you purchase minimum Rs 3,000 worth of products every month for 5 consecutive months, you get free products worth your 5-month average in the 6th month. Amounts scale from Rs 3,000 to Rs 6,000 per month."
+    },
+    {
+      "question": "What is the parent company of Dayjoy?",
+      "answer": "Dayjoy operates under the Adila Group, founded by Shambhu Kumar Agarwal in August 2009. Adila Group is dedicated to creating world-class products."
+    },
+    {
+      "question": "What payment methods does Dayjoy accept?",
+      "answer": "NEFT, IMPS, Cheque, Debit Card, Credit Card, UPI, Net Banking, and PayTM."
+    },
+    {
+      "question": "How can I contact Dayjoy?",
+      "answer": "Email: support@dayjoy.in, Phone: +91 74120 34387, Website: dayjoy.in, Address: A-780, Indra Vihar, Kota, Rajasthan - 324005."
+    },
+    {
+      "question": "What is the Mentorship Bonus?",
+      "answer": "Mentorship Bonus is 100% of the Business Matching Incentive earned by your directly sponsored distributors. You must have personally referred 2 teams to qualify."
+    },
+    {
+      "question": "How many products does DayJoy sell in total?",
+      "answer": "As per the verified price list effective 5 May 2026, DayJoy sells 170 products/packages across 12 categories: Food Products, Personal Care, Skin Care, Color Cosmetics, Health Care, Home Care, Clothing, Agriculture & Veterinary, Germanium Magnetic, Aqua Essentials, Promotion Tools, and Combo Packages."
+    },
+    {
+      "question": "What is the price of Asthprash?",
+      "answer": "Asthprash (300 grams) has an MRP of Rs 2,999, Distributor Price (DP) of Rs 1,499, and carries 720 BV, as per the price list effective 5 May 2026."
+    },
+    {
+      "question": "What are the DayJoy combo/joining packages?",
+      "answer": "DayJoy offers 6 combo packages: Standard (MRP Rs 10,997 / DP Rs 5,499 / 2,500 BV, Direct Income Rs 250), Premium (MRP Rs 17,592 / DP Rs 10,499 / 5,000 BV, Direct Income Rs 500), Elite (MRP Rs 28,286 / DP Rs 15,999 / 7,500 BV, Direct Income Rs 750), Agri Pro, Agri Starter, and Legend."
+    },
+    {
+      "question": "What is DP in DayJoy pricing?",
+      "answer": "DP stands for Distributor Price - the price at which a DayJoy distributor purchases a product, which is lower than the MRP (Maximum Retail Price)."
+    },
+    {
+      "question": "Does DayJoy sell aqua/water products?",
+      "answer": "Yes. DayJoy's Aqua Essentials category includes Aqua Energiser (Single and Pack of 3), Perfect-Ion water ionizer devices, Perfect-Ion Testing Solutions, and N-SF 9.5/10.5 Mineralisers."
+    },
+    {
+      "question": "Does DayJoy sell agriculture products?",
+      "answer": "Yes, under Agriculture & Veterinary: Happy Soil-Humic, Nano Tech-19/46/50/52, Prosperous (liquid and tablets), Joy-O-Zyme, JoySpread 80 Gold, JoyGrow 2X Granules, JoyProtect, and JoyCalcium."
+    },
+    {
+      "question": "What skin care products does DayJoy offer?",
+      "answer": "DayJoy's Skin Care range includes Face Serum, Gold Facial Kit, Sunscreen SPF 50, Hydra Max Moisturizer, AgeX Anti-Ageing Night Cream, and AcneX Anti-Acne Foaming Cleanser."
+    },
+    {
+      "question": "Does DayJoy have magnetic therapy products?",
+      "answer": "Yes, DayJoy sells the Bio-Germanium Magnetic Mattress (Single, MRP Rs 15,000; and Pack of 2, MRP Rs 30,000) under the Germanium Magnetic category."
+    },
+    {
+      "question": "What is the BV of the Standard joining package?",
+      "answer": "The Standard Package carries 2,500 BV with an MRP of Rs 10,997 and DP of Rs 5,499, plus Rs 250 direct income on introduction."
+    },
+    {
+      "question": "Are DayJoy prices inclusive of tax?",
+      "answer": "Yes, per the official price list effective 5 May 2026, all listed MRP and DP figures are inclusive of tax."
+    }
+  ],
+  "product_catalog_meta": {
+    "total_products": 170,
+    "source_file": "India-BV-Price-May-2026.pdf",
+    "effective_date": "2026-05-05",
+    "currency": "INR",
+    "note": "Prices inclusive of tax. PV, ingredients, dosage, warnings not available in this source."
+  },
+  "combo_packages": [
+    {
+      "package": "STANDARD PACKAGE",
+      "mrp": 10997,
+      "dp": 5499,
+      "bv": 2500,
+      "direct_income": "Rs 250"
+    },
+    {
+      "package": "PREMIUM PACKAGE",
+      "mrp": 17592,
+      "dp": 10499,
+      "bv": 5000,
+      "direct_income": "Rs 500"
+    },
+    {
+      "package": "ELITE PACKAGE",
+      "mrp": 28286,
+      "dp": 15999,
+      "bv": 7500,
+      "direct_income": "Rs 750"
+    },
+    {
+      "package": "AGRI PRO PACKAGE",
+      "mrp": 29076,
+      "dp": 22650,
+      "bv": 10000,
+      "direct_income": null
+    },
+    {
+      "package": "AGRI STARTER PACKAGE",
+      "mrp": 15587,
+      "dp": 11499,
+      "bv": 5000,
+      "direct_income": null
+    },
+    {
+      "package": "LEGEND PACKAGE",
+      "mrp": 27687,
+      "dp": 18999,
+      "bv": 10000,
+      "direct_income": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+1000,1,DJP1000,DJ-FOO-0001,What is Black Salt Sprinkler (200g)?,"Black Salt Sprinkler (200g) is a product under the FOOD PRODUCTS category, offered by the brand Aayushmaan / YumDum / Total Joy.",general_info,1,Various Documents,N/A,medium
+1001,1,DJP1000,DJ-FOO-0001,What is the price and business volume (BV) for Black Salt Sprinkler (200g)?,"The MRP is ₹59.0, Distributor Price (DP) is ₹49.0, and the Business Volume (BV) is 10.0.",pricing,2,Various Documents,N/A,high
+1002,1,DJP1000,DJ-FOO-0001,Who should use this?,"Anyone looking for premium, wholesome food and spice products to enhance their daily meals.",usage,3,Various Documents,N/A,medium
+1003,1,DJP1000,DJ-FOO-0001,Is this product organic?,"Aayushmaan and YumDum products emphasize pure, authentic ingredients. Please check the specific packaging for organic certification.",general_info,4,Various Documents,N/A,medium
+1004,1,DJP1000,DJ-FOO-0001,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+1005,1,DJP1000,DJ-FOO-0001,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+1006,1,DJP1000,DJ-FOO-0001,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+1007,1,DJP1000,DJ-FOO-0001,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+1008,1,DJP1000,DJ-FOO-0001,How does it compare to other FOOD PRODUCTS products?,This product is uniquely formulated under the Aayushmaan / YumDum / Total Joy brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+1009,1,DJP1000,DJ-FOO-0001,What is the pack size?,This specific item comes in a 200g pack size.,dosage,10,Various Documents,N/A,medium
+1010,1,DJP1000,DJ-FOO-0001,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

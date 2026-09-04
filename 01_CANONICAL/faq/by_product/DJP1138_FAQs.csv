@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+2518,139,DJP1138,DJ-AQU-0139,What is Aqua Energiser (Pack of 3)?,"Aqua Energiser (Pack of 3) is a product under the AQUA ESSENTIALS category, offered by the brand Dayjoy.",general_info,1,Various Documents,N/A,medium
+2519,139,DJP1138,DJ-AQU-0139,What is the price and business volume (BV) for Aqua Energiser (Pack of 3)?,"The MRP is ₹9000.0, Distributor Price (DP) is ₹5499.0, and the Business Volume (BV) is 2500.0.",pricing,2,Various Documents,N/A,high
+2520,139,DJP1138,DJ-AQU-0139,Who should use this?,Consumers interested in AQUA ESSENTIALS solutions provided by Dayjoy.,usage,3,Various Documents,N/A,medium
+2521,139,DJP1138,DJ-AQU-0139,Are there specific usage instructions?,Please refer to the product packaging for detailed usage and assembly instructions.,safety,4,Various Documents,N/A,medium
+2522,139,DJP1138,DJ-AQU-0139,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+2523,139,DJP1138,DJ-AQU-0139,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+2524,139,DJP1138,DJ-AQU-0139,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+2525,139,DJP1138,DJ-AQU-0139,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+2526,139,DJP1138,DJ-AQU-0139,How does it compare to other AQUA ESSENTIALS products?,This product is uniquely formulated under the Dayjoy brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+2527,139,DJP1138,DJ-AQU-0139,What is the pack size?,This specific item comes in a Pack of 3 pack size.,dosage,10,Various Documents,N/A,medium
+2528,139,DJP1138,DJ-AQU-0139,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

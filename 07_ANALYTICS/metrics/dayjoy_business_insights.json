@@ -1,0 +1,1267 @@
+{
+  "best_selling_products": [
+    {
+      "product_name": "Regain Aloevera Shampoo (300ml)",
+      "mention_count": 23,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Seabuckthron Cleanser (30g)",
+      "mention_count": 18,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Nano Tech-52 (500ml)",
+      "mention_count": 17,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Shilajit Gummies (60 Gummies)",
+      "mention_count": 17,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Vital Protein Powder (300gm)",
+      "mention_count": 17,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Seabuckthron Face Pack (30g)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Hydra Aloevera Body Lotion (300ml)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Perfect-Ion Testing Solutions",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "New Dayjoy Product Brochure (English)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "T-shirt New Design (L, M, XL)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Milk Bath Soap (Pack of 3) (100g)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Mirchi Powder (500g)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Premium Suit Length (Black)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Dayjoy Backpack Bag",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "WildMuse Premium Loofah",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Nano Tech-19 (500ml)",
+      "mention_count": 16,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Dhaniya Powder (25g)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Anti Pollution Aloevera Face Wash (100ml)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Adicardial Syrup (500ml)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Seabuckthron Facial Fluid (10ml)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Premium Tulsi Max (30ml)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Amla Reetha Sikakai Shampoo (100ml)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Adicardial (120 Tab)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "JoySpread 80+ Gold (100ml)",
+      "mention_count": 15,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    },
+    {
+      "product_name": "Dayjoy Cap",
+      "mention_count": 14,
+      "insight_type": "best_selling_proxy",
+      "basis": "Ranked by frequency of product mentions across unified corpus; proxy only, not actual sales."
+    }
+  ],
+  "popular_categories": [
+    {
+      "category": "faq",
+      "mention_count": 1884,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "informational",
+      "mention_count": 1073,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "recommendation",
+      "mention_count": 908,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "health-condition",
+      "mention_count": 761,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "pricing",
+      "mention_count": 632,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "policy",
+      "mention_count": 388,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "transactional",
+      "mention_count": 253,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "business",
+      "mention_count": 131,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "compliance",
+      "mention_count": 99,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "comparison",
+      "mention_count": 88,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    },
+    {
+      "category": "company",
+      "mention_count": 86,
+      "insight_type": "popular_category_proxy",
+      "basis": "Ranked by frequency of category mentions across unified corpus; proxy only."
+    }
+  ],
+  "income_opportunities": [
+    {
+      "source_section": "pricing",
+      "supporting_chunks": 632,
+      "insight_type": "income_opportunity",
+      "basis": "Derived from joining/business/BV/pricing-related chunks in the corpus."
+    },
+    {
+      "source_section": "business",
+      "supporting_chunks": 131,
+      "insight_type": "income_opportunity",
+      "basis": "Derived from joining/business/BV/pricing-related chunks in the corpus."
+    }
+  ],
+  "seasonal_products": [
+    {
+      "product_name": "Astheal Cough Syrup (100ml)",
+      "seasonal_mentions": 11,
+      "insight_type": "seasonal_product_proxy",
+      "basis": "Detected by seasonal keywords in chunk text; proxy only."
+    }
+  ],
+  "high_margin_products": [
+    {
+      "product_name": "Regain Aloevera Shampoo (300ml)",
+      "pricing_signal_count": 23,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Cleanser (30g)",
+      "pricing_signal_count": 18,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Nano Tech-52 (500ml)",
+      "pricing_signal_count": 17,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Shilajit Gummies (60 Gummies)",
+      "pricing_signal_count": 17,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Vital Protein Powder (300gm)",
+      "pricing_signal_count": 17,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Face Pack (30g)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Hydra Aloevera Body Lotion (300ml)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Perfect-Ion Testing Solutions",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "New Dayjoy Product Brochure (English)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "T-shirt New Design (L, M, XL)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Milk Bath Soap (Pack of 3) (100g)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Mirchi Powder (500g)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Premium Suit Length (Black)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Backpack Bag",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "WildMuse Premium Loofah",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Nano Tech-19 (500ml)",
+      "pricing_signal_count": 16,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dhaniya Powder (25g)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Anti Pollution Aloevera Face Wash (100ml)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adicardial Syrup (500ml)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Facial Fluid (10ml)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Premium Tulsi Max (30ml)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Amla Reetha Sikakai Shampoo (100ml)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adicardial (120 Tab)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "JoySpread 80+ Gold (100ml)",
+      "pricing_signal_count": 15,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Cap",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Car Sticker",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Luxury Saffron Soap (100g)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Liv-Ease (500ml)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Haldi Powder (25g)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "BR Rich Oil (200ml)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adilipo (120 Tab)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Eye Health++ (60 Capsules)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Rai (250g)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "ELITE PACKAGE",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Kesham (100ml)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Nano Tech-46 (500ml)",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Diary",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Advanced Calcium Tablets",
+      "pricing_signal_count": 14,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Kidney Kawach (300 g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Himalayan Pink Salt Sprinkler (200g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Nonima (500ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Black Salt Sprinkler (200g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Organic Jeera (250g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Astheal Cough Syrup (100ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Prosperous+ (1 L)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "JuniorJoy - Kids Nutritional Drink (300g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Kahwa Masala Chai (25 Pcs)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Designer Mask (Pack of 5)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Multivitamins Tablets",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "N-SF 9.5 Mineraliser",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "N-astheal (120 Tab)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "GoPiles Syrup (500ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "HB+ (200ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Marine Collagen (200g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Pin",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Garam Masala (100g)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dishwash Liquid Gel (500ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Ecofriendly Toothbrush (Pack of 2)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Total Joy Rice Bran Oil (2 Litre)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "All in 1 Surface Cleaner (500ml)",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Amara Beauty Eyeliner",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Amara Beauty Kajal",
+      "pricing_signal_count": 13,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "AgeX Anti-Ageing Night Cream (50gm)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Aloevera with Guava Juice (1L)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Veg Biryani with Shahi Gravy",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "AcneX Anti-Acne Foaming Cleanser (100ml)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Shatavari Extract (60 Veg Capsules)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dhaniya Powder (500g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Di-beat (60 Tab)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Gas-O-Free (200ml)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "N-astheal (60 Tab)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Nano Tech-50 (500ml)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Deep Cleansing Facewash (60ml)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Milk Bath Soap (100g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Omega 3-6-9",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Mug",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Haldi Powder (500g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "HerboSmile Herbal Toothpaste (100g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "L-Arginine++ - Energy Drink (100g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Liquid Detergent (1Ltr.)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Liv-Ease (200ml)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Daily Tea (250g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Neem & Tulsi Herbal Soap (100g) (Pack of 3)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "New Dayjoy Product Brochure (Telugu)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Quick 6 Pain Relief Gel (30g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Asthprash (300 grams)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Sanitary Pad (XL) (Pack of 10)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Product Leaflets (Set of 48 Leaflets)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Hindi One-Page Compensation Plan (Set of 25 Leaflets)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Jaljeera (100g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Scrub (30g)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adilipo (60 Tab)",
+      "pricing_signal_count": 12,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Sunscreen SPF 50+ (50gm)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Massage Gel (30g)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Haldi Powder (200g)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Hindi One-Page Compensation Plan (Set of 50 Leaflets)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Hydra Max Moisturizer (50gm)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "LEGEND PACKAGE",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Luxwash Handwash (250ml)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Happy Soil - Humic (500ml)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Aloevera Gel (100g)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Aqua Energiser (Single)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Chaat Masala (100g)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Poha with Bhujia",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "PREMIUM PACKAGE",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "New Total Joy Rice Bran Oil (1 Litre)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Bio-Germanium & Magnetic Mattress (Pack of 2)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Eye Elixir Drops (10ml)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Deep Cleansing Face Wash (100ml)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Face Serum (30ml)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Massage Cream (30g)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adila Forte (60 Tab)",
+      "pricing_signal_count": 11,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Prosperous+ Tablets",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Business Planner Book (English)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Joy-O-Zyme (500ml)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Apple Cider Vinegar (3X20 Tablets)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Haldi Chandan Facewash (60ml)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Hi-Energy (60 Tab)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Ample Meal - Meal Replacement Nutritional Shake (500g)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "AGRI PRO PACKAGE",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Orthofix Oil (100ml)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "New Dayjoy Product Brochure (Hindi)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Necktie",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "N-SF 10.5 Mineraliser",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Giloe Extract (60 Veg Capsules)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "GoPiles (60 Tab)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Facial Kit (30g) (Pack of 6)",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Upma with Bhujia",
+      "pricing_signal_count": 10,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Amla Extract (60 Veg Capsules)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "JoyCalcium (2 Litre)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Mirchi Powder (200g)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "HB+ (500ml)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Mirchi Powder (25g)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Gas-O-Free (500ml)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Aqua Energiser (Pack of 3)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Perfect-Ion Leaflets (Set of 25)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Perfect-Ion Leaflets (Set of 50)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Seabuckthron Juice (1 Ltr.)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Super Food Capsule",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Toilet Bowl Cleaner (500ml)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "JoyProtect (500ml)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "JoySpread 80+ Gold (250ml)",
+      "pricing_signal_count": 9,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Super Rich Berry Juice (1 Ltr.)",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Leather Bag",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Arogya Churn (100g)",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "AGRI STARTER PACKAGE",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "STANDARD PACKAGE",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adila Forte (30 Tab)",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Anti Pollution Face Wash (150ml)",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Ashvagandha Extract (60 Veg Capsules)",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Sandalwood & Shahi Gulab Body Lotion (150ml)",
+      "pricing_signal_count": 8,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "New Perfect-Ion",
+      "pricing_signal_count": 7,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Kasuri Methi (50g)",
+      "pricing_signal_count": 7,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Gold Facial Kit",
+      "pricing_signal_count": 7,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "English One-Page Compensation Plan (Set of 50 Leaflets)",
+      "pricing_signal_count": 7,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Business Planner Book (Hindi)",
+      "pricing_signal_count": 7,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Bio-Germanium & Magnetic Mattress",
+      "pricing_signal_count": 7,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Adiliv (60 Tab)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "JoyGrow 2X (Granules) (2kg)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dayjoy Bike Sticker",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Daily Care Cream (60g)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Dhaniya Powder (200g)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Milk & Keratin Extracts Shampoo (100ml)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Sabji Masala (100g)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "English One-Page Compensation Plan (Set of 25 Leaflets)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Sanitary Pad (XXL) (Pack of 10)",
+      "pricing_signal_count": 6,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Daily Tea (500g)",
+      "pricing_signal_count": 5,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Chicken Masala (100g)",
+      "pricing_signal_count": 5,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    },
+    {
+      "product_name": "Orthofix (60 Tab)",
+      "pricing_signal_count": 5,
+      "insight_type": "high_margin_proxy",
+      "basis": "Proxy based on pricing/BV-related mentions due to lack of cost/margin table."
+    }
+  ],
+  "method_note": "These are proxy business insights derived from document and query mention frequencies in the unified Dayjoy corpus. They are not transaction-confirmed sales or margin calculations."
+}

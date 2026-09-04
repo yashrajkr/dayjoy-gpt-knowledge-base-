@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+1638,59,DJP1058,DJ-SKI-0059,What is Gold Facial Kit?,"Gold Facial Kit is a product under the SKIN CARE category, offered by the brand Amara Beauty.",general_info,1,Various Documents,N/A,medium
+1639,59,DJP1058,DJ-SKI-0059,What is the price and business volume (BV) for Gold Facial Kit?,"The MRP is ₹449.0, Distributor Price (DP) is ₹310.0, and the Business Volume (BV) is 100.0.",pricing,2,Various Documents,N/A,high
+1640,59,DJP1058,DJ-SKI-0059,Who is this suitable for?,"Suitable for anyone looking for natural, high-quality personal care products. Always perform a patch test if you have sensitive skin.",usage,3,Various Documents,N/A,medium
+1641,59,DJP1058,DJ-SKI-0059,Is this safe for sensitive skin?,"While made with natural-inspired ingredients, please consult the ingredient list or perform a patch test to ensure it is suitable for your skin.",safety,4,Various Documents,N/A,medium
+1642,59,DJP1058,DJ-SKI-0059,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+1643,59,DJP1058,DJ-SKI-0059,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+1644,59,DJP1058,DJ-SKI-0059,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+1645,59,DJP1058,DJ-SKI-0059,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+1646,59,DJP1058,DJ-SKI-0059,How does it compare to other SKIN CARE products?,This product is uniquely formulated under the Amara Beauty brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+1647,59,DJP1058,DJ-SKI-0059,What is the pack size?,This specific item comes in a nan pack size.,dosage,10,Various Documents,N/A,medium
+1648,59,DJP1058,DJ-SKI-0059,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

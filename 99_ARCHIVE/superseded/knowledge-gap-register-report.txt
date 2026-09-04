@@ -1,0 +1,17 @@
+Dayjoy Phase 2 Gap Register
+
+Total gaps: 826
+Missing: 541
+Needs review: 285
+P1: 355
+P2: 471
+Unique products impacted: 170
+
+Top gap fields:
+field_name
+contraindications    170
+dosage               170
+ingredients          170
+shelf_life           170
+target_customer      131
+warnings              15

@@ -1,0 +1,14 @@
+Company_Research.md
+02_Business_Model.md
+03_Product_Research.md
+04_Distributor_System.md
+05_Policies.md
+06_FAQs.md
+07_Customer_Journey.md
+08_Business_Processes.md
+09_Competitor_Analysis.md
+10_Pain_Points.md
+11_AI_Opportunities.md
+12_Research_Gap_Analysis.md
+
+Missing: Company_Research.md, 02_Business_Model.md, 03_Product_Research.md, 04_Distributor_System.md, 05_Policies.md, 06_FAQs.md, 07_Customer_Journey.md, 08_Business_Processes.md, 09_Competitor_Analysis.md, 10_Pain_Points.md, 11_AI_Opportunities.md, 12_Research_Gap_Analysis.md

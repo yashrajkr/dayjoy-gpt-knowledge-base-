@@ -1,0 +1,883 @@
+chunk_id,document_id,source_page,product_code,sku,category,role_scope,risk_level,confidence,effective_from,approval_status,chunk_type
+product_core::DJP1000::DJ-FOO-0001,dayjoy-canonical-product-master-final,,DJP1000,DJ-FOO-0001,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1000::DJ-FOO-0001,India-BV-Price-May-2026,,DJP1000,DJ-FOO-0001,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1001::DJ-FOO-0002,dayjoy-canonical-product-master-final,,DJP1001,DJ-FOO-0002,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1001::DJ-FOO-0002,India-BV-Price-May-2026,,DJP1001,DJ-FOO-0002,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1002::DJ-FOO-0003,dayjoy-canonical-product-master-final,,DJP1002,DJ-FOO-0003,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1002::DJ-FOO-0003,India-BV-Price-May-2026,,DJP1002,DJ-FOO-0003,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1003::DJ-FOO-0004,dayjoy-canonical-product-master-final,,DJP1003,DJ-FOO-0004,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1003::DJ-FOO-0004,India-BV-Price-May-2026,,DJP1003,DJ-FOO-0004,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1004::DJ-FOO-0005,dayjoy-canonical-product-master-final,,DJP1004,DJ-FOO-0005,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1004::DJ-FOO-0005,India-BV-Price-May-2026,,DJP1004,DJ-FOO-0005,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1005::DJ-FOO-0006,dayjoy-canonical-product-master-final,,DJP1005,DJ-FOO-0006,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1005::DJ-FOO-0006,India-BV-Price-May-2026,,DJP1005,DJ-FOO-0006,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1006::DJ-FOO-0007,dayjoy-canonical-product-master-final,,DJP1006,DJ-FOO-0007,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1006::DJ-FOO-0007,India-BV-Price-May-2026,,DJP1006,DJ-FOO-0007,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1007::DJ-FOO-0008,dayjoy-canonical-product-master-final,,DJP1007,DJ-FOO-0008,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1007::DJ-FOO-0008,India-BV-Price-May-2026,,DJP1007,DJ-FOO-0008,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1008::DJ-FOO-0009,dayjoy-canonical-product-master-final,,DJP1008,DJ-FOO-0009,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1008::DJ-FOO-0009,India-BV-Price-May-2026,,DJP1008,DJ-FOO-0009,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1009::DJ-FOO-0010,dayjoy-canonical-product-master-final,,DJP1009,DJ-FOO-0010,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1009::DJ-FOO-0010,India-BV-Price-May-2026,,DJP1009,DJ-FOO-0010,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1010::DJ-FOO-0011,dayjoy-canonical-product-master-final,,DJP1010,DJ-FOO-0011,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1010::DJ-FOO-0011,India-BV-Price-May-2026,,DJP1010,DJ-FOO-0011,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1011::DJ-FOO-0012,dayjoy-canonical-product-master-final,,DJP1011,DJ-FOO-0012,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1011::DJ-FOO-0012,India-BV-Price-May-2026,,DJP1011,DJ-FOO-0012,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1012::DJ-FOO-0013,dayjoy-canonical-product-master-final,,DJP1012,DJ-FOO-0013,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1012::DJ-FOO-0013,India-BV-Price-May-2026,,DJP1012,DJ-FOO-0013,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1013::DJ-FOO-0014,dayjoy-canonical-product-master-final,,DJP1013,DJ-FOO-0014,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1013::DJ-FOO-0014,India-BV-Price-May-2026,,DJP1013,DJ-FOO-0014,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1014::DJ-FOO-0015,dayjoy-canonical-product-master-final,,DJP1014,DJ-FOO-0015,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1014::DJ-FOO-0015,India-BV-Price-May-2026,,DJP1014,DJ-FOO-0015,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1015::DJ-FOO-0016,dayjoy-canonical-product-master-final,,DJP1015,DJ-FOO-0016,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1015::DJ-FOO-0016,India-BV-Price-May-2026,,DJP1015,DJ-FOO-0016,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1016::DJ-FOO-0017,dayjoy-canonical-product-master-final,,DJP1016,DJ-FOO-0017,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1016::DJ-FOO-0017,India-BV-Price-May-2026,,DJP1016,DJ-FOO-0017,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1017::DJ-FOO-0018,dayjoy-canonical-product-master-final,,DJP1017,DJ-FOO-0018,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1017::DJ-FOO-0018,India-BV-Price-May-2026,,DJP1017,DJ-FOO-0018,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1018::DJ-FOO-0019,dayjoy-canonical-product-master-final,,DJP1018,DJ-FOO-0019,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1018::DJ-FOO-0019,India-BV-Price-May-2026,,DJP1018,DJ-FOO-0019,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1019::DJ-FOO-0020,dayjoy-canonical-product-master-final,,DJP1019,DJ-FOO-0020,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1019::DJ-FOO-0020,India-BV-Price-May-2026,,DJP1019,DJ-FOO-0020,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1020::DJ-FOO-0021,dayjoy-canonical-product-master-final,,DJP1020,DJ-FOO-0021,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1020::DJ-FOO-0021,India-BV-Price-May-2026,,DJP1020,DJ-FOO-0021,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1021::DJ-FOO-0022,dayjoy-canonical-product-master-final,,DJP1021,DJ-FOO-0022,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1021::DJ-FOO-0022,India-BV-Price-May-2026,,DJP1021,DJ-FOO-0022,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1022::DJ-FOO-0023,dayjoy-canonical-product-master-final,,DJP1022,DJ-FOO-0023,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1022::DJ-FOO-0023,India-BV-Price-May-2026,,DJP1022,DJ-FOO-0023,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1023::DJ-FOO-0024,dayjoy-canonical-product-master-final,,DJP1023,DJ-FOO-0024,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1023::DJ-FOO-0024,India-BV-Price-May-2026,,DJP1023,DJ-FOO-0024,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1024::DJ-FOO-0025,dayjoy-canonical-product-master-final,,DJP1024,DJ-FOO-0025,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1024::DJ-FOO-0025,India-BV-Price-May-2026,,DJP1024,DJ-FOO-0025,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1025::DJ-FOO-0026,dayjoy-canonical-product-master-final,,DJP1025,DJ-FOO-0026,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1025::DJ-FOO-0026,India-BV-Price-May-2026,,DJP1025,DJ-FOO-0026,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1026::DJ-PER-0027,dayjoy-canonical-product-master-final,,DJP1026,DJ-PER-0027,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1026::DJ-PER-0027,India-BV-Price-May-2026,,DJP1026,DJ-PER-0027,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1027::DJ-PER-0028,dayjoy-canonical-product-master-final,,DJP1027,DJ-PER-0028,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1027::DJ-PER-0028,India-BV-Price-May-2026,,DJP1027,DJ-PER-0028,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1028::DJ-PER-0029,dayjoy-canonical-product-master-final,,DJP1028,DJ-PER-0029,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1028::DJ-PER-0029,India-BV-Price-May-2026,,DJP1028,DJ-PER-0029,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1029::DJ-PER-0030,dayjoy-canonical-product-master-final,,DJP1029,DJ-PER-0030,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1029::DJ-PER-0030,India-BV-Price-May-2026,,DJP1029,DJ-PER-0030,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1030::DJ-PER-0031,dayjoy-canonical-product-master-final,,DJP1030,DJ-PER-0031,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1030::DJ-PER-0031,India-BV-Price-May-2026,,DJP1030,DJ-PER-0031,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1031::DJ-PER-0032,dayjoy-canonical-product-master-final,,DJP1031,DJ-PER-0032,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1031::DJ-PER-0032,India-BV-Price-May-2026,,DJP1031,DJ-PER-0032,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1032::DJ-PER-0033,dayjoy-canonical-product-master-final,,DJP1032,DJ-PER-0033,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1032::DJ-PER-0033,India-BV-Price-May-2026,,DJP1032,DJ-PER-0033,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1033::DJ-PER-0034,dayjoy-canonical-product-master-final,,DJP1033,DJ-PER-0034,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1033::DJ-PER-0034,India-BV-Price-May-2026,,DJP1033,DJ-PER-0034,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1034::DJ-PER-0035,dayjoy-canonical-product-master-final,,DJP1034,DJ-PER-0035,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1034::DJ-PER-0035,India-BV-Price-May-2026,,DJP1034,DJ-PER-0035,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1035::DJ-PER-0036,dayjoy-canonical-product-master-final,,DJP1035,DJ-PER-0036,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1035::DJ-PER-0036,India-BV-Price-May-2026,,DJP1035,DJ-PER-0036,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1036::DJ-PER-0037,dayjoy-canonical-product-master-final,,DJP1036,DJ-PER-0037,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1036::DJ-PER-0037,India-BV-Price-May-2026,,DJP1036,DJ-PER-0037,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1037::DJ-PER-0038,dayjoy-canonical-product-master-final,,DJP1037,DJ-PER-0038,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1037::DJ-PER-0038,India-BV-Price-May-2026,,DJP1037,DJ-PER-0038,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1038::DJ-PER-0039,dayjoy-canonical-product-master-final,,DJP1038,DJ-PER-0039,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1038::DJ-PER-0039,India-BV-Price-May-2026,,DJP1038,DJ-PER-0039,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1039::DJ-PER-0040,dayjoy-canonical-product-master-final,,DJP1039,DJ-PER-0040,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1039::DJ-PER-0040,India-BV-Price-May-2026,,DJP1039,DJ-PER-0040,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1040::DJ-PER-0041,dayjoy-canonical-product-master-final,,DJP1040,DJ-PER-0041,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1040::DJ-PER-0041,India-BV-Price-May-2026,,DJP1040,DJ-PER-0041,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1041::DJ-PER-0042,dayjoy-canonical-product-master-final,,DJP1041,DJ-PER-0042,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1041::DJ-PER-0042,India-BV-Price-May-2026,,DJP1041,DJ-PER-0042,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1042::DJ-PER-0043,dayjoy-canonical-product-master-final,,DJP1042,DJ-PER-0043,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1042::DJ-PER-0043,India-BV-Price-May-2026,,DJP1042,DJ-PER-0043,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1043::DJ-PER-0044,dayjoy-canonical-product-master-final,,DJP1043,DJ-PER-0044,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1043::DJ-PER-0044,India-BV-Price-May-2026,,DJP1043,DJ-PER-0044,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1044::DJ-PER-0045,dayjoy-canonical-product-master-final,,DJP1044,DJ-PER-0045,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1044::DJ-PER-0045,India-BV-Price-May-2026,,DJP1044,DJ-PER-0045,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1045::DJ-PER-0046,dayjoy-canonical-product-master-final,,DJP1045,DJ-PER-0046,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1045::DJ-PER-0046,India-BV-Price-May-2026,,DJP1045,DJ-PER-0046,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1046::DJ-PER-0047,dayjoy-canonical-product-master-final,,DJP1046,DJ-PER-0047,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1046::DJ-PER-0047,India-BV-Price-May-2026,,DJP1046,DJ-PER-0047,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1047::DJ-PER-0048,dayjoy-canonical-product-master-final,,DJP1047,DJ-PER-0048,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1047::DJ-PER-0048,India-BV-Price-May-2026,,DJP1047,DJ-PER-0048,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1048::DJ-PER-0049,dayjoy-canonical-product-master-final,,DJP1048,DJ-PER-0049,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1048::DJ-PER-0049,India-BV-Price-May-2026,,DJP1048,DJ-PER-0049,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1049::DJ-PER-0050,dayjoy-canonical-product-master-final,,DJP1049,DJ-PER-0050,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1049::DJ-PER-0050,India-BV-Price-May-2026,,DJP1049,DJ-PER-0050,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1050::DJ-PER-0051,dayjoy-canonical-product-master-final,,DJP1050,DJ-PER-0051,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1050::DJ-PER-0051,India-BV-Price-May-2026,,DJP1050,DJ-PER-0051,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1051::DJ-PER-0052,dayjoy-canonical-product-master-final,,DJP1051,DJ-PER-0052,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1051::DJ-PER-0052,India-BV-Price-May-2026,,DJP1051,DJ-PER-0052,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1052::DJ-PER-0053,dayjoy-canonical-product-master-final,,DJP1052,DJ-PER-0053,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1052::DJ-PER-0053,India-BV-Price-May-2026,,DJP1052,DJ-PER-0053,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1053::DJ-PER-0054,dayjoy-canonical-product-master-final,,DJP1053,DJ-PER-0054,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1053::DJ-PER-0054,India-BV-Price-May-2026,,DJP1053,DJ-PER-0054,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1054::DJ-PER-0055,dayjoy-canonical-product-master-final,,DJP1054,DJ-PER-0055,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1054::DJ-PER-0055,India-BV-Price-May-2026,,DJP1054,DJ-PER-0055,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1055::DJ-PER-0056,dayjoy-canonical-product-master-final,,DJP1055,DJ-PER-0056,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1055::DJ-PER-0056,India-BV-Price-May-2026,,DJP1055,DJ-PER-0056,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1056::DJ-PER-0057,dayjoy-canonical-product-master-final,,DJP1056,DJ-PER-0057,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1056::DJ-PER-0057,India-BV-Price-May-2026,,DJP1056,DJ-PER-0057,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1057::DJ-SKI-0058,dayjoy-canonical-product-master-final,,DJP1057,DJ-SKI-0058,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1057::DJ-SKI-0058,India-BV-Price-May-2026,,DJP1057,DJ-SKI-0058,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1058::DJ-SKI-0059,dayjoy-canonical-product-master-final,,DJP1058,DJ-SKI-0059,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1058::DJ-SKI-0059,India-BV-Price-May-2026,,DJP1058,DJ-SKI-0059,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1059::DJ-SKI-0060,dayjoy-canonical-product-master-final,,DJP1059,DJ-SKI-0060,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1059::DJ-SKI-0060,India-BV-Price-May-2026,,DJP1059,DJ-SKI-0060,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1060::DJ-SKI-0061,dayjoy-canonical-product-master-final,,DJP1060,DJ-SKI-0061,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1060::DJ-SKI-0061,India-BV-Price-May-2026,,DJP1060,DJ-SKI-0061,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1061::DJ-SKI-0062,dayjoy-canonical-product-master-final,,DJP1061,DJ-SKI-0062,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1061::DJ-SKI-0062,India-BV-Price-May-2026,,DJP1061,DJ-SKI-0062,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1062::DJ-SKI-0063,dayjoy-canonical-product-master-final,,DJP1062,DJ-SKI-0063,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1062::DJ-SKI-0063,India-BV-Price-May-2026,,DJP1062,DJ-SKI-0063,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1063::DJ-COL-0064,dayjoy-canonical-product-master-final,,DJP1063,DJ-COL-0064,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1063::DJ-COL-0064,India-BV-Price-May-2026,,DJP1063,DJ-COL-0064,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1064::DJ-COL-0065,dayjoy-canonical-product-master-final,,DJP1064,DJ-COL-0065,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1064::DJ-COL-0065,India-BV-Price-May-2026,,DJP1064,DJ-COL-0065,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1065::DJ-HEA-0066,dayjoy-canonical-product-master-final,,DJP1065,DJ-HEA-0066,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1065::DJ-HEA-0066,India-BV-Price-May-2026,,DJP1065,DJ-HEA-0066,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1066::DJ-HEA-0067,dayjoy-canonical-product-master-final,,DJP1066,DJ-HEA-0067,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1066::DJ-HEA-0067,India-BV-Price-May-2026,,DJP1066,DJ-HEA-0067,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1067::DJ-HEA-0068,dayjoy-canonical-product-master-final,,DJP1067,DJ-HEA-0068,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1067::DJ-HEA-0068,India-BV-Price-May-2026,,DJP1067,DJ-HEA-0068,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1068::DJ-HEA-0069,dayjoy-canonical-product-master-final,,DJP1068,DJ-HEA-0069,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1068::DJ-HEA-0069,India-BV-Price-May-2026,,DJP1068,DJ-HEA-0069,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1069::DJ-HEA-0070,dayjoy-canonical-product-master-final,,DJP1069,DJ-HEA-0070,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1069::DJ-HEA-0070,India-BV-Price-May-2026,,DJP1069,DJ-HEA-0070,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1070::DJ-HEA-0071,dayjoy-canonical-product-master-final,,DJP1070,DJ-HEA-0071,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1070::DJ-HEA-0071,India-BV-Price-May-2026,,DJP1070,DJ-HEA-0071,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1071::DJ-HEA-0072,dayjoy-canonical-product-master-final,,DJP1071,DJ-HEA-0072,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1071::DJ-HEA-0072,India-BV-Price-May-2026,,DJP1071,DJ-HEA-0072,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1072::DJ-HEA-0073,dayjoy-canonical-product-master-final,,DJP1072,DJ-HEA-0073,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1072::DJ-HEA-0073,India-BV-Price-May-2026,,DJP1072,DJ-HEA-0073,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1073::DJ-HEA-0074,dayjoy-canonical-product-master-final,,DJP1073,DJ-HEA-0074,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1073::DJ-HEA-0074,India-BV-Price-May-2026,,DJP1073,DJ-HEA-0074,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1074::DJ-HEA-0075,dayjoy-canonical-product-master-final,,DJP1074,DJ-HEA-0075,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1074::DJ-HEA-0075,India-BV-Price-May-2026,,DJP1074,DJ-HEA-0075,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1075::DJ-HEA-0076,dayjoy-canonical-product-master-final,,DJP1075,DJ-HEA-0076,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1075::DJ-HEA-0076,India-BV-Price-May-2026,,DJP1075,DJ-HEA-0076,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1076::DJ-HEA-0077,dayjoy-canonical-product-master-final,,DJP1076,DJ-HEA-0077,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1076::DJ-HEA-0077,India-BV-Price-May-2026,,DJP1076,DJ-HEA-0077,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1077::DJ-HEA-0078,dayjoy-canonical-product-master-final,,DJP1077,DJ-HEA-0078,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1077::DJ-HEA-0078,India-BV-Price-May-2026,,DJP1077,DJ-HEA-0078,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1078::DJ-HEA-0079,dayjoy-canonical-product-master-final,,DJP1078,DJ-HEA-0079,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1078::DJ-HEA-0079,India-BV-Price-May-2026,,DJP1078,DJ-HEA-0079,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1079::DJ-HEA-0080,dayjoy-canonical-product-master-final,,DJP1079,DJ-HEA-0080,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1079::DJ-HEA-0080,India-BV-Price-May-2026,,DJP1079,DJ-HEA-0080,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1080::DJ-HEA-0081,dayjoy-canonical-product-master-final,,DJP1080,DJ-HEA-0081,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1080::DJ-HEA-0081,India-BV-Price-May-2026,,DJP1080,DJ-HEA-0081,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1081::DJ-HEA-0082,dayjoy-canonical-product-master-final,,DJP1081,DJ-HEA-0082,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1081::DJ-HEA-0082,India-BV-Price-May-2026,,DJP1081,DJ-HEA-0082,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1082::DJ-HEA-0083,dayjoy-canonical-product-master-final,,DJP1082,DJ-HEA-0083,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1082::DJ-HEA-0083,India-BV-Price-May-2026,,DJP1082,DJ-HEA-0083,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1083::DJ-HEA-0084,dayjoy-canonical-product-master-final,,DJP1083,DJ-HEA-0084,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1083::DJ-HEA-0084,India-BV-Price-May-2026,,DJP1083,DJ-HEA-0084,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1084::DJ-HEA-0085,dayjoy-canonical-product-master-final,,DJP1084,DJ-HEA-0085,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1084::DJ-HEA-0085,India-BV-Price-May-2026,,DJP1084,DJ-HEA-0085,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1085::DJ-HEA-0086,dayjoy-canonical-product-master-final,,DJP1085,DJ-HEA-0086,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1085::DJ-HEA-0086,India-BV-Price-May-2026,,DJP1085,DJ-HEA-0086,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1086::DJ-HEA-0087,dayjoy-canonical-product-master-final,,DJP1086,DJ-HEA-0087,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1086::DJ-HEA-0087,India-BV-Price-May-2026,,DJP1086,DJ-HEA-0087,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1087::DJ-HEA-0088,dayjoy-canonical-product-master-final,,DJP1087,DJ-HEA-0088,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1087::DJ-HEA-0088,India-BV-Price-May-2026,,DJP1087,DJ-HEA-0088,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1088::DJ-HEA-0089,dayjoy-canonical-product-master-final,,DJP1088,DJ-HEA-0089,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1088::DJ-HEA-0089,India-BV-Price-May-2026,,DJP1088,DJ-HEA-0089,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1089::DJ-HEA-0090,dayjoy-canonical-product-master-final,,DJP1089,DJ-HEA-0090,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1089::DJ-HEA-0090,India-BV-Price-May-2026,,DJP1089,DJ-HEA-0090,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1090::DJ-HEA-0091,dayjoy-canonical-product-master-final,,DJP1090,DJ-HEA-0091,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1090::DJ-HEA-0091,India-BV-Price-May-2026,,DJP1090,DJ-HEA-0091,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1091::DJ-HEA-0092,dayjoy-canonical-product-master-final,,DJP1091,DJ-HEA-0092,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1091::DJ-HEA-0092,India-BV-Price-May-2026,,DJP1091,DJ-HEA-0092,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1092::DJ-HEA-0093,dayjoy-canonical-product-master-final,,DJP1092,DJ-HEA-0093,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1092::DJ-HEA-0093,India-BV-Price-May-2026,,DJP1092,DJ-HEA-0093,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1093::DJ-HEA-0094,dayjoy-canonical-product-master-final,,DJP1093,DJ-HEA-0094,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1093::DJ-HEA-0094,India-BV-Price-May-2026,,DJP1093,DJ-HEA-0094,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1094::DJ-HEA-0095,dayjoy-canonical-product-master-final,,DJP1094,DJ-HEA-0095,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1094::DJ-HEA-0095,India-BV-Price-May-2026,,DJP1094,DJ-HEA-0095,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1095::DJ-HEA-0096,dayjoy-canonical-product-master-final,,DJP1095,DJ-HEA-0096,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1095::DJ-HEA-0096,India-BV-Price-May-2026,,DJP1095,DJ-HEA-0096,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1096::DJ-HEA-0097,dayjoy-canonical-product-master-final,,DJP1096,DJ-HEA-0097,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1096::DJ-HEA-0097,India-BV-Price-May-2026,,DJP1096,DJ-HEA-0097,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1097::DJ-HEA-0098,dayjoy-canonical-product-master-final,,DJP1097,DJ-HEA-0098,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1097::DJ-HEA-0098,India-BV-Price-May-2026,,DJP1097,DJ-HEA-0098,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1098::DJ-HEA-0099,dayjoy-canonical-product-master-final,,DJP1098,DJ-HEA-0099,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1098::DJ-HEA-0099,India-BV-Price-May-2026,,DJP1098,DJ-HEA-0099,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1099::DJ-HEA-0100,dayjoy-canonical-product-master-final,,DJP1099,DJ-HEA-0100,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1099::DJ-HEA-0100,India-BV-Price-May-2026,,DJP1099,DJ-HEA-0100,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1100::DJ-HEA-0101,dayjoy-canonical-product-master-final,,DJP1100,DJ-HEA-0101,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1100::DJ-HEA-0101,India-BV-Price-May-2026,,DJP1100,DJ-HEA-0101,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1101::DJ-HEA-0102,dayjoy-canonical-product-master-final,,DJP1101,DJ-HEA-0102,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1101::DJ-HEA-0102,India-BV-Price-May-2026,,DJP1101,DJ-HEA-0102,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1102::DJ-HEA-0103,dayjoy-canonical-product-master-final,,DJP1102,DJ-HEA-0103,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1102::DJ-HEA-0103,India-BV-Price-May-2026,,DJP1102,DJ-HEA-0103,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1103::DJ-HEA-0104,dayjoy-canonical-product-master-final,,DJP1103,DJ-HEA-0104,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1103::DJ-HEA-0104,India-BV-Price-May-2026,,DJP1103,DJ-HEA-0104,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1104::DJ-HEA-0105,dayjoy-canonical-product-master-final,,DJP1104,DJ-HEA-0105,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1104::DJ-HEA-0105,India-BV-Price-May-2026,,DJP1104,DJ-HEA-0105,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1105::DJ-HEA-0106,dayjoy-canonical-product-master-final,,DJP1105,DJ-HEA-0106,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1105::DJ-HEA-0106,India-BV-Price-May-2026,,DJP1105,DJ-HEA-0106,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1106::DJ-HEA-0107,dayjoy-canonical-product-master-final,,DJP1106,DJ-HEA-0107,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1106::DJ-HEA-0107,India-BV-Price-May-2026,,DJP1106,DJ-HEA-0107,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1107::DJ-HEA-0108,dayjoy-canonical-product-master-final,,DJP1107,DJ-HEA-0108,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1107::DJ-HEA-0108,India-BV-Price-May-2026,,DJP1107,DJ-HEA-0108,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1108::DJ-HEA-0109,dayjoy-canonical-product-master-final,,DJP1108,DJ-HEA-0109,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1108::DJ-HEA-0109,India-BV-Price-May-2026,,DJP1108,DJ-HEA-0109,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1109::DJ-HEA-0110,dayjoy-canonical-product-master-final,,DJP1109,DJ-HEA-0110,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1109::DJ-HEA-0110,India-BV-Price-May-2026,,DJP1109,DJ-HEA-0110,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1110::DJ-HEA-0111,dayjoy-canonical-product-master-final,,DJP1110,DJ-HEA-0111,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1110::DJ-HEA-0111,India-BV-Price-May-2026,,DJP1110,DJ-HEA-0111,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1111::DJ-HEA-0112,dayjoy-canonical-product-master-final,,DJP1111,DJ-HEA-0112,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1111::DJ-HEA-0112,India-BV-Price-May-2026,,DJP1111,DJ-HEA-0112,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1112::DJ-HEA-0113,dayjoy-canonical-product-master-final,,DJP1112,DJ-HEA-0113,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1112::DJ-HEA-0113,India-BV-Price-May-2026,,DJP1112,DJ-HEA-0113,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1113::DJ-HEA-0114,dayjoy-canonical-product-master-final,,DJP1113,DJ-HEA-0114,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1113::DJ-HEA-0114,India-BV-Price-May-2026,,DJP1113,DJ-HEA-0114,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1114::DJ-HEA-0115,dayjoy-canonical-product-master-final,,DJP1114,DJ-HEA-0115,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1114::DJ-HEA-0115,India-BV-Price-May-2026,,DJP1114,DJ-HEA-0115,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1115::DJ-HOM-0116,dayjoy-canonical-product-master-final,,DJP1115,DJ-HOM-0116,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1115::DJ-HOM-0116,India-BV-Price-May-2026,,DJP1115,DJ-HOM-0116,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1116::DJ-HOM-0117,dayjoy-canonical-product-master-final,,DJP1116,DJ-HOM-0117,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1116::DJ-HOM-0117,India-BV-Price-May-2026,,DJP1116,DJ-HOM-0117,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1117::DJ-HOM-0118,dayjoy-canonical-product-master-final,,DJP1117,DJ-HOM-0118,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1117::DJ-HOM-0118,India-BV-Price-May-2026,,DJP1117,DJ-HOM-0118,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1118::DJ-HOM-0119,dayjoy-canonical-product-master-final,,DJP1118,DJ-HOM-0119,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1118::DJ-HOM-0119,India-BV-Price-May-2026,,DJP1118,DJ-HOM-0119,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1119::DJ-CLO-0120,dayjoy-canonical-product-master-final,,DJP1119,DJ-CLO-0120,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1119::DJ-CLO-0120,India-BV-Price-May-2026,,DJP1119,DJ-CLO-0120,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1120::DJ-CLO-0121,dayjoy-canonical-product-master-final,,DJP1120,DJ-CLO-0121,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1120::DJ-CLO-0121,India-BV-Price-May-2026,,DJP1120,DJ-CLO-0121,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1121::DJ-CLO-0122,dayjoy-canonical-product-master-final,,DJP1121,DJ-CLO-0122,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1121::DJ-CLO-0122,India-BV-Price-May-2026,,DJP1121,DJ-CLO-0122,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1122::DJ-CLO-0123,dayjoy-canonical-product-master-final,,DJP1122,DJ-CLO-0123,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1122::DJ-CLO-0123,India-BV-Price-May-2026,,DJP1122,DJ-CLO-0123,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1123::DJ-AGR-0124,dayjoy-canonical-product-master-final,,DJP1123,DJ-AGR-0124,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1123::DJ-AGR-0124,India-BV-Price-May-2026,,DJP1123,DJ-AGR-0124,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1124::DJ-AGR-0125,dayjoy-canonical-product-master-final,,DJP1124,DJ-AGR-0125,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1124::DJ-AGR-0125,India-BV-Price-May-2026,,DJP1124,DJ-AGR-0125,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1125::DJ-AGR-0126,dayjoy-canonical-product-master-final,,DJP1125,DJ-AGR-0126,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1125::DJ-AGR-0126,India-BV-Price-May-2026,,DJP1125,DJ-AGR-0126,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1126::DJ-AGR-0127,dayjoy-canonical-product-master-final,,DJP1126,DJ-AGR-0127,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1126::DJ-AGR-0127,India-BV-Price-May-2026,,DJP1126,DJ-AGR-0127,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1127::DJ-AGR-0128,dayjoy-canonical-product-master-final,,DJP1127,DJ-AGR-0128,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1127::DJ-AGR-0128,India-BV-Price-May-2026,,DJP1127,DJ-AGR-0128,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1128::DJ-AGR-0129,dayjoy-canonical-product-master-final,,DJP1128,DJ-AGR-0129,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1128::DJ-AGR-0129,India-BV-Price-May-2026,,DJP1128,DJ-AGR-0129,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1129::DJ-AGR-0130,dayjoy-canonical-product-master-final,,DJP1129,DJ-AGR-0130,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1129::DJ-AGR-0130,India-BV-Price-May-2026,,DJP1129,DJ-AGR-0130,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1130::DJ-AGR-0131,dayjoy-canonical-product-master-final,,DJP1130,DJ-AGR-0131,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1130::DJ-AGR-0131,India-BV-Price-May-2026,,DJP1130,DJ-AGR-0131,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1131::DJ-AGR-0132,dayjoy-canonical-product-master-final,,DJP1131,DJ-AGR-0132,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1131::DJ-AGR-0132,India-BV-Price-May-2026,,DJP1131,DJ-AGR-0132,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1132::DJ-AGR-0133,dayjoy-canonical-product-master-final,,DJP1132,DJ-AGR-0133,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1132::DJ-AGR-0133,India-BV-Price-May-2026,,DJP1132,DJ-AGR-0133,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1133::DJ-AGR-0134,dayjoy-canonical-product-master-final,,DJP1133,DJ-AGR-0134,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1133::DJ-AGR-0134,India-BV-Price-May-2026,,DJP1133,DJ-AGR-0134,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1134::DJ-AGR-0135,dayjoy-canonical-product-master-final,,DJP1134,DJ-AGR-0135,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1134::DJ-AGR-0135,India-BV-Price-May-2026,,DJP1134,DJ-AGR-0135,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1135::DJ-AGR-0136,dayjoy-canonical-product-master-final,,DJP1135,DJ-AGR-0136,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1135::DJ-AGR-0136,India-BV-Price-May-2026,,DJP1135,DJ-AGR-0136,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1136::DJ-GER-0137,dayjoy-canonical-product-master-final,,DJP1136,DJ-GER-0137,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1136::DJ-GER-0137,India-BV-Price-May-2026,,DJP1136,DJ-GER-0137,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1137::DJ-GER-0138,dayjoy-canonical-product-master-final,,DJP1137,DJ-GER-0138,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1137::DJ-GER-0138,India-BV-Price-May-2026,,DJP1137,DJ-GER-0138,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1138::DJ-AQU-0139,dayjoy-canonical-product-master-final,,DJP1138,DJ-AQU-0139,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1138::DJ-AQU-0139,India-BV-Price-May-2026,,DJP1138,DJ-AQU-0139,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1139::DJ-AQU-0140,dayjoy-canonical-product-master-final,,DJP1139,DJ-AQU-0140,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1139::DJ-AQU-0140,India-BV-Price-May-2026,,DJP1139,DJ-AQU-0140,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1140::DJ-AQU-0141,dayjoy-canonical-product-master-final,,DJP1140,DJ-AQU-0141,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1140::DJ-AQU-0141,India-BV-Price-May-2026,,DJP1140,DJ-AQU-0141,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1141::DJ-AQU-0142,dayjoy-canonical-product-master-final,,DJP1141,DJ-AQU-0142,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1141::DJ-AQU-0142,India-BV-Price-May-2026,,DJP1141,DJ-AQU-0142,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1142::DJ-AQU-0143,dayjoy-canonical-product-master-final,,DJP1142,DJ-AQU-0143,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1142::DJ-AQU-0143,India-BV-Price-May-2026,,DJP1142,DJ-AQU-0143,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1143::DJ-AQU-0144,dayjoy-canonical-product-master-final,,DJP1143,DJ-AQU-0144,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1143::DJ-AQU-0144,India-BV-Price-May-2026,,DJP1143,DJ-AQU-0144,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1144::DJ-AQU-0145,dayjoy-canonical-product-master-final,,DJP1144,DJ-AQU-0145,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1144::DJ-AQU-0145,India-BV-Price-May-2026,,DJP1144,DJ-AQU-0145,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1145::DJ-AQU-0146,dayjoy-canonical-product-master-final,,DJP1145,DJ-AQU-0146,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1145::DJ-AQU-0146,India-BV-Price-May-2026,,DJP1145,DJ-AQU-0146,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1146::DJ-PRO-0147,dayjoy-canonical-product-master-final,,DJP1146,DJ-PRO-0147,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1146::DJ-PRO-0147,India-BV-Price-May-2026,,DJP1146,DJ-PRO-0147,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1147::DJ-PRO-0148,dayjoy-canonical-product-master-final,,DJP1147,DJ-PRO-0148,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1147::DJ-PRO-0148,India-BV-Price-May-2026,,DJP1147,DJ-PRO-0148,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1148::DJ-PRO-0149,dayjoy-canonical-product-master-final,,DJP1148,DJ-PRO-0149,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1148::DJ-PRO-0149,India-BV-Price-May-2026,,DJP1148,DJ-PRO-0149,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1149::DJ-PRO-0150,dayjoy-canonical-product-master-final,,DJP1149,DJ-PRO-0150,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1149::DJ-PRO-0150,India-BV-Price-May-2026,,DJP1149,DJ-PRO-0150,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1150::DJ-PRO-0151,dayjoy-canonical-product-master-final,,DJP1150,DJ-PRO-0151,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1150::DJ-PRO-0151,India-BV-Price-May-2026,,DJP1150,DJ-PRO-0151,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1151::DJ-PRO-0152,dayjoy-canonical-product-master-final,,DJP1151,DJ-PRO-0152,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1151::DJ-PRO-0152,India-BV-Price-May-2026,,DJP1151,DJ-PRO-0152,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1152::DJ-PRO-0153,dayjoy-canonical-product-master-final,,DJP1152,DJ-PRO-0153,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1152::DJ-PRO-0153,India-BV-Price-May-2026,,DJP1152,DJ-PRO-0153,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1153::DJ-PRO-0154,dayjoy-canonical-product-master-final,,DJP1153,DJ-PRO-0154,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1153::DJ-PRO-0154,India-BV-Price-May-2026,,DJP1153,DJ-PRO-0154,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1154::DJ-PRO-0155,dayjoy-canonical-product-master-final,,DJP1154,DJ-PRO-0155,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1154::DJ-PRO-0155,India-BV-Price-May-2026,,DJP1154,DJ-PRO-0155,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1155::DJ-PRO-0156,dayjoy-canonical-product-master-final,,DJP1155,DJ-PRO-0156,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1155::DJ-PRO-0156,India-BV-Price-May-2026,,DJP1155,DJ-PRO-0156,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1156::DJ-PRO-0157,dayjoy-canonical-product-master-final,,DJP1156,DJ-PRO-0157,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1156::DJ-PRO-0157,India-BV-Price-May-2026,,DJP1156,DJ-PRO-0157,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1157::DJ-PRO-0158,dayjoy-canonical-product-master-final,,DJP1157,DJ-PRO-0158,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1157::DJ-PRO-0158,India-BV-Price-May-2026,,DJP1157,DJ-PRO-0158,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1158::DJ-PRO-0159,dayjoy-canonical-product-master-final,,DJP1158,DJ-PRO-0159,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1158::DJ-PRO-0159,India-BV-Price-May-2026,,DJP1158,DJ-PRO-0159,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1159::DJ-PRO-0160,dayjoy-canonical-product-master-final,,DJP1159,DJ-PRO-0160,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1159::DJ-PRO-0160,India-BV-Price-May-2026,,DJP1159,DJ-PRO-0160,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1160::DJ-PRO-0161,dayjoy-canonical-product-master-final,,DJP1160,DJ-PRO-0161,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1160::DJ-PRO-0161,India-BV-Price-May-2026,,DJP1160,DJ-PRO-0161,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1161::DJ-PRO-0162,dayjoy-canonical-product-master-final,,DJP1161,DJ-PRO-0162,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1161::DJ-PRO-0162,India-BV-Price-May-2026,,DJP1161,DJ-PRO-0162,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1162::DJ-PRO-0163,dayjoy-canonical-product-master-final,,DJP1162,DJ-PRO-0163,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1162::DJ-PRO-0163,India-BV-Price-May-2026,,DJP1162,DJ-PRO-0163,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1163::DJ-PRO-0164,dayjoy-canonical-product-master-final,,DJP1163,DJ-PRO-0164,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1163::DJ-PRO-0164,India-BV-Price-May-2026,,DJP1163,DJ-PRO-0164,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1164::DJ-COM-0165,dayjoy-canonical-product-master-final,,DJP1164,DJ-COM-0165,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1164::DJ-COM-0165,India-BV-Price-May-2026,,DJP1164,DJ-COM-0165,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1165::DJ-COM-0166,dayjoy-canonical-product-master-final,,DJP1165,DJ-COM-0166,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1165::DJ-COM-0166,India-BV-Price-May-2026,,DJP1165,DJ-COM-0166,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1166::DJ-COM-0167,dayjoy-canonical-product-master-final,,DJP1166,DJ-COM-0167,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1166::DJ-COM-0167,India-BV-Price-May-2026,,DJP1166,DJ-COM-0167,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1167::DJ-COM-0168,dayjoy-canonical-product-master-final,,DJP1167,DJ-COM-0168,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1167::DJ-COM-0168,India-BV-Price-May-2026,,DJP1167,DJ-COM-0168,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1168::DJ-COM-0169,dayjoy-canonical-product-master-final,,DJP1168,DJ-COM-0169,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1168::DJ-COM-0169,India-BV-Price-May-2026,,DJP1168,DJ-COM-0169,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+product_core::DJP1169::DJ-COM-0170,dayjoy-canonical-product-master-final,,DJP1169,DJ-COM-0170,,"public, distributor, internal",low,high,2026-05-05,approved,product_core
+pricing_row::DJP1169::DJ-COM-0170,India-BV-Price-May-2026,,DJP1169,DJ-COM-0170,,"public, distributor, internal",safe_general,high,2026-05-05,approved,pricing_row
+faq_pair::1000,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1001,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1002,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1003,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1004,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,storage,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1005,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,shelf_life,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1006,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,ingredients,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1007,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,safety,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1008,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1009,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1010,Dayjoy_All_FAQs_Combined,,DJP1000,DJ-FOO-0001,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1011,Dayjoy_All_FAQs_Combined,,DJP1001,DJ-FOO-0002,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1012,Dayjoy_All_FAQs_Combined,,DJP1001,DJ-FOO-0002,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1020,Dayjoy_All_FAQs_Combined,,DJP1001,DJ-FOO-0002,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1022,Dayjoy_All_FAQs_Combined,,DJP1002,DJ-FOO-0003,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1023,Dayjoy_All_FAQs_Combined,,DJP1002,DJ-FOO-0003,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1033,Dayjoy_All_FAQs_Combined,,DJP1003,DJ-FOO-0004,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1034,Dayjoy_All_FAQs_Combined,,DJP1003,DJ-FOO-0004,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1042,Dayjoy_All_FAQs_Combined,,DJP1003,DJ-FOO-0004,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1044,Dayjoy_All_FAQs_Combined,,DJP1004,DJ-FOO-0005,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1045,Dayjoy_All_FAQs_Combined,,DJP1004,DJ-FOO-0005,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1053,Dayjoy_All_FAQs_Combined,,DJP1004,DJ-FOO-0005,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1055,Dayjoy_All_FAQs_Combined,,DJP1005,DJ-FOO-0006,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1056,Dayjoy_All_FAQs_Combined,,DJP1005,DJ-FOO-0006,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1064,Dayjoy_All_FAQs_Combined,,DJP1005,DJ-FOO-0006,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1066,Dayjoy_All_FAQs_Combined,,DJP1006,DJ-FOO-0007,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1067,Dayjoy_All_FAQs_Combined,,DJP1006,DJ-FOO-0007,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1077,Dayjoy_All_FAQs_Combined,,DJP1007,DJ-FOO-0008,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1078,Dayjoy_All_FAQs_Combined,,DJP1007,DJ-FOO-0008,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1088,Dayjoy_All_FAQs_Combined,,DJP1008,DJ-FOO-0009,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1089,Dayjoy_All_FAQs_Combined,,DJP1008,DJ-FOO-0009,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1099,Dayjoy_All_FAQs_Combined,,DJP1009,DJ-FOO-0010,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1100,Dayjoy_All_FAQs_Combined,,DJP1009,DJ-FOO-0010,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1110,Dayjoy_All_FAQs_Combined,,DJP1010,DJ-FOO-0011,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1111,Dayjoy_All_FAQs_Combined,,DJP1010,DJ-FOO-0011,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1121,Dayjoy_All_FAQs_Combined,,DJP1011,DJ-FOO-0012,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1122,Dayjoy_All_FAQs_Combined,,DJP1011,DJ-FOO-0012,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1132,Dayjoy_All_FAQs_Combined,,DJP1012,DJ-FOO-0013,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1133,Dayjoy_All_FAQs_Combined,,DJP1012,DJ-FOO-0013,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1143,Dayjoy_All_FAQs_Combined,,DJP1013,DJ-FOO-0014,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1144,Dayjoy_All_FAQs_Combined,,DJP1013,DJ-FOO-0014,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1154,Dayjoy_All_FAQs_Combined,,DJP1014,DJ-FOO-0015,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1155,Dayjoy_All_FAQs_Combined,,DJP1014,DJ-FOO-0015,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1165,Dayjoy_All_FAQs_Combined,,DJP1015,DJ-FOO-0016,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1166,Dayjoy_All_FAQs_Combined,,DJP1015,DJ-FOO-0016,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1174,Dayjoy_All_FAQs_Combined,,DJP1015,DJ-FOO-0016,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1176,Dayjoy_All_FAQs_Combined,,DJP1016,DJ-FOO-0017,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1177,Dayjoy_All_FAQs_Combined,,DJP1016,DJ-FOO-0017,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1187,Dayjoy_All_FAQs_Combined,,DJP1017,DJ-FOO-0018,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1188,Dayjoy_All_FAQs_Combined,,DJP1017,DJ-FOO-0018,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1198,Dayjoy_All_FAQs_Combined,,DJP1018,DJ-FOO-0019,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1199,Dayjoy_All_FAQs_Combined,,DJP1018,DJ-FOO-0019,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1209,Dayjoy_All_FAQs_Combined,,DJP1019,DJ-FOO-0020,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1210,Dayjoy_All_FAQs_Combined,,DJP1019,DJ-FOO-0020,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1220,Dayjoy_All_FAQs_Combined,,DJP1020,DJ-FOO-0021,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1221,Dayjoy_All_FAQs_Combined,,DJP1020,DJ-FOO-0021,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1231,Dayjoy_All_FAQs_Combined,,DJP1021,DJ-FOO-0022,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1232,Dayjoy_All_FAQs_Combined,,DJP1021,DJ-FOO-0022,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1239,Dayjoy_All_FAQs_Combined,,DJP1021,DJ-FOO-0022,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1240,Dayjoy_All_FAQs_Combined,,DJP1021,DJ-FOO-0022,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1242,Dayjoy_All_FAQs_Combined,,DJP1022,DJ-FOO-0023,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1243,Dayjoy_All_FAQs_Combined,,DJP1022,DJ-FOO-0023,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1251,Dayjoy_All_FAQs_Combined,,DJP1022,DJ-FOO-0023,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1253,Dayjoy_All_FAQs_Combined,,DJP1023,DJ-FOO-0024,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1254,Dayjoy_All_FAQs_Combined,,DJP1023,DJ-FOO-0024,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1262,Dayjoy_All_FAQs_Combined,,DJP1023,DJ-FOO-0024,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1264,Dayjoy_All_FAQs_Combined,,DJP1024,DJ-FOO-0025,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1265,Dayjoy_All_FAQs_Combined,,DJP1024,DJ-FOO-0025,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1275,Dayjoy_All_FAQs_Combined,,DJP1025,DJ-FOO-0026,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1276,Dayjoy_All_FAQs_Combined,,DJP1025,DJ-FOO-0026,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1286,Dayjoy_All_FAQs_Combined,,DJP1026,DJ-PER-0027,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1287,Dayjoy_All_FAQs_Combined,,DJP1026,DJ-PER-0027,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1288,Dayjoy_All_FAQs_Combined,,DJP1026,DJ-PER-0027,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1289,Dayjoy_All_FAQs_Combined,,DJP1026,DJ-PER-0027,safety,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1294,Dayjoy_All_FAQs_Combined,,DJP1026,DJ-PER-0027,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1295,Dayjoy_All_FAQs_Combined,,DJP1026,DJ-PER-0027,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1297,Dayjoy_All_FAQs_Combined,,DJP1027,DJ-PER-0028,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1298,Dayjoy_All_FAQs_Combined,,DJP1027,DJ-PER-0028,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1306,Dayjoy_All_FAQs_Combined,,DJP1027,DJ-PER-0028,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1308,Dayjoy_All_FAQs_Combined,,DJP1028,DJ-PER-0029,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1309,Dayjoy_All_FAQs_Combined,,DJP1028,DJ-PER-0029,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1319,Dayjoy_All_FAQs_Combined,,DJP1029,DJ-PER-0030,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1320,Dayjoy_All_FAQs_Combined,,DJP1029,DJ-PER-0030,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1328,Dayjoy_All_FAQs_Combined,,DJP1029,DJ-PER-0030,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1330,Dayjoy_All_FAQs_Combined,,DJP1030,DJ-PER-0031,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1331,Dayjoy_All_FAQs_Combined,,DJP1030,DJ-PER-0031,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1339,Dayjoy_All_FAQs_Combined,,DJP1030,DJ-PER-0031,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1341,Dayjoy_All_FAQs_Combined,,DJP1031,DJ-PER-0032,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1342,Dayjoy_All_FAQs_Combined,,DJP1031,DJ-PER-0032,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1352,Dayjoy_All_FAQs_Combined,,DJP1032,DJ-PER-0033,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1353,Dayjoy_All_FAQs_Combined,,DJP1032,DJ-PER-0033,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1361,Dayjoy_All_FAQs_Combined,,DJP1032,DJ-PER-0033,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1363,Dayjoy_All_FAQs_Combined,,DJP1033,DJ-PER-0034,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1364,Dayjoy_All_FAQs_Combined,,DJP1033,DJ-PER-0034,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1374,Dayjoy_All_FAQs_Combined,,DJP1034,DJ-PER-0035,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1375,Dayjoy_All_FAQs_Combined,,DJP1034,DJ-PER-0035,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1383,Dayjoy_All_FAQs_Combined,,DJP1034,DJ-PER-0035,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1385,Dayjoy_All_FAQs_Combined,,DJP1035,DJ-PER-0036,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1386,Dayjoy_All_FAQs_Combined,,DJP1035,DJ-PER-0036,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1396,Dayjoy_All_FAQs_Combined,,DJP1036,DJ-PER-0037,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1397,Dayjoy_All_FAQs_Combined,,DJP1036,DJ-PER-0037,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1405,Dayjoy_All_FAQs_Combined,,DJP1036,DJ-PER-0037,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1407,Dayjoy_All_FAQs_Combined,,DJP1037,DJ-PER-0038,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1408,Dayjoy_All_FAQs_Combined,,DJP1037,DJ-PER-0038,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1418,Dayjoy_All_FAQs_Combined,,DJP1038,DJ-PER-0039,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1419,Dayjoy_All_FAQs_Combined,,DJP1038,DJ-PER-0039,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1429,Dayjoy_All_FAQs_Combined,,DJP1039,DJ-PER-0040,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1430,Dayjoy_All_FAQs_Combined,,DJP1039,DJ-PER-0040,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1440,Dayjoy_All_FAQs_Combined,,DJP1040,DJ-PER-0041,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1441,Dayjoy_All_FAQs_Combined,,DJP1040,DJ-PER-0041,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1449,Dayjoy_All_FAQs_Combined,,DJP1040,DJ-PER-0041,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1451,Dayjoy_All_FAQs_Combined,,DJP1041,DJ-PER-0042,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1452,Dayjoy_All_FAQs_Combined,,DJP1041,DJ-PER-0042,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1462,Dayjoy_All_FAQs_Combined,,DJP1042,DJ-PER-0043,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1463,Dayjoy_All_FAQs_Combined,,DJP1042,DJ-PER-0043,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1473,Dayjoy_All_FAQs_Combined,,DJP1043,DJ-PER-0044,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1474,Dayjoy_All_FAQs_Combined,,DJP1043,DJ-PER-0044,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1482,Dayjoy_All_FAQs_Combined,,DJP1043,DJ-PER-0044,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1484,Dayjoy_All_FAQs_Combined,,DJP1044,DJ-PER-0045,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1485,Dayjoy_All_FAQs_Combined,,DJP1044,DJ-PER-0045,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1495,Dayjoy_All_FAQs_Combined,,DJP1045,DJ-PER-0046,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1496,Dayjoy_All_FAQs_Combined,,DJP1045,DJ-PER-0046,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1504,Dayjoy_All_FAQs_Combined,,DJP1045,DJ-PER-0046,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1506,Dayjoy_All_FAQs_Combined,,DJP1046,DJ-PER-0047,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1507,Dayjoy_All_FAQs_Combined,,DJP1046,DJ-PER-0047,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1515,Dayjoy_All_FAQs_Combined,,DJP1046,DJ-PER-0047,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1517,Dayjoy_All_FAQs_Combined,,DJP1047,DJ-PER-0048,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1518,Dayjoy_All_FAQs_Combined,,DJP1047,DJ-PER-0048,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1528,Dayjoy_All_FAQs_Combined,,DJP1048,DJ-PER-0049,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1529,Dayjoy_All_FAQs_Combined,,DJP1048,DJ-PER-0049,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1539,Dayjoy_All_FAQs_Combined,,DJP1049,DJ-PER-0050,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1540,Dayjoy_All_FAQs_Combined,,DJP1049,DJ-PER-0050,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1550,Dayjoy_All_FAQs_Combined,,DJP1050,DJ-PER-0051,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1551,Dayjoy_All_FAQs_Combined,,DJP1050,DJ-PER-0051,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1561,Dayjoy_All_FAQs_Combined,,DJP1051,DJ-PER-0052,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1562,Dayjoy_All_FAQs_Combined,,DJP1051,DJ-PER-0052,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1570,Dayjoy_All_FAQs_Combined,,DJP1051,DJ-PER-0052,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1572,Dayjoy_All_FAQs_Combined,,DJP1052,DJ-PER-0053,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1573,Dayjoy_All_FAQs_Combined,,DJP1052,DJ-PER-0053,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1583,Dayjoy_All_FAQs_Combined,,DJP1053,DJ-PER-0054,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1584,Dayjoy_All_FAQs_Combined,,DJP1053,DJ-PER-0054,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1592,Dayjoy_All_FAQs_Combined,,DJP1053,DJ-PER-0054,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1594,Dayjoy_All_FAQs_Combined,,DJP1054,DJ-PER-0055,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1595,Dayjoy_All_FAQs_Combined,,DJP1054,DJ-PER-0055,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1605,Dayjoy_All_FAQs_Combined,,DJP1055,DJ-PER-0056,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1606,Dayjoy_All_FAQs_Combined,,DJP1055,DJ-PER-0056,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1616,Dayjoy_All_FAQs_Combined,,DJP1056,DJ-PER-0057,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1617,Dayjoy_All_FAQs_Combined,,DJP1056,DJ-PER-0057,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1627,Dayjoy_All_FAQs_Combined,,DJP1057,DJ-SKI-0058,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1628,Dayjoy_All_FAQs_Combined,,DJP1057,DJ-SKI-0058,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1635,Dayjoy_All_FAQs_Combined,,DJP1057,DJ-SKI-0058,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1636,Dayjoy_All_FAQs_Combined,,DJP1057,DJ-SKI-0058,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1638,Dayjoy_All_FAQs_Combined,,DJP1058,DJ-SKI-0059,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1639,Dayjoy_All_FAQs_Combined,,DJP1058,DJ-SKI-0059,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1649,Dayjoy_All_FAQs_Combined,,DJP1059,DJ-SKI-0060,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1650,Dayjoy_All_FAQs_Combined,,DJP1059,DJ-SKI-0060,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1658,Dayjoy_All_FAQs_Combined,,DJP1059,DJ-SKI-0060,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1660,Dayjoy_All_FAQs_Combined,,DJP1060,DJ-SKI-0061,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1661,Dayjoy_All_FAQs_Combined,,DJP1060,DJ-SKI-0061,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1671,Dayjoy_All_FAQs_Combined,,DJP1061,DJ-SKI-0062,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1672,Dayjoy_All_FAQs_Combined,,DJP1061,DJ-SKI-0062,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1682,Dayjoy_All_FAQs_Combined,,DJP1062,DJ-SKI-0063,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1683,Dayjoy_All_FAQs_Combined,,DJP1062,DJ-SKI-0063,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1693,Dayjoy_All_FAQs_Combined,,DJP1063,DJ-COL-0064,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1694,Dayjoy_All_FAQs_Combined,,DJP1063,DJ-COL-0064,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1701,Dayjoy_All_FAQs_Combined,,DJP1063,DJ-COL-0064,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1704,Dayjoy_All_FAQs_Combined,,DJP1064,DJ-COL-0065,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1705,Dayjoy_All_FAQs_Combined,,DJP1064,DJ-COL-0065,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1715,Dayjoy_All_FAQs_Combined,Page 18,DJP1065,DJ-HEA-0066,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1716,Dayjoy_All_FAQs_Combined,Rows for Respiratory Health & Sinusitis,DJP1065,DJ-HEA-0066,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1717,Dayjoy_All_FAQs_Combined,,DJP1065,DJ-HEA-0066,safety,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1718,Dayjoy_All_FAQs_Combined,Page 18,DJP1065,DJ-HEA-0066,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1719,Dayjoy_All_FAQs_Combined,Page 18,DJP1065,DJ-HEA-0066,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1720,Dayjoy_All_FAQs_Combined,Page 18,DJP1065,DJ-HEA-0066,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1721,Dayjoy_All_FAQs_Combined,,DJP1065,DJ-HEA-0066,safety,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1722,Dayjoy_All_FAQs_Combined,,DJP1065,DJ-HEA-0066,storage,"public, distributor, internal",safe_general,low,,needs_review,faq_pair
+faq_pair::1724,Dayjoy_All_FAQs_Combined,"Page 18, 22",DJP1065,DJ-HEA-0066,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1725,Dayjoy_All_FAQs_Combined,Item 66,DJP1065,DJ-HEA-0066,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1726,Dayjoy_All_FAQs_Combined,Page 18,DJP1065,DJ-HEA-0066,target_audience,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1727,Dayjoy_All_FAQs_Combined,Page 18,DJP1065,DJ-HEA-0066,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1729,Dayjoy_All_FAQs_Combined,Page 23,DJP1066,DJ-HEA-0067,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1730,Dayjoy_All_FAQs_Combined,Page 23,DJP1066,DJ-HEA-0067,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1731,Dayjoy_All_FAQs_Combined,Page 23,DJP1066,DJ-HEA-0067,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1735,Dayjoy_All_FAQs_Combined,Page 23,DJP1066,DJ-HEA-0067,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1736,Dayjoy_All_FAQs_Combined,Item 67,DJP1066,DJ-HEA-0067,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1737,Dayjoy_All_FAQs_Combined,Page 23,DJP1066,DJ-HEA-0067,target_audience,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1738,Dayjoy_All_FAQs_Combined,Page 23,DJP1066,DJ-HEA-0067,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1739,Dayjoy_All_FAQs_Combined,Rows for Female Health,DJP1066,DJ-HEA-0067,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1740,Dayjoy_All_FAQs_Combined,Page 23,DJP1067,DJ-HEA-0068,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1744,Dayjoy_All_FAQs_Combined,Page 23,DJP1067,DJ-HEA-0068,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1745,Dayjoy_All_FAQs_Combined,Item 68,DJP1067,DJ-HEA-0068,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1746,Dayjoy_All_FAQs_Combined,Page 23,DJP1067,DJ-HEA-0068,target_audience,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1747,Dayjoy_All_FAQs_Combined,Page 23,DJP1067,DJ-HEA-0068,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1748,Dayjoy_All_FAQs_Combined,Rows for Female Health (Hormonal Imbalance & Weakness),DJP1067,DJ-HEA-0068,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1750,Dayjoy_All_FAQs_Combined,Page 23,DJP1067,DJ-HEA-0068,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1751,Dayjoy_All_FAQs_Combined,Page 23,DJP1067,DJ-HEA-0068,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1753,Dayjoy_All_FAQs_Combined,Page 20,DJP1068,DJ-HEA-0069,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1754,Dayjoy_All_FAQs_Combined,Item 69,DJP1068,DJ-HEA-0069,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1755,Dayjoy_All_FAQs_Combined,Page 20,DJP1068,DJ-HEA-0069,target_audience,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1756,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1068,DJ-HEA-0069,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1757,Dayjoy_All_FAQs_Combined,Page 20,DJP1068,DJ-HEA-0069,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1758,Dayjoy_All_FAQs_Combined,Male Health Issues row,DJP1068,DJ-HEA-0069,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1760,Dayjoy_All_FAQs_Combined,Page 20,DJP1068,DJ-HEA-0069,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1761,Dayjoy_All_FAQs_Combined,Page 20,DJP1068,DJ-HEA-0069,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1762,Dayjoy_All_FAQs_Combined,Page 20,DJP1068,DJ-HEA-0069,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1765,Dayjoy_All_FAQs_Combined,Item 70,DJP1069,DJ-HEA-0070,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1766,Dayjoy_All_FAQs_Combined,Page 20,DJP1069,DJ-HEA-0070,target_audience,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1767,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1069,DJ-HEA-0070,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1768,Dayjoy_All_FAQs_Combined,Page 20,DJP1069,DJ-HEA-0070,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1769,Dayjoy_All_FAQs_Combined,Page 20,DJP1069,DJ-HEA-0070,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1777,Dayjoy_All_FAQs_Combined,Page 20,DJP1069,DJ-HEA-0070,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1778,Dayjoy_All_FAQs_Combined,Page 21,DJP1070,DJ-HEA-0071,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1779,Dayjoy_All_FAQs_Combined,Heart Diseases Row,DJP1070,DJ-HEA-0071,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1781,Dayjoy_All_FAQs_Combined,Page 21,DJP1070,DJ-HEA-0071,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1782,Dayjoy_All_FAQs_Combined,Page 21,DJP1070,DJ-HEA-0071,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1783,Dayjoy_All_FAQs_Combined,Page 21,DJP1070,DJ-HEA-0071,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1787,Dayjoy_All_FAQs_Combined,Page 21,DJP1070,DJ-HEA-0071,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1788,Dayjoy_All_FAQs_Combined,Item 71,DJP1070,DJ-HEA-0071,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1789,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1070,DJ-HEA-0071,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1790,Dayjoy_All_FAQs_Combined,Page 21,DJP1071,DJ-HEA-0072,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1791,Dayjoy_All_FAQs_Combined,Page 21,DJP1071,DJ-HEA-0072,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1793,Dayjoy_All_FAQs_Combined,Page 21,DJP1071,DJ-HEA-0072,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1799,Dayjoy_All_FAQs_Combined,Page 21,DJP1071,DJ-HEA-0072,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1800,Dayjoy_All_FAQs_Combined,Item 72,DJP1071,DJ-HEA-0072,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1801,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1071,DJ-HEA-0072,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1802,Dayjoy_All_FAQs_Combined,Page 22,DJP1072,DJ-HEA-0073,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1803,Dayjoy_All_FAQs_Combined,Page 22,DJP1072,DJ-HEA-0073,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1808,Dayjoy_All_FAQs_Combined,Page 22,DJP1072,DJ-HEA-0073,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1809,Dayjoy_All_FAQs_Combined,Item 73,DJP1072,DJ-HEA-0073,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1810,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1072,DJ-HEA-0073,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1811,Dayjoy_All_FAQs_Combined,Page 22,DJP1072,DJ-HEA-0073,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1812,Dayjoy_All_FAQs_Combined,Liver Diseases Row,DJP1072,DJ-HEA-0073,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1817,Dayjoy_All_FAQs_Combined,Page 29,DJP1073,DJ-HEA-0074,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1818,Dayjoy_All_FAQs_Combined,Item 74,DJP1073,DJ-HEA-0074,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1819,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1073,DJ-HEA-0074,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1820,Dayjoy_All_FAQs_Combined,Page 29,DJP1073,DJ-HEA-0074,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1821,Dayjoy_All_FAQs_Combined,Digestion / Skin Problems,DJP1073,DJ-HEA-0074,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1823,Dayjoy_All_FAQs_Combined,Page 29,DJP1073,DJ-HEA-0074,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1824,Dayjoy_All_FAQs_Combined,Page 29,DJP1073,DJ-HEA-0074,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1825,Dayjoy_All_FAQs_Combined,Page 29,DJP1073,DJ-HEA-0074,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1826,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1827,Dayjoy_All_FAQs_Combined,Item 75,DJP1074,DJ-HEA-0075,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1828,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,target_audience,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1829,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1830,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1832,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1833,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1834,Dayjoy_All_FAQs_Combined,Page 22,DJP1074,DJ-HEA-0075,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1838,Dayjoy_All_FAQs_Combined,Page 25,DJP1075,DJ-HEA-0076,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1839,Dayjoy_All_FAQs_Combined,Page 25,DJP1075,DJ-HEA-0076,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1841,Dayjoy_All_FAQs_Combined,Page 25,DJP1075,DJ-HEA-0076,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1842,Dayjoy_All_FAQs_Combined,Page 25,DJP1075,DJ-HEA-0076,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1843,Dayjoy_All_FAQs_Combined,Page 25,DJP1075,DJ-HEA-0076,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1847,Dayjoy_All_FAQs_Combined,Page 25,DJP1075,DJ-HEA-0076,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1848,Dayjoy_All_FAQs_Combined,Item 76,DJP1075,DJ-HEA-0076,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1849,Dayjoy_All_FAQs_Combined,Page 25,DJP1076,DJ-HEA-0077,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1851,Dayjoy_All_FAQs_Combined,Page 25,DJP1076,DJ-HEA-0077,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1852,Dayjoy_All_FAQs_Combined,Page 25,DJP1076,DJ-HEA-0077,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1853,Dayjoy_All_FAQs_Combined,Page 25,DJP1076,DJ-HEA-0077,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1857,Dayjoy_All_FAQs_Combined,Page 25,DJP1076,DJ-HEA-0077,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1858,Dayjoy_All_FAQs_Combined,Item 77,DJP1076,DJ-HEA-0077,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1859,Dayjoy_All_FAQs_Combined,Page 25,DJP1076,DJ-HEA-0077,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1860,Dayjoy_All_FAQs_Combined,Page 30,DJP1077,DJ-HEA-0078,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1864,Dayjoy_All_FAQs_Combined,Page 30,DJP1077,DJ-HEA-0078,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1865,Dayjoy_All_FAQs_Combined,Item 78,DJP1077,DJ-HEA-0078,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1866,Dayjoy_All_FAQs_Combined,Page 30,DJP1077,DJ-HEA-0078,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1867,Dayjoy_All_FAQs_Combined,Bone & Joint Problems,DJP1077,DJ-HEA-0078,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1869,Dayjoy_All_FAQs_Combined,Page 30,DJP1077,DJ-HEA-0078,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1870,Dayjoy_All_FAQs_Combined,Page 30,DJP1077,DJ-HEA-0078,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1871,Dayjoy_All_FAQs_Combined,"Page 23, 24",DJP1078,DJ-HEA-0079,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1872,Dayjoy_All_FAQs_Combined,Item 79,DJP1078,DJ-HEA-0079,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1873,Dayjoy_All_FAQs_Combined,Page 24,DJP1078,DJ-HEA-0079,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1874,Dayjoy_All_FAQs_Combined,Digestion Problems,DJP1078,DJ-HEA-0079,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1876,Dayjoy_All_FAQs_Combined,Page 24,DJP1078,DJ-HEA-0079,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1877,Dayjoy_All_FAQs_Combined,Page 24,DJP1078,DJ-HEA-0079,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1878,Dayjoy_All_FAQs_Combined,Page 24 / Rec Chart,DJP1078,DJ-HEA-0079,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1882,Dayjoy_All_FAQs_Combined,Page 21,DJP1079,DJ-HEA-0080,general_info,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1883,Dayjoy_All_FAQs_Combined,Diabetes row,DJP1079,DJ-HEA-0080,usage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1885,Dayjoy_All_FAQs_Combined,Page 21,DJP1079,DJ-HEA-0080,benefits,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1886,Dayjoy_All_FAQs_Combined,Page 21,DJP1079,DJ-HEA-0080,ingredients,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1887,Dayjoy_All_FAQs_Combined,Page 21 / Rec Chart,DJP1079,DJ-HEA-0080,dosage,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1891,Dayjoy_All_FAQs_Combined,Page 21,DJP1079,DJ-HEA-0080,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1893,Dayjoy_All_FAQs_Combined,Standard Requirement,DJP1079,DJ-HEA-0080,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1894,Dayjoy_All_FAQs_Combined,,DJP1080,DJ-HEA-0081,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1895,Dayjoy_All_FAQs_Combined,,DJP1080,DJ-HEA-0081,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1896,Dayjoy_All_FAQs_Combined,,DJP1080,DJ-HEA-0081,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1897,Dayjoy_All_FAQs_Combined,,DJP1080,DJ-HEA-0081,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1902,Dayjoy_All_FAQs_Combined,,DJP1080,DJ-HEA-0081,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1903,Dayjoy_All_FAQs_Combined,,DJP1080,DJ-HEA-0081,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1905,Dayjoy_All_FAQs_Combined,,DJP1081,DJ-HEA-0082,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1906,Dayjoy_All_FAQs_Combined,,DJP1081,DJ-HEA-0082,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1907,Dayjoy_All_FAQs_Combined,,DJP1081,DJ-HEA-0082,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1916,Dayjoy_All_FAQs_Combined,,DJP1082,DJ-HEA-0083,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1917,Dayjoy_All_FAQs_Combined,,DJP1082,DJ-HEA-0083,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1925,Dayjoy_All_FAQs_Combined,,DJP1082,DJ-HEA-0083,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1927,Dayjoy_All_FAQs_Combined,,DJP1083,DJ-HEA-0084,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1928,Dayjoy_All_FAQs_Combined,,DJP1083,DJ-HEA-0084,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1929,Dayjoy_All_FAQs_Combined,,DJP1083,DJ-HEA-0084,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1936,Dayjoy_All_FAQs_Combined,,DJP1083,DJ-HEA-0084,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1938,Dayjoy_All_FAQs_Combined,,DJP1084,DJ-HEA-0085,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1939,Dayjoy_All_FAQs_Combined,,DJP1084,DJ-HEA-0085,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1949,Dayjoy_All_FAQs_Combined,,DJP1085,DJ-HEA-0086,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1950,Dayjoy_All_FAQs_Combined,,DJP1085,DJ-HEA-0086,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1951,Dayjoy_All_FAQs_Combined,,DJP1085,DJ-HEA-0086,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1952,Dayjoy_All_FAQs_Combined,,DJP1085,DJ-HEA-0086,safety,"public, distributor, internal",regulated_product,medium,,approved,faq_pair
+faq_pair::1958,Dayjoy_All_FAQs_Combined,,DJP1085,DJ-HEA-0086,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1960,Dayjoy_All_FAQs_Combined,,DJP1086,DJ-HEA-0087,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1961,Dayjoy_All_FAQs_Combined,,DJP1086,DJ-HEA-0087,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1962,Dayjoy_All_FAQs_Combined,,DJP1086,DJ-HEA-0087,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1971,Dayjoy_All_FAQs_Combined,,DJP1087,DJ-HEA-0088,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1972,Dayjoy_All_FAQs_Combined,,DJP1087,DJ-HEA-0088,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1980,Dayjoy_All_FAQs_Combined,,DJP1087,DJ-HEA-0088,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1982,Dayjoy_All_FAQs_Combined,,DJP1088,DJ-HEA-0089,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1983,Dayjoy_All_FAQs_Combined,,DJP1088,DJ-HEA-0089,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::1984,Dayjoy_All_FAQs_Combined,,DJP1088,DJ-HEA-0089,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1993,Dayjoy_All_FAQs_Combined,,DJP1089,DJ-HEA-0090,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::1994,Dayjoy_All_FAQs_Combined,,DJP1089,DJ-HEA-0090,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2004,Dayjoy_All_FAQs_Combined,,DJP1090,DJ-HEA-0091,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2005,Dayjoy_All_FAQs_Combined,,DJP1090,DJ-HEA-0091,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2015,Dayjoy_All_FAQs_Combined,,DJP1091,DJ-HEA-0092,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2016,Dayjoy_All_FAQs_Combined,,DJP1091,DJ-HEA-0092,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2017,Dayjoy_All_FAQs_Combined,,DJP1091,DJ-HEA-0092,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2024,Dayjoy_All_FAQs_Combined,,DJP1091,DJ-HEA-0092,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2026,Dayjoy_All_FAQs_Combined,,DJP1092,DJ-HEA-0093,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2027,Dayjoy_All_FAQs_Combined,,DJP1092,DJ-HEA-0093,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2037,Dayjoy_All_FAQs_Combined,,DJP1093,DJ-HEA-0094,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2038,Dayjoy_All_FAQs_Combined,,DJP1093,DJ-HEA-0094,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2048,Dayjoy_All_FAQs_Combined,,DJP1094,DJ-HEA-0095,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2049,Dayjoy_All_FAQs_Combined,,DJP1094,DJ-HEA-0095,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2059,Dayjoy_All_FAQs_Combined,,DJP1095,DJ-HEA-0096,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2060,Dayjoy_All_FAQs_Combined,,DJP1095,DJ-HEA-0096,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2061,Dayjoy_All_FAQs_Combined,,DJP1095,DJ-HEA-0096,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2070,Dayjoy_All_FAQs_Combined,,DJP1096,DJ-HEA-0097,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2071,Dayjoy_All_FAQs_Combined,,DJP1096,DJ-HEA-0097,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2072,Dayjoy_All_FAQs_Combined,,DJP1096,DJ-HEA-0097,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2079,Dayjoy_All_FAQs_Combined,,DJP1096,DJ-HEA-0097,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2081,Dayjoy_All_FAQs_Combined,,DJP1097,DJ-HEA-0098,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2082,Dayjoy_All_FAQs_Combined,,DJP1097,DJ-HEA-0098,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2092,Dayjoy_All_FAQs_Combined,,DJP1098,DJ-HEA-0099,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2093,Dayjoy_All_FAQs_Combined,,DJP1098,DJ-HEA-0099,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2094,Dayjoy_All_FAQs_Combined,,DJP1098,DJ-HEA-0099,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2103,Dayjoy_All_FAQs_Combined,,DJP1099,DJ-HEA-0100,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2104,Dayjoy_All_FAQs_Combined,,DJP1099,DJ-HEA-0100,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2114,Dayjoy_All_FAQs_Combined,,DJP1100,DJ-HEA-0101,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2115,Dayjoy_All_FAQs_Combined,,DJP1100,DJ-HEA-0101,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2116,Dayjoy_All_FAQs_Combined,,DJP1100,DJ-HEA-0101,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2125,Dayjoy_All_FAQs_Combined,,DJP1101,DJ-HEA-0102,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2126,Dayjoy_All_FAQs_Combined,,DJP1101,DJ-HEA-0102,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2136,Dayjoy_All_FAQs_Combined,,DJP1102,DJ-HEA-0103,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2137,Dayjoy_All_FAQs_Combined,,DJP1102,DJ-HEA-0103,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2138,Dayjoy_All_FAQs_Combined,,DJP1102,DJ-HEA-0103,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2145,Dayjoy_All_FAQs_Combined,,DJP1102,DJ-HEA-0103,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2147,Dayjoy_All_FAQs_Combined,,DJP1103,DJ-HEA-0104,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2148,Dayjoy_All_FAQs_Combined,,DJP1103,DJ-HEA-0104,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2158,Dayjoy_All_FAQs_Combined,,DJP1104,DJ-HEA-0105,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2159,Dayjoy_All_FAQs_Combined,,DJP1104,DJ-HEA-0105,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2169,Dayjoy_All_FAQs_Combined,,DJP1105,DJ-HEA-0106,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2170,Dayjoy_All_FAQs_Combined,,DJP1105,DJ-HEA-0106,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2180,Dayjoy_All_FAQs_Combined,,DJP1106,DJ-HEA-0107,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2181,Dayjoy_All_FAQs_Combined,,DJP1106,DJ-HEA-0107,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2182,Dayjoy_All_FAQs_Combined,,DJP1106,DJ-HEA-0107,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2191,Dayjoy_All_FAQs_Combined,,DJP1107,DJ-HEA-0108,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2192,Dayjoy_All_FAQs_Combined,,DJP1107,DJ-HEA-0108,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2193,Dayjoy_All_FAQs_Combined,,DJP1107,DJ-HEA-0108,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2200,Dayjoy_All_FAQs_Combined,,DJP1107,DJ-HEA-0108,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2202,Dayjoy_All_FAQs_Combined,,DJP1108,DJ-HEA-0109,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2203,Dayjoy_All_FAQs_Combined,,DJP1108,DJ-HEA-0109,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2213,Dayjoy_All_FAQs_Combined,,DJP1109,DJ-HEA-0110,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2214,Dayjoy_All_FAQs_Combined,,DJP1109,DJ-HEA-0110,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2224,Dayjoy_All_FAQs_Combined,,DJP1110,DJ-HEA-0111,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2225,Dayjoy_All_FAQs_Combined,,DJP1110,DJ-HEA-0111,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2233,Dayjoy_All_FAQs_Combined,,DJP1110,DJ-HEA-0111,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2235,Dayjoy_All_FAQs_Combined,,DJP1111,DJ-HEA-0112,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2236,Dayjoy_All_FAQs_Combined,,DJP1111,DJ-HEA-0112,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2244,Dayjoy_All_FAQs_Combined,,DJP1111,DJ-HEA-0112,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2246,Dayjoy_All_FAQs_Combined,,DJP1112,DJ-HEA-0113,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2247,Dayjoy_All_FAQs_Combined,,DJP1112,DJ-HEA-0113,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2255,Dayjoy_All_FAQs_Combined,,DJP1112,DJ-HEA-0113,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2257,Dayjoy_All_FAQs_Combined,,DJP1113,DJ-HEA-0114,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2258,Dayjoy_All_FAQs_Combined,,DJP1113,DJ-HEA-0114,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2266,Dayjoy_All_FAQs_Combined,,DJP1113,DJ-HEA-0114,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2268,Dayjoy_All_FAQs_Combined,,DJP1114,DJ-HEA-0115,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2269,Dayjoy_All_FAQs_Combined,,DJP1114,DJ-HEA-0115,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2279,Dayjoy_All_FAQs_Combined,,DJP1115,DJ-HOM-0116,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2280,Dayjoy_All_FAQs_Combined,,DJP1115,DJ-HOM-0116,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2281,Dayjoy_All_FAQs_Combined,,DJP1115,DJ-HOM-0116,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2282,Dayjoy_All_FAQs_Combined,,DJP1115,DJ-HOM-0116,safety,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2287,Dayjoy_All_FAQs_Combined,,DJP1115,DJ-HOM-0116,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2290,Dayjoy_All_FAQs_Combined,,DJP1116,DJ-HOM-0117,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2291,Dayjoy_All_FAQs_Combined,,DJP1116,DJ-HOM-0117,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2301,Dayjoy_All_FAQs_Combined,,DJP1117,DJ-HOM-0118,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2302,Dayjoy_All_FAQs_Combined,,DJP1117,DJ-HOM-0118,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2310,Dayjoy_All_FAQs_Combined,,DJP1117,DJ-HOM-0118,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2312,Dayjoy_All_FAQs_Combined,,DJP1118,DJ-HOM-0119,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2313,Dayjoy_All_FAQs_Combined,,DJP1118,DJ-HOM-0119,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2323,Dayjoy_All_FAQs_Combined,,DJP1119,DJ-CLO-0120,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2324,Dayjoy_All_FAQs_Combined,,DJP1119,DJ-CLO-0120,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2325,Dayjoy_All_FAQs_Combined,,DJP1119,DJ-CLO-0120,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2331,Dayjoy_All_FAQs_Combined,,DJP1119,DJ-CLO-0120,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2332,Dayjoy_All_FAQs_Combined,,DJP1119,DJ-CLO-0120,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2334,Dayjoy_All_FAQs_Combined,,DJP1120,DJ-CLO-0121,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2335,Dayjoy_All_FAQs_Combined,,DJP1120,DJ-CLO-0121,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2343,Dayjoy_All_FAQs_Combined,,DJP1120,DJ-CLO-0121,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2345,Dayjoy_All_FAQs_Combined,,DJP1121,DJ-CLO-0122,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2346,Dayjoy_All_FAQs_Combined,,DJP1121,DJ-CLO-0122,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2356,Dayjoy_All_FAQs_Combined,,DJP1122,DJ-CLO-0123,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2357,Dayjoy_All_FAQs_Combined,,DJP1122,DJ-CLO-0123,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2365,Dayjoy_All_FAQs_Combined,,DJP1122,DJ-CLO-0123,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2367,Dayjoy_All_FAQs_Combined,,DJP1123,DJ-AGR-0124,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2368,Dayjoy_All_FAQs_Combined,,DJP1123,DJ-AGR-0124,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2369,Dayjoy_All_FAQs_Combined,,DJP1123,DJ-AGR-0124,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2370,Dayjoy_All_FAQs_Combined,,DJP1123,DJ-AGR-0124,safety,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2375,Dayjoy_All_FAQs_Combined,,DJP1123,DJ-AGR-0124,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2378,Dayjoy_All_FAQs_Combined,,DJP1124,DJ-AGR-0125,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2379,Dayjoy_All_FAQs_Combined,,DJP1124,DJ-AGR-0125,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2389,Dayjoy_All_FAQs_Combined,,DJP1125,DJ-AGR-0126,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2390,Dayjoy_All_FAQs_Combined,,DJP1125,DJ-AGR-0126,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2400,Dayjoy_All_FAQs_Combined,,DJP1126,DJ-AGR-0127,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2401,Dayjoy_All_FAQs_Combined,,DJP1126,DJ-AGR-0127,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2411,Dayjoy_All_FAQs_Combined,,DJP1127,DJ-AGR-0128,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2412,Dayjoy_All_FAQs_Combined,,DJP1127,DJ-AGR-0128,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2422,Dayjoy_All_FAQs_Combined,,DJP1128,DJ-AGR-0129,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2423,Dayjoy_All_FAQs_Combined,,DJP1128,DJ-AGR-0129,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2431,Dayjoy_All_FAQs_Combined,,DJP1128,DJ-AGR-0129,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2433,Dayjoy_All_FAQs_Combined,,DJP1129,DJ-AGR-0130,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2434,Dayjoy_All_FAQs_Combined,,DJP1129,DJ-AGR-0130,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2444,Dayjoy_All_FAQs_Combined,,DJP1130,DJ-AGR-0131,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2445,Dayjoy_All_FAQs_Combined,,DJP1130,DJ-AGR-0131,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2455,Dayjoy_All_FAQs_Combined,,DJP1131,DJ-AGR-0132,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2456,Dayjoy_All_FAQs_Combined,,DJP1131,DJ-AGR-0132,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2466,Dayjoy_All_FAQs_Combined,,DJP1132,DJ-AGR-0133,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2467,Dayjoy_All_FAQs_Combined,,DJP1132,DJ-AGR-0133,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2477,Dayjoy_All_FAQs_Combined,,DJP1133,DJ-AGR-0134,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2478,Dayjoy_All_FAQs_Combined,,DJP1133,DJ-AGR-0134,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2486,Dayjoy_All_FAQs_Combined,,DJP1133,DJ-AGR-0134,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2488,Dayjoy_All_FAQs_Combined,,DJP1134,DJ-AGR-0135,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2489,Dayjoy_All_FAQs_Combined,,DJP1134,DJ-AGR-0135,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2499,Dayjoy_All_FAQs_Combined,,DJP1135,DJ-AGR-0136,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2500,Dayjoy_All_FAQs_Combined,,DJP1135,DJ-AGR-0136,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2510,Dayjoy_All_FAQs_Combined,,DJP1136,DJ-GER-0137,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2511,Dayjoy_All_FAQs_Combined,,DJP1136,DJ-GER-0137,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2512,Dayjoy_All_FAQs_Combined,,DJP1136,DJ-GER-0137,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2518,Dayjoy_All_FAQs_Combined,,DJP1136,DJ-GER-0137,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2521,Dayjoy_All_FAQs_Combined,,DJP1137,DJ-GER-0138,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2522,Dayjoy_All_FAQs_Combined,,DJP1137,DJ-GER-0138,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2532,Dayjoy_All_FAQs_Combined,,DJP1138,DJ-AQU-0139,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2533,Dayjoy_All_FAQs_Combined,,DJP1138,DJ-AQU-0139,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2534,Dayjoy_All_FAQs_Combined,,DJP1138,DJ-AQU-0139,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2540,Dayjoy_All_FAQs_Combined,,DJP1138,DJ-AQU-0139,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2543,Dayjoy_All_FAQs_Combined,,DJP1139,DJ-AQU-0140,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2544,Dayjoy_All_FAQs_Combined,,DJP1139,DJ-AQU-0140,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2552,Dayjoy_All_FAQs_Combined,,DJP1139,DJ-AQU-0140,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2554,Dayjoy_All_FAQs_Combined,,DJP1140,DJ-AQU-0141,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2555,Dayjoy_All_FAQs_Combined,,DJP1140,DJ-AQU-0141,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2565,Dayjoy_All_FAQs_Combined,,DJP1141,DJ-AQU-0142,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2566,Dayjoy_All_FAQs_Combined,,DJP1141,DJ-AQU-0142,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2576,Dayjoy_All_FAQs_Combined,,DJP1142,DJ-AQU-0143,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2577,Dayjoy_All_FAQs_Combined,,DJP1142,DJ-AQU-0143,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2585,Dayjoy_All_FAQs_Combined,,DJP1142,DJ-AQU-0143,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2587,Dayjoy_All_FAQs_Combined,,DJP1143,DJ-AQU-0144,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2588,Dayjoy_All_FAQs_Combined,,DJP1143,DJ-AQU-0144,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2596,Dayjoy_All_FAQs_Combined,,DJP1143,DJ-AQU-0144,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2598,Dayjoy_All_FAQs_Combined,,DJP1144,DJ-AQU-0145,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2599,Dayjoy_All_FAQs_Combined,,DJP1144,DJ-AQU-0145,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2609,Dayjoy_All_FAQs_Combined,,DJP1145,DJ-AQU-0146,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2610,Dayjoy_All_FAQs_Combined,,DJP1145,DJ-AQU-0146,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2620,Dayjoy_All_FAQs_Combined,,DJP1146,DJ-PRO-0147,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2621,Dayjoy_All_FAQs_Combined,,DJP1146,DJ-PRO-0147,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2622,Dayjoy_All_FAQs_Combined,,DJP1146,DJ-PRO-0147,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2628,Dayjoy_All_FAQs_Combined,,DJP1146,DJ-PRO-0147,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2631,Dayjoy_All_FAQs_Combined,,DJP1147,DJ-PRO-0148,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2632,Dayjoy_All_FAQs_Combined,,DJP1147,DJ-PRO-0148,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2642,Dayjoy_All_FAQs_Combined,,DJP1148,DJ-PRO-0149,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2643,Dayjoy_All_FAQs_Combined,,DJP1148,DJ-PRO-0149,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2653,Dayjoy_All_FAQs_Combined,,DJP1149,DJ-PRO-0150,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2654,Dayjoy_All_FAQs_Combined,,DJP1149,DJ-PRO-0150,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2664,Dayjoy_All_FAQs_Combined,,DJP1150,DJ-PRO-0151,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2665,Dayjoy_All_FAQs_Combined,,DJP1150,DJ-PRO-0151,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2675,Dayjoy_All_FAQs_Combined,,DJP1151,DJ-PRO-0152,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2676,Dayjoy_All_FAQs_Combined,,DJP1151,DJ-PRO-0152,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2686,Dayjoy_All_FAQs_Combined,,DJP1152,DJ-PRO-0153,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2687,Dayjoy_All_FAQs_Combined,,DJP1152,DJ-PRO-0153,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2697,Dayjoy_All_FAQs_Combined,,DJP1153,DJ-PRO-0154,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2698,Dayjoy_All_FAQs_Combined,,DJP1153,DJ-PRO-0154,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2708,Dayjoy_All_FAQs_Combined,,DJP1154,DJ-PRO-0155,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2709,Dayjoy_All_FAQs_Combined,,DJP1154,DJ-PRO-0155,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2717,Dayjoy_All_FAQs_Combined,,DJP1154,DJ-PRO-0155,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2719,Dayjoy_All_FAQs_Combined,,DJP1155,DJ-PRO-0156,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2720,Dayjoy_All_FAQs_Combined,,DJP1155,DJ-PRO-0156,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2728,Dayjoy_All_FAQs_Combined,,DJP1155,DJ-PRO-0156,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2730,Dayjoy_All_FAQs_Combined,,DJP1156,DJ-PRO-0157,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2731,Dayjoy_All_FAQs_Combined,,DJP1156,DJ-PRO-0157,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2739,Dayjoy_All_FAQs_Combined,,DJP1156,DJ-PRO-0157,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2741,Dayjoy_All_FAQs_Combined,,DJP1157,DJ-PRO-0158,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2742,Dayjoy_All_FAQs_Combined,,DJP1157,DJ-PRO-0158,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2750,Dayjoy_All_FAQs_Combined,,DJP1157,DJ-PRO-0158,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2752,Dayjoy_All_FAQs_Combined,,DJP1158,DJ-PRO-0159,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2753,Dayjoy_All_FAQs_Combined,,DJP1158,DJ-PRO-0159,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2761,Dayjoy_All_FAQs_Combined,,DJP1158,DJ-PRO-0159,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2763,Dayjoy_All_FAQs_Combined,,DJP1159,DJ-PRO-0160,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2764,Dayjoy_All_FAQs_Combined,,DJP1159,DJ-PRO-0160,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2774,Dayjoy_All_FAQs_Combined,,DJP1160,DJ-PRO-0161,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2775,Dayjoy_All_FAQs_Combined,,DJP1160,DJ-PRO-0161,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2783,Dayjoy_All_FAQs_Combined,,DJP1160,DJ-PRO-0161,dosage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2785,Dayjoy_All_FAQs_Combined,,DJP1161,DJ-PRO-0162,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2786,Dayjoy_All_FAQs_Combined,,DJP1161,DJ-PRO-0162,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2796,Dayjoy_All_FAQs_Combined,,DJP1162,DJ-PRO-0163,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2797,Dayjoy_All_FAQs_Combined,,DJP1162,DJ-PRO-0163,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2807,Dayjoy_All_FAQs_Combined,,DJP1163,DJ-PRO-0164,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2808,Dayjoy_All_FAQs_Combined,,DJP1163,DJ-PRO-0164,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2818,Dayjoy_All_FAQs_Combined,,DJP1164,DJ-COM-0165,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2819,Dayjoy_All_FAQs_Combined,,DJP1164,DJ-COM-0165,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2820,Dayjoy_All_FAQs_Combined,,DJP1164,DJ-COM-0165,usage,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2826,Dayjoy_All_FAQs_Combined,,DJP1164,DJ-COM-0165,comparison,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2829,Dayjoy_All_FAQs_Combined,,DJP1165,DJ-COM-0166,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2830,Dayjoy_All_FAQs_Combined,,DJP1165,DJ-COM-0166,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2840,Dayjoy_All_FAQs_Combined,,DJP1166,DJ-COM-0167,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2841,Dayjoy_All_FAQs_Combined,,DJP1166,DJ-COM-0167,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2851,Dayjoy_All_FAQs_Combined,,DJP1167,DJ-COM-0168,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2852,Dayjoy_All_FAQs_Combined,,DJP1167,DJ-COM-0168,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2862,Dayjoy_All_FAQs_Combined,,DJP1168,DJ-COM-0169,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2863,Dayjoy_All_FAQs_Combined,,DJP1168,DJ-COM-0169,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+faq_pair::2873,Dayjoy_All_FAQs_Combined,,DJP1169,DJ-COM-0170,general_info,"public, distributor, internal",safe_general,medium,,approved,faq_pair
+faq_pair::2874,Dayjoy_All_FAQs_Combined,,DJP1169,DJ-COM-0170,pricing,"public, distributor, internal",safe_general,high,,approved,faq_pair
+policy_section::1,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::2,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::3,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::4,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::5,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::6,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::7,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::8,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::9,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::10,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::11,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::12,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::13,canonical-answer-policy,,,,policy,"internal, support, public",safe_general,high,2026-08-04,approved,policy_section
+policy_section::14,canonical-answer-policy,,,,policy,"internal, support, public",admin_only,high,2026-08-04,approved,policy_section
+policy_section::15,canonical-answer-policy,,,,policy,"internal, support, public",admin_only,high,2026-08-04,approved,policy_section
+policy_section::16,canonical-answer-policy,,,,policy,"internal, support, public",admin_only,high,2026-08-04,approved,policy_section
+policy_section::17,canonical-answer-policy,,,,policy,"internal, support, public",admin_only,high,2026-08-04,approved,policy_section
+policy_section::18,canonical-answer-policy,,,,policy,"internal, support, public",admin_only,high,2026-08-04,approved,policy_section

@@ -1,0 +1,12 @@
+filename,bucket,document_type,status,bytes,modified_utc,note
+India-BV-Price-May-2026.pdf,raw,price_list,approved,1889320,2026-08-04T16:38:42.769297Z,Active pricing baseline unless newer approved list exists
+Dayjoy-Product-Brochure-English-July2026_11zon.pdf,raw,brochure,approved,7786816,2026-08-04T16:38:42.265291Z,Approved brochure baseline
+DayjoyProduct_RecommandationChart.pdf,raw,training_recommendation_chart,approved,4062276,2026-08-04T16:38:37.205234Z,Primary recommendation chart
+Dayjoy_Online_Shopping.pdf,raw,policy_support,approved,585659,2026-08-04T16:38:36.529226Z,Shopping/support policy baseline
+Dayjoy-GrowthX-Plan-Presentation_choladeck.pdf,raw,training,approved,14108638,2026-08-04T16:38:36.321224Z,Training baseline PDF
+Dayjoy-GrowthX-Plan-Presentation_choladeck.pptx,raw,training,approved,28362237,2026-08-04T16:38:40.833275Z,Training baseline PPTX
+paste.txt,raw,policy_notes,needs_review,43211,2026-08-04T16:38:33.125446Z,Unclassified source notes; preserved in baseline for audit
+Dayjoy_All_FAQs_Combined.csv,derived,faq_dataset,approved_derived,388003,2026-08-04T16:38:33.365449Z,Derived FAQ baseline
+Dayjoy_Master_Intent_Dataset.csv,derived,intent_dataset,approved_derived,815337,2026-08-04T16:38:32.985445Z,Derived intent baseline
+recommendation_chart_clean.csv,derived,recommendation_dataset,approved_derived,45112,2026-08-04T16:38:33.509451Z,Derived recommendation chart CSV
+recommendation_chart_clean.xlsx,derived,recommendation_dataset,approved_derived,18474,2026-08-04T16:38:33.645452Z,Derived recommendation chart XLSX

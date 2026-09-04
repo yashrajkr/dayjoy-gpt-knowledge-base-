@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+2474,135,DJP1134,DJ-AGR-0135,What is JoyProtect (500ml)?,"JoyProtect (500ml) is a product under the AGRICULTURE & VETERINARY category, offered by the brand HappyGrow.",general_info,1,Various Documents,N/A,medium
+2475,135,DJP1134,DJ-AGR-0135,What is the price and business volume (BV) for JoyProtect (500ml)?,"The MRP is ₹1499.0, Distributor Price (DP) is ₹949.0, and the Business Volume (BV) is 390.0.",pricing,2,Various Documents,N/A,high
+2476,135,DJP1134,DJ-AGR-0135,Who should use this product?,Farmers and individuals seeking organic inputs for sustainable farming and crop health.,usage,3,Various Documents,N/A,medium
+2477,135,DJP1134,DJ-AGR-0135,Is it safe for organic farming?,"Yes, HappyGrow products are designed to be chemical-free solutions for healthier crops.",safety,4,Various Documents,N/A,medium
+2478,135,DJP1134,DJ-AGR-0135,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+2479,135,DJP1134,DJ-AGR-0135,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+2480,135,DJP1134,DJ-AGR-0135,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+2481,135,DJP1134,DJ-AGR-0135,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+2482,135,DJP1134,DJ-AGR-0135,How does it compare to other AGRICULTURE & VETERINARY products?,This product is uniquely formulated under the HappyGrow brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+2483,135,DJP1134,DJ-AGR-0135,What is the pack size?,This specific item comes in a 500ml pack size.,dosage,10,Various Documents,N/A,medium
+2484,135,DJP1134,DJ-AGR-0135,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

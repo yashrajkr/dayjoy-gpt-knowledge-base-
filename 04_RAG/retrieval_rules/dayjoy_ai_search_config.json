@@ -1,0 +1,24 @@
+{
+  "index_name": "dayjoy-ai-search",
+  "top_k": 5,
+  "sources": [
+    "products",
+    "product_faqs",
+    "product_relationships",
+    "knowledge_chunks",
+    "plan_faqs",
+    "condition_recommendations"
+  ],
+  "filters": {
+    "high_risk_categories": [
+      "HEALTH CARE",
+      "SKIN CARE",
+      "PERSONAL CARE"
+    ]
+  },
+  "fallback_rules": [
+    "If no exact product match, search by category and product tags.",
+    "If medical questions are asked, return disclaimers and suggest physician guidance.",
+    "If query asks for best/compare, rank by category match, BV, and FAQ confidence."
+  ]
+}

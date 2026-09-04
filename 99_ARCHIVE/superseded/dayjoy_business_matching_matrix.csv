@@ -1,0 +1,9 @@
+activation_level,weekly_max_threshold_rs,stage,ratio_type,bv_ratio,income_rs,source_file_id,source_page,weekly_closing,weekly_payout,content_type,for_use
+2500 BV,"25,000",1st Incentive,2:1 or 1:2,2500:5000,250,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+2500 BV,"25,000",2nd Incentive Onwards,1:1,2500:2500,250,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+5000 BV,"50,000",1st Incentive,2:1 or 1:2,10000:5000,500,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+5000 BV,"50,000",2nd Incentive Onwards,1:1,5000:5000,500,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+7500 BV,"75,000",1st Incentive,2:1 or 1:2,15000:7500,750,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+7500 BV,"75,000",2nd Incentive Onwards,1:1,7500:7500,750,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+10000 BV,"1,25,000",1st Incentive,2:1 or 1:2,20000:10000,1000,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search
+10000 BV,"1,25,000",2nd Incentive Onwards,1:1,10000:10000,1000,file:124,33,Every Wednesday,Every Friday,business_matching,dayjoy_gpt_search

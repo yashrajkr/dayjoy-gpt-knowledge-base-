@@ -1,0 +1,13 @@
+{
+  "baseline_version": "v1",
+  "created_utc": "2026-08-04T16:38:43.234293Z",
+  "raw_files_count": 7,
+  "derived_files_count": 4,
+  "missing_files": [],
+  "active_pricing_baseline": "India-BV-Price-May-2026.pdf",
+  "instructions": [
+    "Do not edit files under source/baseline-v1 directly.",
+    "Create new versions in future baseline folders or working folders.",
+    "Use the manifest as the frozen audit list for Phase 1."
+  ]
+}

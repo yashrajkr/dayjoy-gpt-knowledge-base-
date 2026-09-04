@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+1385,36,DJP1035,DJ-PER-0036,What is Kesham (100ml)?,"Kesham (100ml) is a product under the PERSONAL CARE category, offered by the brand Wild Muse.",general_info,1,Various Documents,N/A,medium
+1386,36,DJP1035,DJ-PER-0036,What is the price and business volume (BV) for Kesham (100ml)?,"The MRP is ₹149.0, Distributor Price (DP) is ₹91.0, and the Business Volume (BV) is 24.0.",pricing,2,Various Documents,N/A,high
+1387,36,DJP1035,DJ-PER-0036,Who is this suitable for?,"Suitable for anyone looking for natural, high-quality personal care products. Always perform a patch test if you have sensitive skin.",usage,3,Various Documents,N/A,medium
+1388,36,DJP1035,DJ-PER-0036,Is this safe for sensitive skin?,"While made with natural-inspired ingredients, please consult the ingredient list or perform a patch test to ensure it is suitable for your skin.",safety,4,Various Documents,N/A,medium
+1389,36,DJP1035,DJ-PER-0036,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+1390,36,DJP1035,DJ-PER-0036,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+1391,36,DJP1035,DJ-PER-0036,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+1392,36,DJP1035,DJ-PER-0036,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+1393,36,DJP1035,DJ-PER-0036,How does it compare to other PERSONAL CARE products?,This product is uniquely formulated under the Wild Muse brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+1394,36,DJP1035,DJ-PER-0036,What is the pack size?,This specific item comes in a 100ml pack size.,dosage,10,Various Documents,N/A,medium
+1395,36,DJP1035,DJ-PER-0036,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

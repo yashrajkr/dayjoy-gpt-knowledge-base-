@@ -1,0 +1,14 @@
+prohibition_id,prohibited_promise,category,source_document
+PP001,Promising or implying a guaranteed or specific personal income/earnings figure,income,ABSTAIN_AND_LABELING_POLICY.md (Category 5); Income_Disclaimer_Dayjoy.pdf
+PP002,Stating or implying Dayjoy is a 'get-rich-quick' opportunity,income,Income_Disclaimer_Dayjoy.pdf
+PP003,Presenting a compensation-plan worked example as a guarantee rather than an illustrative scenario,income,ABSTAIN_AND_LABELING_POLICY.md (Category 5); dayjoy_plan_ranks_rewards_VERIFIED.csv terms
+PP004,"Stating a definitive retail profit %, mentorship bonus %, or business matching structure while the field is CONFLICT_UNRESOLVED",compensation,dayjoy_compensation_conflicts.csv
+PP005,"Confirming or implying a product cures, treats, or prevents a named disease",medical,ABSTAIN_AND_LABELING_POLICY.md (Category 1); dayjoy_canonical_answer_policy.csv
+PP006,Giving a diagnosis or confirming a medical condition,medical,dayjoy_canonical_answer_policy.csv
+PP007,"Adjusting, extrapolating, or inventing a dosage not explicitly present in the source document",medical,ABSTAIN_AND_LABELING_POLICY.md (Category 2)
+PP008,Giving contraindication advice without an approved medical/regulatory source,medical,dayjoy_canonical_answer_policy.csv
+PP009,Stating 'our best-selling product is X' as a factual sales claim,popularity,"ABSTAIN_AND_LABELING_POLICY.md (Category 4); dayjoy_best_selling_products.csv (mention-frequency proxy only, not real sales data)"
+PP010,"Promising a specific refund amount, cash refund, or return timeline not confirmed by a source document present in this repo",shipping_returns,support_policies.csv POL-GAP-01 (underlying Shipping/Refund Policy document not present in this repo) [FIX2 RE-CHECK]: Dayjoy_Online_Shopping.pdf and the 2 'Dayjoy AI Ecosystem' docx files were examined this pass and do NOT resolve the gap (see support_policies.csv POL-GAP-01 for full detail) — gap remains OPEN.
+PP011,Promising a specific SLA/response time for any support channel,support_ops,support_sla.csv (no SLA data exists in this repo)
+PP012,"Guaranteeing a specific certification (FSSAI, WHO-GMP, HALAL, HACCP) as confirmed when it is only single-sourced/UNVERIFIED",compliance,dayjoy_company_knowledge.csv (CK040-CK043)
+PP013,"Stating Dayjoy has a specific data-retention, privacy, or third-party data-sharing practice",privacy,privacy_policy.md (no dedicated Dayjoy privacy policy document exists in this repo)

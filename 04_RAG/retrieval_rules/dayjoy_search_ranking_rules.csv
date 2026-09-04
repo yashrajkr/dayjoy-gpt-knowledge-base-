@@ -1,0 +1,8 @@
+rank_order,rule,description
+1,exact product code,Highest priority exact-match lookup on product_code
+2,exact SKU,Second priority exact-match lookup on sku
+3,exact product name,Third priority exact-match lookup on canonical product_name
+4,exact policy phrase,Exact phrase match for policy and support rules
+5,metadata filter,"Apply role_scope, approval_status, effective dates, and risk filters before semantic search"
+6,semantic similarity,Vector/BM25 hybrid retrieval on filtered candidate set
+7,re-ranker,"Final reranker uses chunk_type, confidence, recency, and query intent"

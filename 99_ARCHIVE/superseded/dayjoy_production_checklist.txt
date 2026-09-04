@@ -1,0 +1,9 @@
+DAYJOY PRODUCTION READY CHECKLIST
+1. Run dayjoy_database_schema.sql in Supabase staging.
+2. Run dayjoy_seed_data.sql.
+3. Run dayjoy_product_faqs_seed.sql.
+4. Run dayjoy_product_relationships_seed.sql.
+5. Verify row counts match CSVs.
+6. Confirm no FK violations.
+7. Confirm product images and SEO are still pending if not present in source data.
+8. Publish only after manual approval on high-risk health claims.

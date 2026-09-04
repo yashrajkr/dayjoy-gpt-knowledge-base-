@@ -1,0 +1,5 @@
+check,value
+rows in canonical,170
+price rows matched,125
+duplicate key rows,0
+null pack size rows,170

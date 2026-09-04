@@ -1,0 +1,7 @@
+audit_area,status,problem
+Images,Not complete,"No verified image URLs, alt text, thumbnails, gallery assets, or responsive image set were supplied."
+Frontend,Not complete,No GitHub repo files or product page code were provided in a readable export.
+Backend,Not complete,"No live API/server source, routes, or Supabase connection exports were provided."
+RAG retrieval,Partial,"Knowledge chunks exist, but embeddings/vector-store retrieval was not run in a live environment."
+SEO,Not complete,No page-level SEO titles/descriptions/metas were provided for the live site.
+Live QA,Not complete,No deployment URL or browser-run environment was available to test UI/search.

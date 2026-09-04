@@ -1,0 +1,88 @@
+DAYJOY CUSTOM GPT - PROJECT ANALYSIS & IMPLEMENTATION PLAN
+============================================================
+
+PHASE 1: ANALYSIS - WHY THE GPT CANNOT ANSWER DAYJOY QUESTIONS
+----------------------------------------------------------------
+The current custom GPT fails to answer DayJoy-related questions because:
+1. No knowledge base file has been uploaded with company-specific data
+2. No custom instructions referencing DayJoy company details exist
+3. The GPT has no access to product catalogs, compensation plans, or company history
+4. Without explicit data, the GPT relies on general web knowledge which is limited for DayJoy
+
+PHASE 2: SOLUTION - INSERT LIVE DATA AS KNOWLEDGE BASE
+----------------------------------------------------------------
+Files created for upload to the Custom GPT Knowledge section:
+
+1. dayjoy_gpt_knowledge_base.txt  (PRIMARY - Upload this to Knowledge)
+   - Complete company overview, founders, products, compensation plan, FAQ
+   - 6,916 characters covering all DayJoy information
+
+2. dayjoy_knowledge_base.json  (STRUCTURED DATA)
+   - Machine-readable format for structured queries
+
+3. dayjoy_faq.csv  (FAQ PAIRS)
+   - 18 pre-built Q&A pairs for common queries
+
+4. dayjoy_company_overview.csv  (COMPANY FACTS)
+5. dayjoy_compensation_plan.csv  (INCOME DETAILS)
+6. dayjoy_products.csv  (PRODUCT CATALOG)
+7. dayjoy_sub_brands.csv  (SUB-BRAND INFO)
+
+PHASE 3: CUSTOM INSTRUCTIONS FOR THE GPT
+----------------------------------------------------------------
+Paste these instructions into the GPT's "Instructions" field:
+
+---
+You are DayJoy Assistant, a knowledgeable AI assistant for Dayjoy Marketing Private Limited, a direct selling and wellness company based in Kota, Rajasthan, India. 
+
+Your role is to answer questions about:
+- Company information (history, founders, leadership, legal details)
+- Products (health care, personal care, food, home care, textiles, agriculture)
+- Sub-brands (Asthprash, Curind, Wild Muse, Yumdum, Aayushmaan, Homeshine, Domatti, HappyGrow)
+- Business plan and compensation plan (binary income, generation income, mentorship bonus, performance incentives, ranks, rewards)
+- Registration and joining process
+- Contact information and digital presence
+
+Always reference the uploaded knowledge base files for accurate information. If a question is outside the scope of DayJoy company information, politely redirect to DayJoy-related topics. Provide information in a clear, professional manner. Use bullet points for lists and keep answers concise but complete.
+
+Key facts to always remember:
+- Dayjoy was founded in 2018, headquartered in Kota, Rajasthan
+- Parent company: Adila Group (founded 2009 by Shambhu Kumar Agarwal)
+- Directors: Shambhu Kumar Agrawal, Anmol Agarwal, Divyansh Agarwal
+- Business model: Direct Selling (Hybrid Plan - Binary + Generation + Mentorship)
+- 150+ products across 6 categories
+- Presence in 24 states, 1,000+ franchise outlets
+- Registration is FREE
+- 16+ income streams
+- Website: dayjoy.in | Email: support@dayjoy.in | Phone: +91 74120 34387
+---
+
+PHASE 4: EXECUTION STEPS
+----------------------------------------------------------------
+Step 1: Open ChatGPT -> Explore -> Create a GPT (or edit existing DayJoy GPT)
+Step 2: In the "Instructions" field, paste the custom instructions from Phase 3
+Step 3: In the "Knowledge" section, upload dayjoy_gpt_knowledge_base.txt (primary)
+Step 4: Optionally upload additional CSV files for structured data access
+Step 5: Under "Capabilities", enable "Code Interpreter" for data analysis
+Step 6: Set the GPT name to "DayJoy Assistant"
+Step 7: Add a description: "Official AI assistant for Dayjoy Marketing Private Limited"
+Step 8: Test with sample questions:
+   - "What is DayJoy?"
+   - "Tell me about the compensation plan"
+   - "What products does DayJoy sell?"
+   - "How do I join DayJoy?"
+   - "Who founded DayJoy?"
+Step 9: Save and Publish
+
+PHASE 5: TESTING CHECKLIST
+----------------------------------------------------------------
+[ ] GPT correctly identifies DayJoy as a direct selling company
+[ ] GPT lists all 8 sub-brands accurately
+[ ] GPT explains the hybrid compensation plan
+[ ] GPT provides joining package details (Rs 7,600 / Rs 7,700)
+[ ] GPT lists all 16 income streams
+[ ] GPT provides contact information
+[ ] GPT explains performance incentive levels (5%-21%)
+[ ] GPT lists annual rewards correctly
+[ ] GPT explains the loyalty program
+[ ] GPT handles product category queries

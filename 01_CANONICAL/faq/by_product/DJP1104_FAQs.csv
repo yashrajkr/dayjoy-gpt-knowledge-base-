@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+2144,105,DJP1104,DJ-HEA-0105,What is Shatavari Extract (60 Veg Capsules)?,"Shatavari Extract (60 Veg Capsules) is a product under the HEALTH CARE category, offered by the brand Curind.",general_info,1,Various Documents,N/A,medium
+2145,105,DJP1104,DJ-HEA-0105,What is the price and business volume (BV) for Shatavari Extract (60 Veg Capsules)?,"The MRP is ₹499.0, Distributor Price (DP) is ₹299.0, and the Business Volume (BV) is 110.0.",pricing,2,Various Documents,N/A,high
+2146,105,DJP1104,DJ-HEA-0105,Who should use this product?,Individuals looking for Ayurvedic and health support supplements as directed by Dayjoy's guidelines.,usage,3,Various Documents,N/A,medium
+2147,105,DJP1104,DJ-HEA-0105,Is this a medicine?,"This product does not replace medical treatment. Consult a qualified physician before use, especially if you are on medication or have a diagnosed condition.",safety,4,Various Documents,N/A,medium
+2148,105,DJP1104,DJ-HEA-0105,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+2149,105,DJP1104,DJ-HEA-0105,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+2150,105,DJP1104,DJ-HEA-0105,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+2151,105,DJP1104,DJ-HEA-0105,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+2152,105,DJP1104,DJ-HEA-0105,How does it compare to other HEALTH CARE products?,This product is uniquely formulated under the Curind brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+2153,105,DJP1104,DJ-HEA-0105,What is the pack size?,This specific item comes in a 60 Veg Capsules pack size.,dosage,10,Various Documents,N/A,medium
+2154,105,DJP1104,DJ-HEA-0105,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

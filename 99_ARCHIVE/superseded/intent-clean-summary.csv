@@ -1,0 +1,7 @@
+metric,value
+source_rows,4000
+exact_duplicate_questions_removed,2473
+conflict_symptom_groups,0
+customer_safe_intents,1064
+internal_distributor_intents,420
+regulated_health_intents_review,43

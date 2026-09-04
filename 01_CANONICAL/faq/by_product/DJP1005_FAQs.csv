@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+1055,6,DJP1005,DJ-FOO-0006,What is Dhaniya Powder (25g)?,"Dhaniya Powder (25g) is a product under the FOOD PRODUCTS category, offered by the brand Aayushmaan / YumDum / Total Joy.",general_info,1,Various Documents,N/A,medium
+1056,6,DJP1005,DJ-FOO-0006,What is the price and business volume (BV) for Dhaniya Powder (25g)?,"The MRP is ₹20.0, Distributor Price (DP) is ₹15.0, and the Business Volume (BV) is 1.0.",pricing,2,Various Documents,N/A,high
+1057,6,DJP1005,DJ-FOO-0006,Who should use this?,"Anyone looking for premium, wholesome food and spice products to enhance their daily meals.",usage,3,Various Documents,N/A,medium
+1058,6,DJP1005,DJ-FOO-0006,Is this product organic?,"Aayushmaan and YumDum products emphasize pure, authentic ingredients. Please check the specific packaging for organic certification.",general_info,4,Various Documents,N/A,medium
+1059,6,DJP1005,DJ-FOO-0006,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+1060,6,DJP1005,DJ-FOO-0006,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+1061,6,DJP1005,DJ-FOO-0006,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+1062,6,DJP1005,DJ-FOO-0006,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+1063,6,DJP1005,DJ-FOO-0006,How does it compare to other FOOD PRODUCTS products?,This product is uniquely formulated under the Aayushmaan / YumDum / Total Joy brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+1064,6,DJP1005,DJ-FOO-0006,What is the pack size?,This specific item comes in a 25g pack size.,dosage,10,Various Documents,N/A,medium
+1065,6,DJP1005,DJ-FOO-0006,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

@@ -1,0 +1,2435 @@
+node_id,node_type,label,source_id
+COMPANY:DAYJOY,Company,Dayjoy Marketing Private Limited,01_CANONICAL/company/dayjoy_company_overview.csv
+CATEGORY:food-products,Category,FOOD PRODUCTS,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:personal-care,Category,PERSONAL CARE,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:skin-care,Category,SKIN CARE,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:color-cosmetics,Category,COLOR COSMETICS,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:health-care,Category,HEALTH CARE,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:home-care,Category,HOME CARE,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:clothing,Category,CLOTHING,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:agriculture-veterinary,Category,AGRICULTURE & VETERINARY,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:germanium-magnetic,Category,GERMANIUM & MAGNETIC,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:aqua-essentials,Category,AQUA ESSENTIALS,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:promotion-tools,Category,PROMOTION TOOLS,01_CANONICAL/company/dayjoy_categories.csv
+CATEGORY:combo-packages,Category,COMBO PACKAGES,01_CANONICAL/company/dayjoy_categories.csv
+PRODUCT:DJP1000,Product,Black Salt Sprinkler (200g),DJP1000
+PRODUCT:DJP1001,Product,Chaat Masala (100g),DJP1001
+PRODUCT:DJP1002,Product,Chicken Masala (100g),DJP1002
+PRODUCT:DJP1003,Product,Daily Tea (250g),DJP1003
+PRODUCT:DJP1004,Product,Daily Tea (500g),DJP1004
+PRODUCT:DJP1005,Product,Dhaniya Powder (25g),DJP1005
+PRODUCT:DJP1006,Product,Dhaniya Powder (200g),DJP1006
+PRODUCT:DJP1007,Product,Dhaniya Powder (500g),DJP1007
+PRODUCT:DJP1008,Product,Garam Masala (100g),DJP1008
+PRODUCT:DJP1009,Product,Haldi Powder (25g),DJP1009
+PRODUCT:DJP1010,Product,Haldi Powder (200g),DJP1010
+PRODUCT:DJP1011,Product,Haldi Powder (500g),DJP1011
+PRODUCT:DJP1012,Product,Himalayan Pink Salt Sprinkler (200g),DJP1012
+PRODUCT:DJP1013,Product,Jaljeera (100g),DJP1013
+PRODUCT:DJP1014,Product,Organic Jeera (250g),DJP1014
+PRODUCT:DJP1015,Product,Kasuri Methi (50g),DJP1015
+PRODUCT:DJP1016,Product,Mirchi Powder (25g),DJP1016
+PRODUCT:DJP1017,Product,Mirchi Powder (200g),DJP1017
+PRODUCT:DJP1018,Product,Mirchi Powder (500g),DJP1018
+PRODUCT:DJP1019,Product,Rai (250g),DJP1019
+PRODUCT:DJP1020,Product,Sabji Masala (100g),DJP1020
+PRODUCT:DJP1021,Product,New Total Joy Rice Bran Oil (1 Litre),DJP1021
+PRODUCT:DJP1022,Product,Total Joy Rice Bran Oil (2 Litre),DJP1022
+PRODUCT:DJP1023,Product,Veg Biryani with Shahi Gravy,DJP1023
+PRODUCT:DJP1024,Product,Poha with Bhujia,DJP1024
+PRODUCT:DJP1025,Product,Upma with Bhujia,DJP1025
+PRODUCT:DJP1026,Product,Anti Pollution Face Wash (150ml),DJP1026
+PRODUCT:DJP1027,Product,Anti Pollution Aloevera Face Wash (100ml),DJP1027
+PRODUCT:DJP1028,Product,Aloevera Gel (100g),DJP1028
+PRODUCT:DJP1029,Product,BR Rich Oil (200ml),DJP1029
+PRODUCT:DJP1030,Product,Daily Care Cream (60g),DJP1030
+PRODUCT:DJP1031,Product,Luxury Saffron Soap (100g),DJP1031
+PRODUCT:DJP1032,Product,Ecofriendly Toothbrush (Pack of 2),DJP1032
+PRODUCT:DJP1033,Product,HerboSmile Herbal Toothpaste (100g),DJP1033
+PRODUCT:DJP1034,Product,Hydra Aloevera Body Lotion (300ml),DJP1034
+PRODUCT:DJP1035,Product,Kesham (100ml),DJP1035
+PRODUCT:DJP1036,Product,Luxwash Handwash (250ml),DJP1036
+PRODUCT:DJP1037,Product,Milk & Keratin Extracts Shampoo (100ml),DJP1037
+PRODUCT:DJP1038,Product,Milk Bath Soap (100g),DJP1038
+PRODUCT:DJP1039,Product,Milk Bath Soap (Pack of 3) (100g),DJP1039
+PRODUCT:DJP1040,Product,Neem & Tulsi Herbal Soap (100g) (Pack of 3),DJP1040
+PRODUCT:DJP1041,Product,Regain Aloevera Shampoo (300ml),DJP1041
+PRODUCT:DJP1042,Product,Sandalwood & Shahi Gulab Body Lotion (150ml),DJP1042
+PRODUCT:DJP1043,Product,Sanitary Pad (XL) (Pack of 10),DJP1043
+PRODUCT:DJP1044,Product,Sanitary Pad (XXL) (Pack of 10),DJP1044
+PRODUCT:DJP1045,Product,Seabuckthron Facial Kit (30g) (Pack of 6),DJP1045
+PRODUCT:DJP1046,Product,Seabuckthron Cleanser (30g),DJP1046
+PRODUCT:DJP1047,Product,Seabuckthron Scrub (30g),DJP1047
+PRODUCT:DJP1048,Product,Seabuckthron Massage Gel (30g),DJP1048
+PRODUCT:DJP1049,Product,Seabuckthron Massage Cream (30g),DJP1049
+PRODUCT:DJP1050,Product,Seabuckthron Face Pack (30g),DJP1050
+PRODUCT:DJP1051,Product,Seabuckthron Facial Fluid (10ml),DJP1051
+PRODUCT:DJP1052,Product,Deep Cleansing Face Wash (100ml),DJP1052
+PRODUCT:DJP1053,Product,Deep Cleansing Facewash (60ml),DJP1053
+PRODUCT:DJP1054,Product,WildMuse Premium Loofah,DJP1054
+PRODUCT:DJP1055,Product,Amla Reetha Sikakai Shampoo (100ml),DJP1055
+PRODUCT:DJP1056,Product,Haldi Chandan Facewash (60ml),DJP1056
+PRODUCT:DJP1057,Product,Face Serum (30ml),DJP1057
+PRODUCT:DJP1058,Product,Gold Facial Kit,DJP1058
+PRODUCT:DJP1059,Product,Sunscreen SPF 50+ (50gm),DJP1059
+PRODUCT:DJP1060,Product,Hydra Max Moisturizer (50gm),DJP1060
+PRODUCT:DJP1061,Product,AgeX Anti-Ageing Night Cream (50gm),DJP1061
+PRODUCT:DJP1062,Product,AcneX Anti-Acne Foaming Cleanser (100ml),DJP1062
+PRODUCT:DJP1063,Product,Amara Beauty Kajal,DJP1063
+PRODUCT:DJP1064,Product,Amara Beauty Eyeliner,DJP1064
+PRODUCT:DJP1065,Product,Asthprash (300 grams),DJP1065
+PRODUCT:DJP1066,Product,Adicardial (120 Tab),DJP1066
+PRODUCT:DJP1067,Product,Adicardial Syrup (500ml),DJP1067
+PRODUCT:DJP1068,Product,Adila Forte (30 Tab),DJP1068
+PRODUCT:DJP1069,Product,Adila Forte (60 Tab),DJP1069
+PRODUCT:DJP1070,Product,Adilipo (120 Tab),DJP1070
+PRODUCT:DJP1071,Product,Adilipo (60 Tab),DJP1071
+PRODUCT:DJP1072,Product,Adiliv (60 Tab),DJP1072
+PRODUCT:DJP1073,Product,Aloevera with Guava Juice (1L),DJP1073
+PRODUCT:DJP1074,Product,Astheal Cough Syrup (100ml),DJP1074
+PRODUCT:DJP1075,Product,Ashvagandha Extract (60 Veg Capsules),DJP1075
+PRODUCT:DJP1076,Product,Amla Extract (60 Veg Capsules),DJP1076
+PRODUCT:DJP1077,Product,Advanced Calcium Tablets,DJP1077
+PRODUCT:DJP1078,Product,Arogya Churn (100g),DJP1078
+PRODUCT:DJP1079,Product,Di-beat (60 Tab),DJP1079
+PRODUCT:DJP1080,Product,Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml),DJP1080
+PRODUCT:DJP1081,Product,Gas-O-Free (200ml),DJP1081
+PRODUCT:DJP1082,Product,Gas-O-Free (500ml),DJP1082
+PRODUCT:DJP1083,Product,GoPiles (60 Tab),DJP1083
+PRODUCT:DJP1084,Product,GoPiles Syrup (500ml),DJP1084
+PRODUCT:DJP1085,Product,Giloe Extract (60 Veg Capsules),DJP1085
+PRODUCT:DJP1086,Product,Eye Elixir Drops (10ml),DJP1086
+PRODUCT:DJP1087,Product,Eye Health++ (60 Capsules),DJP1087
+PRODUCT:DJP1088,Product,HB+ (200ml),DJP1088
+PRODUCT:DJP1089,Product,HB+ (500ml),DJP1089
+PRODUCT:DJP1090,Product,Hi-Energy (60 Tab),DJP1090
+PRODUCT:DJP1091,Product,Kidney Kawach (300 g),DJP1091
+PRODUCT:DJP1092,Product,Liv-Ease (200ml),DJP1092
+PRODUCT:DJP1093,Product,Liv-Ease (500ml),DJP1093
+PRODUCT:DJP1094,Product,Multivitamins Tablets,DJP1094
+PRODUCT:DJP1095,Product,Nonima (500ml),DJP1095
+PRODUCT:DJP1096,Product,N-astheal (120 Tab),DJP1096
+PRODUCT:DJP1097,Product,N-astheal (60 Tab),DJP1097
+PRODUCT:DJP1098,Product,Orthofix (60 Tab),DJP1098
+PRODUCT:DJP1099,Product,Orthofix Oil (100ml),DJP1099
+PRODUCT:DJP1100,Product,Omega 3-6-9,DJP1100
+PRODUCT:DJP1101,Product,Quick 6 Pain Relief Gel (30g),DJP1101
+PRODUCT:DJP1102,Product,Super Rich Berry Juice (1 Ltr.),DJP1102
+PRODUCT:DJP1103,Product,Seabuckthron Juice (1 Ltr.),DJP1103
+PRODUCT:DJP1104,Product,Shatavari Extract (60 Veg Capsules),DJP1104
+PRODUCT:DJP1105,Product,Super Food Capsule,DJP1105
+PRODUCT:DJP1106,Product,Premium Tulsi Max (30ml),DJP1106
+PRODUCT:DJP1107,Product,Vital Protein Powder (300gm),DJP1107
+PRODUCT:DJP1108,Product,L-Arginine++ - Energy Drink (100g),DJP1108
+PRODUCT:DJP1109,Product,Ample Meal - Meal Replacement Nutritional Shake (500g),DJP1109
+PRODUCT:DJP1110,Product,JuniorJoy - Kids Nutritional Drink (300g),DJP1110
+PRODUCT:DJP1111,Product,Kahwa Masala Chai (25 Pcs),DJP1111
+PRODUCT:DJP1112,Product,Shilajit Gummies (60 Gummies),DJP1112
+PRODUCT:DJP1113,Product,Apple Cider Vinegar (3X20 Tablets),DJP1113
+PRODUCT:DJP1114,Product,Marine Collagen (200g),DJP1114
+PRODUCT:DJP1115,Product,Dishwash Liquid Gel (500ml),DJP1115
+PRODUCT:DJP1116,Product,Toilet Bowl Cleaner (500ml),DJP1116
+PRODUCT:DJP1117,Product,Liquid Detergent (1Ltr.),DJP1117
+PRODUCT:DJP1118,Product,All in 1 Surface Cleaner (500ml),DJP1118
+PRODUCT:DJP1119,Product,Premium Suit Length (Black),DJP1119
+PRODUCT:DJP1120,Product,Designer Mask (Pack of 5),DJP1120
+PRODUCT:DJP1121,Product,Dayjoy Necktie,DJP1121
+PRODUCT:DJP1122,Product,"T-shirt New Design (L, M, XL)",DJP1122
+PRODUCT:DJP1123,Product,Happy Soil - Humic (500ml),DJP1123
+PRODUCT:DJP1124,Product,Nano Tech-19 (500ml),DJP1124
+PRODUCT:DJP1125,Product,Nano Tech-46 (500ml),DJP1125
+PRODUCT:DJP1126,Product,Nano Tech-50 (500ml),DJP1126
+PRODUCT:DJP1127,Product,Nano Tech-52 (500ml),DJP1127
+PRODUCT:DJP1128,Product,Prosperous+ (1 L),DJP1128
+PRODUCT:DJP1129,Product,Prosperous+ Tablets,DJP1129
+PRODUCT:DJP1130,Product,Joy-O-Zyme (500ml),DJP1130
+PRODUCT:DJP1131,Product,JoySpread 80+ Gold (250ml),DJP1131
+PRODUCT:DJP1132,Product,JoySpread 80+ Gold (100ml),DJP1132
+PRODUCT:DJP1133,Product,JoyGrow 2X (Granules) (2kg),DJP1133
+PRODUCT:DJP1134,Product,JoyProtect (500ml),DJP1134
+PRODUCT:DJP1135,Product,JoyCalcium (2 Litre),DJP1135
+PRODUCT:DJP1136,Product,Bio-Germanium & Magnetic Mattress,DJP1136
+PRODUCT:DJP1137,Product,Bio-Germanium & Magnetic Mattress (Pack of 2),DJP1137
+PRODUCT:DJP1138,Product,Aqua Energiser (Pack of 3),DJP1138
+PRODUCT:DJP1139,Product,Aqua Energiser (Single),DJP1139
+PRODUCT:DJP1140,Product,New Perfect-Ion,DJP1140
+PRODUCT:DJP1141,Product,Perfect-Ion Testing Solutions,DJP1141
+PRODUCT:DJP1142,Product,Perfect-Ion Leaflets (Set of 25),DJP1142
+PRODUCT:DJP1143,Product,Perfect-Ion Leaflets (Set of 50),DJP1143
+PRODUCT:DJP1144,Product,N-SF 9.5 Mineraliser,DJP1144
+PRODUCT:DJP1145,Product,N-SF 10.5 Mineraliser,DJP1145
+PRODUCT:DJP1146,Product,Dayjoy Diary,DJP1146
+PRODUCT:DJP1147,Product,Dayjoy Leather Bag,DJP1147
+PRODUCT:DJP1148,Product,Dayjoy Cap,DJP1148
+PRODUCT:DJP1149,Product,Dayjoy Mug,DJP1149
+PRODUCT:DJP1150,Product,Dayjoy Bike Sticker,DJP1150
+PRODUCT:DJP1151,Product,Dayjoy Car Sticker,DJP1151
+PRODUCT:DJP1152,Product,Dayjoy Pin,DJP1152
+PRODUCT:DJP1153,Product,Dayjoy Backpack Bag,DJP1153
+PRODUCT:DJP1154,Product,New Dayjoy Product Brochure (Hindi),DJP1154
+PRODUCT:DJP1155,Product,New Dayjoy Product Brochure (English),DJP1155
+PRODUCT:DJP1156,Product,New Dayjoy Product Brochure (Telugu),DJP1156
+PRODUCT:DJP1157,Product,Product Leaflets (Set of 48 Leaflets),DJP1157
+PRODUCT:DJP1158,Product,Hindi One-Page Compensation Plan (Set of 25 Leaflets),DJP1158
+PRODUCT:DJP1159,Product,English One-Page Compensation Plan (Set of 25 Leaflets),DJP1159
+PRODUCT:DJP1160,Product,Hindi One-Page Compensation Plan (Set of 50 Leaflets),DJP1160
+PRODUCT:DJP1161,Product,English One-Page Compensation Plan (Set of 50 Leaflets),DJP1161
+PRODUCT:DJP1162,Product,Dayjoy Business Planner Book (Hindi),DJP1162
+PRODUCT:DJP1163,Product,Dayjoy Business Planner Book (English),DJP1163
+PRODUCT:DJP1164,Product,STANDARD PACKAGE,DJP1164
+PRODUCT:DJP1165,Product,PREMIUM PACKAGE,DJP1165
+PRODUCT:DJP1166,Product,ELITE PACKAGE,DJP1166
+PRODUCT:DJP1167,Product,AGRI PRO PACKAGE,DJP1167
+PRODUCT:DJP1168,Product,AGRI STARTER PACKAGE,DJP1168
+PRODUCT:DJP1169,Product,LEGEND PACKAGE,DJP1169
+INGREDIENT:0001,Ingredient,Black Salt,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0001,Benefit,"Mineral-rich, naturally sourced, and free from chemicals and additives",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0002,Benefit,"Support digestion, hydration, and overall wellness",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0003,Benefit,"Crafted from premium, organically sourced spices, free from chemicals and additives",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0004,Benefit,Enhances your dishes with rich aroma,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0005,Benefit,Antioxidant-rich tea supports a healthy lifestyle while delivering a natural caffeine boost,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0006,Benefit,Free from additives and preservatives,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0007,Benefit,"Add rich color, aroma, and flavor to your dishes while supporting digestion and overall wellness",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0008,Benefit,Free from chemicals and additives,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0002,Ingredient,Himalayan Pink Salt,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0003,Ingredient,Organic spices/herbs,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0009,Benefit,"Warm, earthy flavor for curries, dals, and spice blends",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0010,Benefit,Supporting digestion and overall wellness,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0004,Ingredient,Organic cumin seeds,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0005,Ingredient,Organic fenugreek leaves,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0011,Benefit,"Rich aroma and authentic taste for dals, curries, and breads",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0006,Ingredient,Organic mustard seeds,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0012,Benefit,"Bold, pungent flavor for pickles, curries, and tempering",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0013,Benefit,Light and less greasy for healthier meals,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0014,Benefit,Rich in Vitamins A & D,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0015,Benefit,High smoke point,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0016,Benefit,Strengthens immunity,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0007,Ingredient,Rice Bran Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0008,Ingredient,Basmati rice,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0009,Ingredient,spices,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0017,Benefit,"Tasty, nutritious, and convenient",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0018,Benefit,"Free from preservatives and artificial flavors, they offer a pure, homemade taste",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0010,Ingredient,Flattened rice,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0011,Ingredient,bhujia,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0012,Ingredient,Semolina,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0019,Benefit,"Hydrates the Skin, Soothes and Calms, Fights Skin Pollution Damage, Restores Skin's Natural Glow",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0013,Ingredient,Aloe Vera,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0020,Benefit,"Reduces acne & pimple, Heals minor burns & wounds, Soothes sunburn & Skin Irritation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0021,Benefit,"Detangles Hair, Improves Scalp Health, Promotes Hair Growth, Adds Shine and Luster, Moisturizes and Conditions",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0022,Benefit,"Evens Skin Tone, Soothes and Calms Skin, Prevents Premature Aging, Non-Greasy, Lightweight Formula",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0014,Ingredient,Saffron,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0023,Benefit,"Revitalizes Dull Skin, Enhances Skin Brightness, Suitable for All Skin Types, Cruelty-Free & Eco-Friendly",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0015,Ingredient,Bamboo,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0024,Benefit,"Biodegradable, Gentle on Gums, Non-Toxic and Safe, Reduces Plastic Waste",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0016,Ingredient,Herbal blend,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0025,Benefit,"Supports Gum Health, Safe for Sensitive Teeth, Naturally Whiten Teeth, Promotes Overall Oral Health",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0026,Benefit,"Soothes Irritated Skin, Maintains Skin Softness, Leaves Skin Feeling Refreshed, Provides intense moisture to dry skin",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0027,Benefit,"Reduces Frizz, Restores Scalp pH Balance, Promotes Healthy Hair Texture, Promotes Healthy Hair Follicles",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0028,Benefit,"Nourishes & Hydrates, Refreshing Experience, Long-Lasting Freshness, Suitable for All Skin Types",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0017,Ingredient,Milk,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0018,Ingredient,Keratin (paraben-free),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0029,Benefit,"Smoothens Hair, Reduced frizz and breakage, Improved smoothness and shine, Deep nourishment and hydration",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0030,Benefit,"Anti-Aging Properties, Non-Irritating Formula, Deeply Moisturizes Skin, Rich In Essential Nutrients",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0019,Ingredient,Milk (78% TFM),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0031,Benefit,"Natural Detoxification, Fights Acne & Pimples, Moisturizes & Hydrates, Gentle on Sensitive Skin",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0032,Benefit,Reduces hair fall,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0033,Benefit,balances scalp oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0034,Benefit,hair growth,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0035,Benefit,strengthens follicles,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0020,Ingredient,Organic cotton,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0021,Ingredient,biodegradable gel core,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0036,Benefit,"8-Layer Gel Technology locks in fluid and neutralizes odors, Ultra-soft surface for instant dry feel, Breathable Base Layer",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0022,Ingredient,Sea Buckthorn,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0037,Benefit,"Soothes and calms, Hydrates and nourishes, Repairs and rejuvenates skin, Brightens and evens skin tone",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0038,Benefit,"Balances Skin's Natural Oils, Supports a Healthy Skin Barrier, Deep Cleansing Without Drying",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0039,Benefit,"Refines Skin Texture, Brightens and Revives, Soothes Sensitive Skin, Promotes Skin Renewal",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0040,Benefit,"Soothes irritation and calms sensitive skin, Rich in antioxidants to protect against aging, Improves skin elasticity",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0041,Benefit,"Deeply Hydrates, Improves Skin Texture, Protects Against Aging, Promotes Skin Elasticity",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0042,Benefit,"Fights Signs of Aging, Repairs and Revitalizes, Nourishes and Hydrates",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0043,Benefit,"Anti-Aging, Intense Hydration, Brightens and Revitalizes, Protects and Replenishes",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0044,Benefit,"Improves Skin Texture, Soothes and Refreshes, Exfoliates Dead Skin Cells, Removes Dirt and Impurities",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0045,Benefit,"Great for Detoxifying, Sustainable and Eco-Friendly, Hypoallergenic and Skin-Safe, Enhances Lathering",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0023,Ingredient,Amla,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0024,Ingredient,Reetha,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0025,Ingredient,Shikakai,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0026,Ingredient,Bhringraj,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0046,Benefit,"Helps Strengthen Hair Roots, Supports Healthy Hair Growth, Helps Reduce Hair Fall, Gently Cleanses Scalp & Hair",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0027,Ingredient,Haldi (Turmeric),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0028,Ingredient,Chandan (Sandalwood),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0029,Ingredient,Niacinamide,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0030,Ingredient,Hyaluronic Acid,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0031,Ingredient,Vitamin B5,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0032,Ingredient,Green Tea Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0047,Benefit,"Deeply hydrates and plumps skin, fades dark spots and evens out skin tone, refines pores and controls excess oil",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0033,Ingredient,Squalane,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0034,Ingredient,Murumuru Butter,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0035,Ingredient,Licorice Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0036,Ingredient,Witch Hazel,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0037,Ingredient,Gold Dust & Vitamin E,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0048,Benefit,"Deeply cleanses and removes impurities, Exfoliates dead skin cells, Hydrates and nourishes the skin",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0038,Ingredient,Vitamin C,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0039,Ingredient,Vitamin E,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0040,Ingredient,Glycerin,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0041,Ingredient,Zinc Oxide,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0049,Benefit,"Protects skin from harmful UVA & UVB rays, helps prevent sun-induced dark spots and tanning, brightens skin",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0042,Ingredient,Panthenol,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0050,Benefit,"Instantly hydrates and refreshes dull, tired skin, soothes and cools with aloe vera, balances oil without clogging pores",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0043,Ingredient,Retinol Palmitate,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0044,Ingredient,Ceramide-3,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0045,Ingredient,Copper Peptides,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0051,Benefit,"Reduces the appearance of fine lines and wrinkles, Deeply hydrates and plumps the skin overnight, Strengthens the skin barrier",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0046,Ingredient,Salicylic Acid 2%,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0047,Ingredient,Green Tea Extract 2%,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0048,Ingredient,Aloe Vera Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0049,Ingredient,Allantoin,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0052,Benefit,"Helps reduce acne, pimples, and blemishes, Removes excess oil and deeply cleanses pores, Soothes redness and irritation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0050,Ingredient,Castor Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0051,Ingredient,Carnauba Wax,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0052,Ingredient,Aloe Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0053,Ingredient,Camphor,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0054,Ingredient,Candelilla Wax,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0053,Benefit,"Smudge-proof and waterproof for up to 12 hours, Enriched with natural, soothing herbal extracts, Non-drying",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0055,Ingredient,Almond Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0056,Ingredient,Glycerine,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0057,Ingredient,PEG-10 Dimethicone,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0058,Ingredient,Carbon Black,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0054,Benefit,"24-hour long stay with an intense matte finish, Ultra-fine tip for sharp, precise application, Quick-drying",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0059,Ingredient,Tulsi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0060,Ingredient,Mulethi (Licorice),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0061,Ingredient,Kali Mirch (Black Pepper),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0062,Ingredient,Adusa (Vasa Patra),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0063,Ingredient,Honey,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0055,Benefit,"Cleans lungs from poisonous tar and air pollution, controls asthma and allergy problems, strengthens lung tissue, treats pneumonia, colds & coughs, bronchitis, and infections, boosts immunity, improves digestion",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0064,Ingredient,Ashok,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0065,Ingredient,Satavari,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0066,Ingredient,Lodhra,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0067,Ingredient,Guduchi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0068,Ingredient,Punarnava,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0069,Ingredient,Ashvagandha,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0056,Benefit,"Helps regulate menstrual cycles and alleviate related disorders, eases menstrual cramps, abdominal pain, and spasms, supports reproductive system detoxification",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0070,Ingredient,Kaunch Beej,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0071,Ingredient,Ashwagandha,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0072,Ingredient,Shatavari,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0073,Ingredient,Gokshura,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0074,Ingredient,Shuddha Shilajit,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0057,Benefit,"Helps support stamina, strength, and energy, promotes male vitality and overall wellness, may support healthy mood and performance, helps maintain natural testosterone levels, aids in managing fatigue and boosting confidence",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0075,Ingredient,Arjuna,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0076,Ingredient,Guggulu,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0077,Ingredient,Lahasun,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0078,Ingredient,Pushkarmula,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0079,Ingredient,Atasi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0058,Benefit,"Supports cardiovascular wellness and healthy heart function, helps manage cholesterol and lipid levels, promotes better blood flow and circulation, strengthens heart muscles, rich in antioxidants and Omega-3 for heart protection",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0080,Ingredient,Himsra,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0081,Ingredient,Kasani,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0082,Ingredient,Bhringaraja,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0059,Benefit,"Promotes healthy liver function and metabolism, supports detoxification and removal of toxins, helps improve digestion and appetite, protects liver cells from oxidative damage",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0083,Ingredient,Guava,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0060,Benefit,"Supports digestive health and relieves heartburn, helps detoxify the liver and improve metabolism, boosts immunity",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0084,Ingredient,Mulethi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0085,Ingredient,Banafsha,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0086,Ingredient,Vasaka,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0087,Ingredient,Pippali,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0088,Ingredient,Pudina Satva,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0061,Benefit,"Helps clear chest congestion and phlegm, provides relief from cough, cold, and throat irritation, supports easier breathing, reduces allergic symptoms and inflammation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0062,Benefit,"Reduces stress and anxiety, helps combat fatigue and tiredness, promotes mental clarity and focus, revitalizes overall body and mind",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0063,Benefit,"Supports immune system function, improves digestion and metabolism, promotes healthy hair growth, enhances skin health",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0089,Ingredient,Calcium Citrate,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0090,Ingredient,Magnesium,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0091,Ingredient,Alfalfa,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0092,Ingredient,Moringa Bark Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0093,Ingredient,Vitamin D3,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0094,Ingredient,Vitamin K2,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0095,Ingredient,Vitamin B12,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0096,Ingredient,Folic Acid,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0064,Benefit,"Supports bone density and joint strength, enhances calcium absorption, aids red blood cell and DNA formation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0097,Ingredient,Harad,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0098,Ingredient,Baheda,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0099,Ingredient,Kali Mirch,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0100,Ingredient,Pipul,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0065,Benefit,"Improves digestion and nutrient absorption, reduces bloating, flatulence, and abdominal discomfort, relieves constipation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0101,Ingredient,Jamun,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0102,Ingredient,Karela,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0103,Ingredient,Gudmaar,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0104,Ingredient,Vijayasara,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0105,Ingredient,Methi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0066,Benefit,"Helps regulate blood sugar levels naturally, supports insulin function and glucose metabolism, reduces symptoms like frequent urination and fatigue, promotes pancreatic health and overall vitality",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0106,Ingredient,Nano Curcumin (SNEC30 patented),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0067,Benefit,"Enhances brain function, heart health, and digestion",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0068,Benefit,"Reduces inflammation, joint pain, and promotes liver detox",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0107,Ingredient,Saunf,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0108,Ingredient,Nishoth,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0109,Ingredient,Giloe,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0069,Benefit,"Relieves indigestion, bloating, and flatulence, stimulates gastric juice secretion and improves digestion, supports intestinal motility, helps ease constipation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0110,Ingredient,Bakain,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0111,Ingredient,Chavya,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0112,Ingredient,Nagkesar,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0113,Ingredient,Daruhaldi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0070,Benefit,"Reduces pain and inflammation linked to piles, controls bleeding and shrinks pile mass, alleviates itching and irritation, supports digestive health",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0114,Ingredient,Giloe (Tinospora cordifolia),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0071,Benefit,"Boosts immunity and helps fight off infections, aids in improving digestion and removing toxins from the body, enhances blood formation",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0115,Ingredient,Grape Seed Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0116,Ingredient,Bilberry Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0117,Ingredient,Lutein,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0118,Ingredient,Zeaxanthin,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0119,Ingredient,Glycyrrhiza Glabra,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0072,Benefit,"Enhances clear vision and supports eye health, reduces eye fatigue dryness, and stress, protects against retinal damage",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0120,Ingredient,Zeaxanthin (Lutemax 2020),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0121,Ingredient,Anar,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0122,Ingredient,Shilajit,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0123,Ingredient,Bhui Amla,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0073,Benefit,"Helps manage iron deficiency and prevent anemia, supports the production of red blood cells and improves blood circulation, provides essential vitamins, minerals, and antioxidants",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0124,Ingredient,Amaltas,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0125,Ingredient,Akarakara,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0126,Ingredient,Utangan,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0127,Ingredient,and Kalaunji,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0074,Benefit,"Increases daily energy and stamina, supports a healthy immune response, helps reduce physical and mental fatigue, aids the body in managing stress naturally, promotes overall vitality and resilience",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0128,Ingredient,Safed Punarnava,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0129,Ingredient,Varuna,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0130,Ingredient,Gokhru,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0075,Benefit,"Promotes healthy urine flow and fluid balance, supports kidney and urinary tract health, helps ease discomfort linked to urinary issues, assists in flushing out toxins, strengthens natural immunity, encourages overall detox and vitality",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0131,Ingredient,Ginseng Extract,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0132,Ingredient,Taurine,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0133,Ingredient,Soya Protein Hydrolysate,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0134,Ingredient,Amino Acids,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0076,Benefit,"Fortified with essential amino acids and Ginseng for energy, boosts immunity and sharpens focus, supports better athletic performance",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0135,Ingredient,Amlaki,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0136,Ingredient,Noni,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0137,Ingredient,Manduki,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0138,Ingredient,Garcinia,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0077,Benefit,"Strengthens immunity and protects from infections, supports healthy metabolism and weight management, improves skin health",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0139,Ingredient,Aragvadha,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0140,Ingredient,Kalaunji,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0078,Benefit,"Helps relieve chest congestion and expel phlegm, supports easier breathing and lung function, useful in managing cough, bronchitis, and asthma, helps reduce allergic reactions and inflammation, boosts respiratory immunity",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0141,Ingredient,Rasna,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0142,Ingredient,Sonth (Dry Ginger),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0079,Benefit,"Helps relieve joint stiffness, swelling, and discomfort, supports flexibility and easier movement, soothes tired, aching muscles, enhances blood flow to the joints",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0143,Ingredient,Peppermint,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0144,Ingredient,Nilgiri (Eucalyptus) Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0145,Ingredient,Clove Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0146,Ingredient,Sesame Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0080,Benefit,"Helps relieve joint stiffness, swelling, and discomfort, supports flexibility and easier movement, soothes tired, aching muscles, provides a warming, relaxing effect on sore areas",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0147,Ingredient,EPA,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0148,Ingredient,DHA,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0149,Ingredient,GLA,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0150,Ingredient,Oleic Acid,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0151,Ingredient,Olive Oil,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0081,Benefit,"Boosts brain and heart health, supports healthy weight and reduces liver fat, enhances vitamin and nutrient absorption",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0082,Benefit,"Relieves joint and muscle pain, eases back and knee pain, provides fast and long-lasting relief from stiffness",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0152,Ingredient,Moringa,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0153,Ingredient,Triphala,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0154,Ingredient,Turmeric,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0155,Ingredient,Spirulina,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0083,Benefit,"Enhances immunity, supports cardiovascular, liver, and kidney health, rich in antioxidants, anti-inflammatory, and antibacterial properties",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0156,Ingredient,Vitamin A,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0157,Ingredient,Vitamin K,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0158,Ingredient,Potassium,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0159,Ingredient,Calcium,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0160,Ingredient,Iron,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0161,Ingredient,Phosphorus,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0162,Ingredient,Carotenoids,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0163,Ingredient,Omega-7 Fatty Acids,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0164,Ingredient,Flavonoids,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0165,Ingredient,Plant Sterols,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0084,Benefit,"Enhances heart health by improving cholesterol levels, supports liver function and promotes detoxification, boosts skin health, promotes fat loss",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0085,Benefit,"Tones and nourishes the female reproductive system, boosts immunity and combats fatigue, supports menstrual and menopausal health",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0166,Ingredient,Turmeric Root,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0167,Ingredient,Whole Foods Blend,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0168,Ingredient,Fruit & Vegetable Blend,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0086,Benefit,"Supports heart health, stamina, and immunity, promotes bone strength and glowing skin, packed with antioxidants",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0169,Ingredient,Blend of five Tulsi species,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0087,Benefit,"Reduces cold, cough, and respiratory disorders, supports cardiovascular health and reduces inflammation, aids in detoxification",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0170,Ingredient,Pea Protein Isolate,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0171,Ingredient,Brown Rice Protein,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0172,Ingredient,DigeZyme,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0173,Ingredient,Electrolytes (Sodium & Potassium),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0174,Ingredient,Natural Amino Acids,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0088,Benefit,"Supports lean muscle development & recovery, helps maintain healthy body weight, strengthens bones & joints",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0175,Ingredient,Whey Protein Concentrate,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0176,Ingredient,Skimmed Milk Powder,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0177,Ingredient,MCTs,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0178,Ingredient,FOS,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0179,Ingredient,High Oleic Sunflower Oil Powder,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0180,Ingredient,Essential Vitamins & Minerals,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0181,Ingredient,Sucralose (INS 955),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0089,Benefit,"Supports healthy weight management and fat control, helps reduce excess fat deposition & cholesterol levels, provides long-lasting satiety",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0182,Ingredient,Brahmi,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0183,Ingredient,Makoy,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0090,Benefit,Muscle growth,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0091,Benefit,brain development/learning,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0092,Benefit,heart health,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0093,Benefit,energy for growing children,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0184,Ingredient,Pepper,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0185,Ingredient,Ginger,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0186,Ingredient,Green Tea,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0187,Ingredient,Tulsi (Holy Basil),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0188,Ingredient,Cloves,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0189,Ingredient,Cardamom,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0190,Ingredient,Cinnamon,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0191,Ingredient,Almonds,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0094,Benefit,"Promotes general well-being, great source of antioxidants, helps in detoxification, aids digestion",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0192,Ingredient,Shilajit (asphaltum Punjabinum),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0193,Ingredient,Fulvic Acid And Essential Minerals,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0095,Benefit,"Enhances strength and stamina, helps boost energy levels, helps overcome fatigue and weakness, supports overall vitality",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0194,Ingredient,Apple Cider Vinegar,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0195,Ingredient,Probiotics,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0196,Ingredient,Vitamin B6,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0096,Benefit,"Supports healthy digestion, helps in weight management, improves gut health, supports metabolism and energy levels",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0197,Ingredient,Marine Collagen (Type I & III),01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0198,Ingredient,Astaxanthin,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0199,Ingredient,Resveratrol,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0200,Ingredient,Vitamin C & E,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0201,Ingredient,Biotin,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0202,Ingredient,Zinc & Selenium,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0097,Benefit,"Improves skin firmness & hydration, supports joint flexibility, strengthens hair & nails, helps reduce signs of ageing",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0203,Ingredient,Natural ingredients,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0098,Benefit,Powerful grease-fighting formula that cuts through tough stains while being gentle on hands,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0099,Benefit,"Removes oil, food residues, and odors",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0100,Benefit,"Removes tough stains, kills germs, and eliminates bad odors, leaving your toilet sparkling clean and fresh",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0101,Benefit,Removes tough stains while keeping fabrics soft and fresh,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0102,Benefit,Effectively cleans clothes without fading colors,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0103,Benefit,"Multi-purpose solution that removes dirt, stains, and germs while leaving a fresh, lasting fragrance",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0204,Ingredient,Nano fabric technology,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0104,Benefit,"Sweat resistance, odor control, stain protection, elasticity, and UV protection for ultimate comfort",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0205,Ingredient,Premium fabric,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0105,Benefit,"Premium fabric, a sleek finish, and lasting quality, adding elegance to any look",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0206,Ingredient,Breathable fabric,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0106,Benefit,"Breathable fabric, ensures comfort, durability, and a perfect fit",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0107,Benefit,"Soft, moisture-wicking design",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0207,Ingredient,Humic Acid,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0208,Ingredient,Fulvic Acid,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0108,Benefit,Helps in moisture and nutrient retention,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0109,Benefit,Assists in soil wetting,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0110,Benefit,Increases seedling vigor and drought tolerance,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0111,Benefit,Improves soil structure,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0112,Benefit,Promotes faster and healthier plant growth,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0113,Benefit,"Strengthens resistance to stress, pests, and diseases",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0114,Benefit,Increases flowering and fruiting,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0209,Ingredient,Liquid bio-formula,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0210,Ingredient,Plant-based amino acids/enzymes,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0115,Benefit,Enhances germination for better yield,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0116,Benefit,100% plant-based for sustainable growth,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0117,Benefit,Improves soil health for higher productivity,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0118,Benefit,Enhances pest wetting,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0119,Benefit,Safeguards crop health,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0120,Benefit,Adjusts pH of spray solutions,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0121,Benefit,Ensures uniform spray deposits,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0211,Ingredient,Surfactant blend,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0212,Ingredient,Organic matter granules,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0122,Benefit,Increases overall crop yield,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0123,Benefit,Improves soil health by reducing chemical use,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0124,Benefit,Boosts root formation,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0125,Benefit,Increases nutrient uptake,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0213,Ingredient,Neem & natural compounds,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0126,Benefit,Helps plants better resist insect attacks,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0127,Benefit,Protects plants from various harmful insects,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0128,Benefit,Increases the quality and quantity of produce,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0214,Ingredient,Zinc,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0215,Ingredient,Vitamins A,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0216,Ingredient,Protein,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0129,Benefit,"Boosts Milk Production, Improves Fat Content, Strengthens Bones & Teeth, Supports Digestion & Appetite, Enhances Immunity",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0130,Benefit,"Improves Sleep Quality, Detoxifies, Slows Aging, Maintains Body Warmth, Fights Fatigue, Balances lons, Boosts Metabolism",01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0131,Benefit,Promotes calmness and relaxation,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0132,Benefit,Elevates mood and mental clarity,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0133,Benefit,Boosts hydration and oxygen intake,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+BENEFIT:0134,Benefit,Neutralizes free radicals,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+INGREDIENT:0217,Ingredient,Quantum/electron affinity technology,01_CANONICAL/products/dayjoy_product_master_canonical.csv
+FAQ:1000,FAQ,What is Black Salt Sprinkler (200g)?,1000
+FAQ:1001,FAQ,What is the price and business volume (BV) for Black Salt Sprinkler (200g)?,1001
+FAQ:1002,FAQ,Who should use this?,1002
+FAQ:1003,FAQ,Is this product organic?,1003
+FAQ:1004,FAQ,How should it be stored?,1004
+FAQ:1005,FAQ,What is the shelf life / expiry?,1005
+FAQ:1006,FAQ,What are the ingredients?,1006
+FAQ:1007,FAQ,Who should avoid it / contraindications?,1007
+FAQ:1008,FAQ,How does it compare to other FOOD PRODUCTS products?,1008
+FAQ:1009,FAQ,What is the pack size?,1009
+FAQ:1010,FAQ,Who manufactures this product?,1010
+FAQ:1011,FAQ,What is Chaat Masala (100g)?,1011
+FAQ:1012,FAQ,What is the price and business volume (BV) for Chaat Masala (100g)?,1012
+FAQ:1013,FAQ,Who should use this?,1013
+FAQ:1014,FAQ,Is this product organic?,1014
+FAQ:1015,FAQ,How should it be stored?,1015
+FAQ:1016,FAQ,What is the shelf life / expiry?,1016
+FAQ:1017,FAQ,What are the ingredients?,1017
+FAQ:1018,FAQ,Who should avoid it / contraindications?,1018
+FAQ:1019,FAQ,How does it compare to other FOOD PRODUCTS products?,1019
+FAQ:1020,FAQ,What is the pack size?,1020
+FAQ:1021,FAQ,Who manufactures this product?,1021
+FAQ:1022,FAQ,What is Chicken Masala (100g)?,1022
+FAQ:1023,FAQ,What is the price and business volume (BV) for Chicken Masala (100g)?,1023
+FAQ:1024,FAQ,Who should use this?,1024
+FAQ:1025,FAQ,Is this product organic?,1025
+FAQ:1026,FAQ,How should it be stored?,1026
+FAQ:1027,FAQ,What is the shelf life / expiry?,1027
+FAQ:1028,FAQ,What are the ingredients?,1028
+FAQ:1029,FAQ,Who should avoid it / contraindications?,1029
+FAQ:1030,FAQ,How does it compare to other FOOD PRODUCTS products?,1030
+FAQ:1031,FAQ,What is the pack size?,1031
+FAQ:1032,FAQ,Who manufactures this product?,1032
+FAQ:1033,FAQ,What is Daily Tea (250g)?,1033
+FAQ:1034,FAQ,What is the price and business volume (BV) for Daily Tea (250g)?,1034
+FAQ:1035,FAQ,Who should use this?,1035
+FAQ:1036,FAQ,Is this product organic?,1036
+FAQ:1037,FAQ,How should it be stored?,1037
+FAQ:1038,FAQ,What is the shelf life / expiry?,1038
+FAQ:1039,FAQ,What are the ingredients?,1039
+FAQ:1040,FAQ,Who should avoid it / contraindications?,1040
+FAQ:1041,FAQ,How does it compare to other FOOD PRODUCTS products?,1041
+FAQ:1042,FAQ,What is the pack size?,1042
+FAQ:1043,FAQ,Who manufactures this product?,1043
+FAQ:1044,FAQ,What is Daily Tea (500g)?,1044
+FAQ:1045,FAQ,What is the price and business volume (BV) for Daily Tea (500g)?,1045
+FAQ:1046,FAQ,Who should use this?,1046
+FAQ:1047,FAQ,Is this product organic?,1047
+FAQ:1048,FAQ,How should it be stored?,1048
+FAQ:1049,FAQ,What is the shelf life / expiry?,1049
+FAQ:1050,FAQ,What are the ingredients?,1050
+FAQ:1051,FAQ,Who should avoid it / contraindications?,1051
+FAQ:1052,FAQ,How does it compare to other FOOD PRODUCTS products?,1052
+FAQ:1053,FAQ,What is the pack size?,1053
+FAQ:1054,FAQ,Who manufactures this product?,1054
+FAQ:1055,FAQ,What is Dhaniya Powder (25g)?,1055
+FAQ:1056,FAQ,What is the price and business volume (BV) for Dhaniya Powder (25g)?,1056
+FAQ:1057,FAQ,Who should use this?,1057
+FAQ:1058,FAQ,Is this product organic?,1058
+FAQ:1059,FAQ,How should it be stored?,1059
+FAQ:1060,FAQ,What is the shelf life / expiry?,1060
+FAQ:1061,FAQ,What are the ingredients?,1061
+FAQ:1062,FAQ,Who should avoid it / contraindications?,1062
+FAQ:1063,FAQ,How does it compare to other FOOD PRODUCTS products?,1063
+FAQ:1064,FAQ,What is the pack size?,1064
+FAQ:1065,FAQ,Who manufactures this product?,1065
+FAQ:1066,FAQ,What is Dhaniya Powder (200g)?,1066
+FAQ:1067,FAQ,What is the price and business volume (BV) for Dhaniya Powder (200g)?,1067
+FAQ:1068,FAQ,Who should use this?,1068
+FAQ:1069,FAQ,Is this product organic?,1069
+FAQ:1070,FAQ,How should it be stored?,1070
+FAQ:1071,FAQ,What is the shelf life / expiry?,1071
+FAQ:1072,FAQ,What are the ingredients?,1072
+FAQ:1073,FAQ,Who should avoid it / contraindications?,1073
+FAQ:1074,FAQ,How does it compare to other FOOD PRODUCTS products?,1074
+FAQ:1075,FAQ,What is the pack size?,1075
+FAQ:1076,FAQ,Who manufactures this product?,1076
+FAQ:1077,FAQ,What is Dhaniya Powder (500g)?,1077
+FAQ:1078,FAQ,What is the price and business volume (BV) for Dhaniya Powder (500g)?,1078
+FAQ:1079,FAQ,Who should use this?,1079
+FAQ:1080,FAQ,Is this product organic?,1080
+FAQ:1081,FAQ,How should it be stored?,1081
+FAQ:1082,FAQ,What is the shelf life / expiry?,1082
+FAQ:1083,FAQ,What are the ingredients?,1083
+FAQ:1084,FAQ,Who should avoid it / contraindications?,1084
+FAQ:1085,FAQ,How does it compare to other FOOD PRODUCTS products?,1085
+FAQ:1086,FAQ,What is the pack size?,1086
+FAQ:1087,FAQ,Who manufactures this product?,1087
+FAQ:1088,FAQ,What is Garam Masala (100g)?,1088
+FAQ:1089,FAQ,What is the price and business volume (BV) for Garam Masala (100g)?,1089
+FAQ:1090,FAQ,Who should use this?,1090
+FAQ:1091,FAQ,Is this product organic?,1091
+FAQ:1092,FAQ,How should it be stored?,1092
+FAQ:1093,FAQ,What is the shelf life / expiry?,1093
+FAQ:1094,FAQ,What are the ingredients?,1094
+FAQ:1095,FAQ,Who should avoid it / contraindications?,1095
+FAQ:1096,FAQ,How does it compare to other FOOD PRODUCTS products?,1096
+FAQ:1097,FAQ,What is the pack size?,1097
+FAQ:1098,FAQ,Who manufactures this product?,1098
+FAQ:1099,FAQ,What is Haldi Powder (25g)?,1099
+FAQ:1100,FAQ,What is the price and business volume (BV) for Haldi Powder (25g)?,1100
+FAQ:1101,FAQ,Who should use this?,1101
+FAQ:1102,FAQ,Is this product organic?,1102
+FAQ:1103,FAQ,How should it be stored?,1103
+FAQ:1104,FAQ,What is the shelf life / expiry?,1104
+FAQ:1105,FAQ,What are the ingredients?,1105
+FAQ:1106,FAQ,Who should avoid it / contraindications?,1106
+FAQ:1107,FAQ,How does it compare to other FOOD PRODUCTS products?,1107
+FAQ:1108,FAQ,What is the pack size?,1108
+FAQ:1109,FAQ,Who manufactures this product?,1109
+FAQ:1110,FAQ,What is Haldi Powder (200g)?,1110
+FAQ:1111,FAQ,What is the price and business volume (BV) for Haldi Powder (200g)?,1111
+FAQ:1112,FAQ,Who should use this?,1112
+FAQ:1113,FAQ,Is this product organic?,1113
+FAQ:1114,FAQ,How should it be stored?,1114
+FAQ:1115,FAQ,What is the shelf life / expiry?,1115
+FAQ:1116,FAQ,What are the ingredients?,1116
+FAQ:1117,FAQ,Who should avoid it / contraindications?,1117
+FAQ:1118,FAQ,How does it compare to other FOOD PRODUCTS products?,1118
+FAQ:1119,FAQ,What is the pack size?,1119
+FAQ:1120,FAQ,Who manufactures this product?,1120
+FAQ:1121,FAQ,What is Haldi Powder (500g)?,1121
+FAQ:1122,FAQ,What is the price and business volume (BV) for Haldi Powder (500g)?,1122
+FAQ:1123,FAQ,Who should use this?,1123
+FAQ:1124,FAQ,Is this product organic?,1124
+FAQ:1125,FAQ,How should it be stored?,1125
+FAQ:1126,FAQ,What is the shelf life / expiry?,1126
+FAQ:1127,FAQ,What are the ingredients?,1127
+FAQ:1128,FAQ,Who should avoid it / contraindications?,1128
+FAQ:1129,FAQ,How does it compare to other FOOD PRODUCTS products?,1129
+FAQ:1130,FAQ,What is the pack size?,1130
+FAQ:1131,FAQ,Who manufactures this product?,1131
+FAQ:1132,FAQ,What is Himalayan Pink Salt Sprinkler (200g)?,1132
+FAQ:1133,FAQ,What is the price and business volume (BV) for Himalayan Pink Salt Sprinkler (200g)?,1133
+FAQ:1134,FAQ,Who should use this?,1134
+FAQ:1135,FAQ,Is this product organic?,1135
+FAQ:1136,FAQ,How should it be stored?,1136
+FAQ:1137,FAQ,What is the shelf life / expiry?,1137
+FAQ:1138,FAQ,What are the ingredients?,1138
+FAQ:1139,FAQ,Who should avoid it / contraindications?,1139
+FAQ:1140,FAQ,How does it compare to other FOOD PRODUCTS products?,1140
+FAQ:1141,FAQ,What is the pack size?,1141
+FAQ:1142,FAQ,Who manufactures this product?,1142
+FAQ:1143,FAQ,What is Jaljeera (100g)?,1143
+FAQ:1144,FAQ,What is the price and business volume (BV) for Jaljeera (100g)?,1144
+FAQ:1145,FAQ,Who should use this?,1145
+FAQ:1146,FAQ,Is this product organic?,1146
+FAQ:1147,FAQ,How should it be stored?,1147
+FAQ:1148,FAQ,What is the shelf life / expiry?,1148
+FAQ:1149,FAQ,What are the ingredients?,1149
+FAQ:1150,FAQ,Who should avoid it / contraindications?,1150
+FAQ:1151,FAQ,How does it compare to other FOOD PRODUCTS products?,1151
+FAQ:1152,FAQ,What is the pack size?,1152
+FAQ:1153,FAQ,Who manufactures this product?,1153
+FAQ:1154,FAQ,What is Organic Jeera (250g)?,1154
+FAQ:1155,FAQ,What is the price and business volume (BV) for Organic Jeera (250g)?,1155
+FAQ:1156,FAQ,Who should use this?,1156
+FAQ:1157,FAQ,Is this product organic?,1157
+FAQ:1158,FAQ,How should it be stored?,1158
+FAQ:1159,FAQ,What is the shelf life / expiry?,1159
+FAQ:1160,FAQ,What are the ingredients?,1160
+FAQ:1161,FAQ,Who should avoid it / contraindications?,1161
+FAQ:1162,FAQ,How does it compare to other FOOD PRODUCTS products?,1162
+FAQ:1163,FAQ,What is the pack size?,1163
+FAQ:1164,FAQ,Who manufactures this product?,1164
+FAQ:1165,FAQ,What is Kasuri Methi (50g)?,1165
+FAQ:1166,FAQ,What is the price and business volume (BV) for Kasuri Methi (50g)?,1166
+FAQ:1167,FAQ,Who should use this?,1167
+FAQ:1168,FAQ,Is this product organic?,1168
+FAQ:1169,FAQ,How should it be stored?,1169
+FAQ:1170,FAQ,What is the shelf life / expiry?,1170
+FAQ:1171,FAQ,What are the ingredients?,1171
+FAQ:1172,FAQ,Who should avoid it / contraindications?,1172
+FAQ:1173,FAQ,How does it compare to other FOOD PRODUCTS products?,1173
+FAQ:1174,FAQ,What is the pack size?,1174
+FAQ:1175,FAQ,Who manufactures this product?,1175
+FAQ:1176,FAQ,What is Mirchi Powder (25g)?,1176
+FAQ:1177,FAQ,What is the price and business volume (BV) for Mirchi Powder (25g)?,1177
+FAQ:1178,FAQ,Who should use this?,1178
+FAQ:1179,FAQ,Is this product organic?,1179
+FAQ:1180,FAQ,How should it be stored?,1180
+FAQ:1181,FAQ,What is the shelf life / expiry?,1181
+FAQ:1182,FAQ,What are the ingredients?,1182
+FAQ:1183,FAQ,Who should avoid it / contraindications?,1183
+FAQ:1184,FAQ,How does it compare to other FOOD PRODUCTS products?,1184
+FAQ:1185,FAQ,What is the pack size?,1185
+FAQ:1186,FAQ,Who manufactures this product?,1186
+FAQ:1187,FAQ,What is Mirchi Powder (200g)?,1187
+FAQ:1188,FAQ,What is the price and business volume (BV) for Mirchi Powder (200g)?,1188
+FAQ:1189,FAQ,Who should use this?,1189
+FAQ:1190,FAQ,Is this product organic?,1190
+FAQ:1191,FAQ,How should it be stored?,1191
+FAQ:1192,FAQ,What is the shelf life / expiry?,1192
+FAQ:1193,FAQ,What are the ingredients?,1193
+FAQ:1194,FAQ,Who should avoid it / contraindications?,1194
+FAQ:1195,FAQ,How does it compare to other FOOD PRODUCTS products?,1195
+FAQ:1196,FAQ,What is the pack size?,1196
+FAQ:1197,FAQ,Who manufactures this product?,1197
+FAQ:1198,FAQ,What is Mirchi Powder (500g)?,1198
+FAQ:1199,FAQ,What is the price and business volume (BV) for Mirchi Powder (500g)?,1199
+FAQ:1200,FAQ,Who should use this?,1200
+FAQ:1201,FAQ,Is this product organic?,1201
+FAQ:1202,FAQ,How should it be stored?,1202
+FAQ:1203,FAQ,What is the shelf life / expiry?,1203
+FAQ:1204,FAQ,What are the ingredients?,1204
+FAQ:1205,FAQ,Who should avoid it / contraindications?,1205
+FAQ:1206,FAQ,How does it compare to other FOOD PRODUCTS products?,1206
+FAQ:1207,FAQ,What is the pack size?,1207
+FAQ:1208,FAQ,Who manufactures this product?,1208
+FAQ:1209,FAQ,What is Rai (250g)?,1209
+FAQ:1210,FAQ,What is the price and business volume (BV) for Rai (250g)?,1210
+FAQ:1211,FAQ,Who should use this?,1211
+FAQ:1212,FAQ,Is this product organic?,1212
+FAQ:1213,FAQ,How should it be stored?,1213
+FAQ:1214,FAQ,What is the shelf life / expiry?,1214
+FAQ:1215,FAQ,What are the ingredients?,1215
+FAQ:1216,FAQ,Who should avoid it / contraindications?,1216
+FAQ:1217,FAQ,How does it compare to other FOOD PRODUCTS products?,1217
+FAQ:1218,FAQ,What is the pack size?,1218
+FAQ:1219,FAQ,Who manufactures this product?,1219
+FAQ:1220,FAQ,What is Sabji Masala (100g)?,1220
+FAQ:1221,FAQ,What is the price and business volume (BV) for Sabji Masala (100g)?,1221
+FAQ:1222,FAQ,Who should use this?,1222
+FAQ:1223,FAQ,Is this product organic?,1223
+FAQ:1224,FAQ,How should it be stored?,1224
+FAQ:1225,FAQ,What is the shelf life / expiry?,1225
+FAQ:1226,FAQ,What are the ingredients?,1226
+FAQ:1227,FAQ,Who should avoid it / contraindications?,1227
+FAQ:1228,FAQ,How does it compare to other FOOD PRODUCTS products?,1228
+FAQ:1229,FAQ,What is the pack size?,1229
+FAQ:1230,FAQ,Who manufactures this product?,1230
+FAQ:1231,FAQ,What is New Total Joy Rice Bran Oil (1 Litre)?,1231
+FAQ:1232,FAQ,What is the price and business volume (BV) for New Total Joy Rice Bran Oil (1 Litre)?,1232
+FAQ:1233,FAQ,Who should use this?,1233
+FAQ:1234,FAQ,Is this product organic?,1234
+FAQ:1235,FAQ,How should it be stored?,1235
+FAQ:1236,FAQ,What is the shelf life / expiry?,1236
+FAQ:1237,FAQ,What are the ingredients?,1237
+FAQ:1238,FAQ,Who should avoid it / contraindications?,1238
+FAQ:1239,FAQ,How does it compare to other FOOD PRODUCTS products?,1239
+FAQ:1240,FAQ,What is the pack size?,1240
+FAQ:1241,FAQ,Who manufactures this product?,1241
+FAQ:1242,FAQ,What is Total Joy Rice Bran Oil (2 Litre)?,1242
+FAQ:1243,FAQ,What is the price and business volume (BV) for Total Joy Rice Bran Oil (2 Litre)?,1243
+FAQ:1244,FAQ,Who should use this?,1244
+FAQ:1245,FAQ,Is this product organic?,1245
+FAQ:1246,FAQ,How should it be stored?,1246
+FAQ:1247,FAQ,What is the shelf life / expiry?,1247
+FAQ:1248,FAQ,What are the ingredients?,1248
+FAQ:1249,FAQ,Who should avoid it / contraindications?,1249
+FAQ:1250,FAQ,How does it compare to other FOOD PRODUCTS products?,1250
+FAQ:1251,FAQ,What is the pack size?,1251
+FAQ:1252,FAQ,Who manufactures this product?,1252
+FAQ:1253,FAQ,What is Veg Biryani with Shahi Gravy?,1253
+FAQ:1254,FAQ,What is the price and business volume (BV) for Veg Biryani with Shahi Gravy?,1254
+FAQ:1255,FAQ,Who should use this?,1255
+FAQ:1256,FAQ,Is this product organic?,1256
+FAQ:1257,FAQ,How should it be stored?,1257
+FAQ:1258,FAQ,What is the shelf life / expiry?,1258
+FAQ:1259,FAQ,What are the ingredients?,1259
+FAQ:1260,FAQ,Who should avoid it / contraindications?,1260
+FAQ:1261,FAQ,How does it compare to other FOOD PRODUCTS products?,1261
+FAQ:1262,FAQ,What is the pack size?,1262
+FAQ:1263,FAQ,Who manufactures this product?,1263
+FAQ:1264,FAQ,What is Poha with Bhujia?,1264
+FAQ:1265,FAQ,What is the price and business volume (BV) for Poha with Bhujia?,1265
+FAQ:1266,FAQ,Who should use this?,1266
+FAQ:1267,FAQ,Is this product organic?,1267
+FAQ:1268,FAQ,How should it be stored?,1268
+FAQ:1269,FAQ,What is the shelf life / expiry?,1269
+FAQ:1270,FAQ,What are the ingredients?,1270
+FAQ:1271,FAQ,Who should avoid it / contraindications?,1271
+FAQ:1272,FAQ,How does it compare to other FOOD PRODUCTS products?,1272
+FAQ:1273,FAQ,What is the pack size?,1273
+FAQ:1274,FAQ,Who manufactures this product?,1274
+FAQ:1275,FAQ,What is Upma with Bhujia?,1275
+FAQ:1276,FAQ,What is the price and business volume (BV) for Upma with Bhujia?,1276
+FAQ:1277,FAQ,Who should use this?,1277
+FAQ:1278,FAQ,Is this product organic?,1278
+FAQ:1279,FAQ,How should it be stored?,1279
+FAQ:1280,FAQ,What is the shelf life / expiry?,1280
+FAQ:1281,FAQ,What are the ingredients?,1281
+FAQ:1282,FAQ,Who should avoid it / contraindications?,1282
+FAQ:1283,FAQ,How does it compare to other FOOD PRODUCTS products?,1283
+FAQ:1284,FAQ,What is the pack size?,1284
+FAQ:1285,FAQ,Who manufactures this product?,1285
+FAQ:1286,FAQ,What is Anti Pollution Face Wash (150ml)?,1286
+FAQ:1287,FAQ,What is the price and business volume (BV) for Anti Pollution Face Wash (150ml)?,1287
+FAQ:1288,FAQ,Who is this suitable for?,1288
+FAQ:1289,FAQ,Is this safe for sensitive skin?,1289
+FAQ:1290,FAQ,How should it be stored?,1290
+FAQ:1291,FAQ,What is the shelf life / expiry?,1291
+FAQ:1292,FAQ,What are the ingredients?,1292
+FAQ:1293,FAQ,Who should avoid it / contraindications?,1293
+FAQ:1294,FAQ,How does it compare to other PERSONAL CARE products?,1294
+FAQ:1295,FAQ,What is the pack size?,1295
+FAQ:1296,FAQ,Who manufactures this product?,1296
+FAQ:1297,FAQ,What is Anti Pollution Aloevera Face Wash (100ml)?,1297
+FAQ:1298,FAQ,What is the price and business volume (BV) for Anti Pollution Aloevera Face Wash (100ml)?,1298
+FAQ:1299,FAQ,Who is this suitable for?,1299
+FAQ:1300,FAQ,Is this safe for sensitive skin?,1300
+FAQ:1301,FAQ,How should it be stored?,1301
+FAQ:1302,FAQ,What is the shelf life / expiry?,1302
+FAQ:1303,FAQ,What are the ingredients?,1303
+FAQ:1304,FAQ,Who should avoid it / contraindications?,1304
+FAQ:1305,FAQ,How does it compare to other PERSONAL CARE products?,1305
+FAQ:1306,FAQ,What is the pack size?,1306
+FAQ:1307,FAQ,Who manufactures this product?,1307
+FAQ:1308,FAQ,What is Aloevera Gel (100g)?,1308
+FAQ:1309,FAQ,What is the price and business volume (BV) for Aloevera Gel (100g)?,1309
+FAQ:1310,FAQ,Who is this suitable for?,1310
+FAQ:1311,FAQ,Is this safe for sensitive skin?,1311
+FAQ:1312,FAQ,How should it be stored?,1312
+FAQ:1313,FAQ,What is the shelf life / expiry?,1313
+FAQ:1314,FAQ,What are the ingredients?,1314
+FAQ:1315,FAQ,Who should avoid it / contraindications?,1315
+FAQ:1316,FAQ,How does it compare to other PERSONAL CARE products?,1316
+FAQ:1317,FAQ,What is the pack size?,1317
+FAQ:1318,FAQ,Who manufactures this product?,1318
+FAQ:1319,FAQ,What is BR Rich Oil (200ml)?,1319
+FAQ:1320,FAQ,What is the price and business volume (BV) for BR Rich Oil (200ml)?,1320
+FAQ:1321,FAQ,Who is this suitable for?,1321
+FAQ:1322,FAQ,Is this safe for sensitive skin?,1322
+FAQ:1323,FAQ,How should it be stored?,1323
+FAQ:1324,FAQ,What is the shelf life / expiry?,1324
+FAQ:1325,FAQ,What are the ingredients?,1325
+FAQ:1326,FAQ,Who should avoid it / contraindications?,1326
+FAQ:1327,FAQ,How does it compare to other PERSONAL CARE products?,1327
+FAQ:1328,FAQ,What is the pack size?,1328
+FAQ:1329,FAQ,Who manufactures this product?,1329
+FAQ:1330,FAQ,What is Daily Care Cream (60g)?,1330
+FAQ:1331,FAQ,What is the price and business volume (BV) for Daily Care Cream (60g)?,1331
+FAQ:1332,FAQ,Who is this suitable for?,1332
+FAQ:1333,FAQ,Is this safe for sensitive skin?,1333
+FAQ:1334,FAQ,How should it be stored?,1334
+FAQ:1335,FAQ,What is the shelf life / expiry?,1335
+FAQ:1336,FAQ,What are the ingredients?,1336
+FAQ:1337,FAQ,Who should avoid it / contraindications?,1337
+FAQ:1338,FAQ,How does it compare to other PERSONAL CARE products?,1338
+FAQ:1339,FAQ,What is the pack size?,1339
+FAQ:1340,FAQ,Who manufactures this product?,1340
+FAQ:1341,FAQ,What is Luxury Saffron Soap (100g)?,1341
+FAQ:1342,FAQ,What is the price and business volume (BV) for Luxury Saffron Soap (100g)?,1342
+FAQ:1343,FAQ,Who is this suitable for?,1343
+FAQ:1344,FAQ,Is this safe for sensitive skin?,1344
+FAQ:1345,FAQ,How should it be stored?,1345
+FAQ:1346,FAQ,What is the shelf life / expiry?,1346
+FAQ:1347,FAQ,What are the ingredients?,1347
+FAQ:1348,FAQ,Who should avoid it / contraindications?,1348
+FAQ:1349,FAQ,How does it compare to other PERSONAL CARE products?,1349
+FAQ:1350,FAQ,What is the pack size?,1350
+FAQ:1351,FAQ,Who manufactures this product?,1351
+FAQ:1352,FAQ,What is Ecofriendly Toothbrush (Pack of 2)?,1352
+FAQ:1353,FAQ,What is the price and business volume (BV) for Ecofriendly Toothbrush (Pack of 2)?,1353
+FAQ:1354,FAQ,Who is this suitable for?,1354
+FAQ:1355,FAQ,Is this safe for sensitive skin?,1355
+FAQ:1356,FAQ,How should it be stored?,1356
+FAQ:1357,FAQ,What is the shelf life / expiry?,1357
+FAQ:1358,FAQ,What are the ingredients?,1358
+FAQ:1359,FAQ,Who should avoid it / contraindications?,1359
+FAQ:1360,FAQ,How does it compare to other PERSONAL CARE products?,1360
+FAQ:1361,FAQ,What is the pack size?,1361
+FAQ:1362,FAQ,Who manufactures this product?,1362
+FAQ:1363,FAQ,What is HerboSmile Herbal Toothpaste (100g)?,1363
+FAQ:1364,FAQ,What is the price and business volume (BV) for HerboSmile Herbal Toothpaste (100g)?,1364
+FAQ:1365,FAQ,Who is this suitable for?,1365
+FAQ:1366,FAQ,Is this safe for sensitive skin?,1366
+FAQ:1367,FAQ,How should it be stored?,1367
+FAQ:1368,FAQ,What is the shelf life / expiry?,1368
+FAQ:1369,FAQ,What are the ingredients?,1369
+FAQ:1370,FAQ,Who should avoid it / contraindications?,1370
+FAQ:1371,FAQ,How does it compare to other PERSONAL CARE products?,1371
+FAQ:1372,FAQ,What is the pack size?,1372
+FAQ:1373,FAQ,Who manufactures this product?,1373
+FAQ:1374,FAQ,What is Hydra Aloevera Body Lotion (300ml)?,1374
+FAQ:1375,FAQ,What is the price and business volume (BV) for Hydra Aloevera Body Lotion (300ml)?,1375
+FAQ:1376,FAQ,Who is this suitable for?,1376
+FAQ:1377,FAQ,Is this safe for sensitive skin?,1377
+FAQ:1378,FAQ,How should it be stored?,1378
+FAQ:1379,FAQ,What is the shelf life / expiry?,1379
+FAQ:1380,FAQ,What are the ingredients?,1380
+FAQ:1381,FAQ,Who should avoid it / contraindications?,1381
+FAQ:1382,FAQ,How does it compare to other PERSONAL CARE products?,1382
+FAQ:1383,FAQ,What is the pack size?,1383
+FAQ:1384,FAQ,Who manufactures this product?,1384
+FAQ:1385,FAQ,What is Kesham (100ml)?,1385
+FAQ:1386,FAQ,What is the price and business volume (BV) for Kesham (100ml)?,1386
+FAQ:1387,FAQ,Who is this suitable for?,1387
+FAQ:1388,FAQ,Is this safe for sensitive skin?,1388
+FAQ:1389,FAQ,How should it be stored?,1389
+FAQ:1390,FAQ,What is the shelf life / expiry?,1390
+FAQ:1391,FAQ,What are the ingredients?,1391
+FAQ:1392,FAQ,Who should avoid it / contraindications?,1392
+FAQ:1393,FAQ,How does it compare to other PERSONAL CARE products?,1393
+FAQ:1394,FAQ,What is the pack size?,1394
+FAQ:1395,FAQ,Who manufactures this product?,1395
+FAQ:1396,FAQ,What is Luxwash Handwash (250ml)?,1396
+FAQ:1397,FAQ,What is the price and business volume (BV) for Luxwash Handwash (250ml)?,1397
+FAQ:1398,FAQ,Who is this suitable for?,1398
+FAQ:1399,FAQ,Is this safe for sensitive skin?,1399
+FAQ:1400,FAQ,How should it be stored?,1400
+FAQ:1401,FAQ,What is the shelf life / expiry?,1401
+FAQ:1402,FAQ,What are the ingredients?,1402
+FAQ:1403,FAQ,Who should avoid it / contraindications?,1403
+FAQ:1404,FAQ,How does it compare to other PERSONAL CARE products?,1404
+FAQ:1405,FAQ,What is the pack size?,1405
+FAQ:1406,FAQ,Who manufactures this product?,1406
+FAQ:1407,FAQ,What is Milk & Keratin Extracts Shampoo (100ml)?,1407
+FAQ:1408,FAQ,What is the price and business volume (BV) for Milk & Keratin Extracts Shampoo (100ml)?,1408
+FAQ:1409,FAQ,Who is this suitable for?,1409
+FAQ:1410,FAQ,Is this safe for sensitive skin?,1410
+FAQ:1411,FAQ,How should it be stored?,1411
+FAQ:1412,FAQ,What is the shelf life / expiry?,1412
+FAQ:1413,FAQ,What are the ingredients?,1413
+FAQ:1414,FAQ,Who should avoid it / contraindications?,1414
+FAQ:1415,FAQ,How does it compare to other PERSONAL CARE products?,1415
+FAQ:1416,FAQ,What is the pack size?,1416
+FAQ:1417,FAQ,Who manufactures this product?,1417
+FAQ:1418,FAQ,What is Milk Bath Soap (100g)?,1418
+FAQ:1419,FAQ,What is the price and business volume (BV) for Milk Bath Soap (100g)?,1419
+FAQ:1420,FAQ,Who is this suitable for?,1420
+FAQ:1421,FAQ,Is this safe for sensitive skin?,1421
+FAQ:1422,FAQ,How should it be stored?,1422
+FAQ:1423,FAQ,What is the shelf life / expiry?,1423
+FAQ:1424,FAQ,What are the ingredients?,1424
+FAQ:1425,FAQ,Who should avoid it / contraindications?,1425
+FAQ:1426,FAQ,How does it compare to other PERSONAL CARE products?,1426
+FAQ:1427,FAQ,What is the pack size?,1427
+FAQ:1428,FAQ,Who manufactures this product?,1428
+FAQ:1429,FAQ,What is Milk Bath Soap (Pack of 3) (100g)?,1429
+FAQ:1430,FAQ,What is the price and business volume (BV) for Milk Bath Soap (Pack of 3) (100g)?,1430
+FAQ:1431,FAQ,Who is this suitable for?,1431
+FAQ:1432,FAQ,Is this safe for sensitive skin?,1432
+FAQ:1433,FAQ,How should it be stored?,1433
+FAQ:1434,FAQ,What is the shelf life / expiry?,1434
+FAQ:1435,FAQ,What are the ingredients?,1435
+FAQ:1436,FAQ,Who should avoid it / contraindications?,1436
+FAQ:1437,FAQ,How does it compare to other PERSONAL CARE products?,1437
+FAQ:1438,FAQ,What is the pack size?,1438
+FAQ:1439,FAQ,Who manufactures this product?,1439
+FAQ:1440,FAQ,What is Neem & Tulsi Herbal Soap (100g) (Pack of 3)?,1440
+FAQ:1441,FAQ,What is the price and business volume (BV) for Neem & Tulsi Herbal Soap (100g) (Pack of 3)?,1441
+FAQ:1442,FAQ,Who is this suitable for?,1442
+FAQ:1443,FAQ,Is this safe for sensitive skin?,1443
+FAQ:1444,FAQ,How should it be stored?,1444
+FAQ:1445,FAQ,What is the shelf life / expiry?,1445
+FAQ:1446,FAQ,What are the ingredients?,1446
+FAQ:1447,FAQ,Who should avoid it / contraindications?,1447
+FAQ:1448,FAQ,How does it compare to other PERSONAL CARE products?,1448
+FAQ:1449,FAQ,What is the pack size?,1449
+FAQ:1450,FAQ,Who manufactures this product?,1450
+FAQ:1451,FAQ,What is Regain Aloevera Shampoo (300ml)?,1451
+FAQ:1452,FAQ,What is the price and business volume (BV) for Regain Aloevera Shampoo (300ml)?,1452
+FAQ:1453,FAQ,Who is this suitable for?,1453
+FAQ:1454,FAQ,Is this safe for sensitive skin?,1454
+FAQ:1455,FAQ,How should it be stored?,1455
+FAQ:1456,FAQ,What is the shelf life / expiry?,1456
+FAQ:1457,FAQ,What are the ingredients?,1457
+FAQ:1458,FAQ,Who should avoid it / contraindications?,1458
+FAQ:1459,FAQ,How does it compare to other PERSONAL CARE products?,1459
+FAQ:1460,FAQ,What is the pack size?,1460
+FAQ:1461,FAQ,Who manufactures this product?,1461
+FAQ:1462,FAQ,What is Sandalwood & Shahi Gulab Body Lotion (150ml)?,1462
+FAQ:1463,FAQ,What is the price and business volume (BV) for Sandalwood & Shahi Gulab Body Lotion (150ml)?,1463
+FAQ:1464,FAQ,Who is this suitable for?,1464
+FAQ:1465,FAQ,Is this safe for sensitive skin?,1465
+FAQ:1466,FAQ,How should it be stored?,1466
+FAQ:1467,FAQ,What is the shelf life / expiry?,1467
+FAQ:1468,FAQ,What are the ingredients?,1468
+FAQ:1469,FAQ,Who should avoid it / contraindications?,1469
+FAQ:1470,FAQ,How does it compare to other PERSONAL CARE products?,1470
+FAQ:1471,FAQ,What is the pack size?,1471
+FAQ:1472,FAQ,Who manufactures this product?,1472
+FAQ:1473,FAQ,What is Sanitary Pad (XL) (Pack of 10)?,1473
+FAQ:1474,FAQ,What is the price and business volume (BV) for Sanitary Pad (XL) (Pack of 10)?,1474
+FAQ:1475,FAQ,Who is this suitable for?,1475
+FAQ:1476,FAQ,Is this safe for sensitive skin?,1476
+FAQ:1477,FAQ,How should it be stored?,1477
+FAQ:1478,FAQ,What is the shelf life / expiry?,1478
+FAQ:1479,FAQ,What are the ingredients?,1479
+FAQ:1480,FAQ,Who should avoid it / contraindications?,1480
+FAQ:1481,FAQ,How does it compare to other PERSONAL CARE products?,1481
+FAQ:1482,FAQ,What is the pack size?,1482
+FAQ:1483,FAQ,Who manufactures this product?,1483
+FAQ:1484,FAQ,What is Sanitary Pad (XXL) (Pack of 10)?,1484
+FAQ:1485,FAQ,What is the price and business volume (BV) for Sanitary Pad (XXL) (Pack of 10)?,1485
+FAQ:1486,FAQ,Who is this suitable for?,1486
+FAQ:1487,FAQ,Is this safe for sensitive skin?,1487
+FAQ:1488,FAQ,How should it be stored?,1488
+FAQ:1489,FAQ,What is the shelf life / expiry?,1489
+FAQ:1490,FAQ,What are the ingredients?,1490
+FAQ:1491,FAQ,Who should avoid it / contraindications?,1491
+FAQ:1492,FAQ,How does it compare to other PERSONAL CARE products?,1492
+FAQ:1493,FAQ,What is the pack size?,1493
+FAQ:1494,FAQ,Who manufactures this product?,1494
+FAQ:1495,FAQ,What is Seabuckthron Facial Kit (30g) (Pack of 6)?,1495
+FAQ:1496,FAQ,What is the price and business volume (BV) for Seabuckthron Facial Kit (30g) (Pack of 6)?,1496
+FAQ:1497,FAQ,Who is this suitable for?,1497
+FAQ:1498,FAQ,Is this safe for sensitive skin?,1498
+FAQ:1499,FAQ,How should it be stored?,1499
+FAQ:1500,FAQ,What is the shelf life / expiry?,1500
+FAQ:1501,FAQ,What are the ingredients?,1501
+FAQ:1502,FAQ,Who should avoid it / contraindications?,1502
+FAQ:1503,FAQ,How does it compare to other PERSONAL CARE products?,1503
+FAQ:1504,FAQ,What is the pack size?,1504
+FAQ:1505,FAQ,Who manufactures this product?,1505
+FAQ:1506,FAQ,What is Seabuckthron Cleanser (30g)?,1506
+FAQ:1507,FAQ,What is the price and business volume (BV) for Seabuckthron Cleanser (30g)?,1507
+FAQ:1508,FAQ,Who is this suitable for?,1508
+FAQ:1509,FAQ,Is this safe for sensitive skin?,1509
+FAQ:1510,FAQ,How should it be stored?,1510
+FAQ:1511,FAQ,What is the shelf life / expiry?,1511
+FAQ:1512,FAQ,What are the ingredients?,1512
+FAQ:1513,FAQ,Who should avoid it / contraindications?,1513
+FAQ:1514,FAQ,How does it compare to other PERSONAL CARE products?,1514
+FAQ:1515,FAQ,What is the pack size?,1515
+FAQ:1516,FAQ,Who manufactures this product?,1516
+FAQ:1517,FAQ,What is Seabuckthron Scrub (30g)?,1517
+FAQ:1518,FAQ,What is the price and business volume (BV) for Seabuckthron Scrub (30g)?,1518
+FAQ:1519,FAQ,Who is this suitable for?,1519
+FAQ:1520,FAQ,Is this safe for sensitive skin?,1520
+FAQ:1521,FAQ,How should it be stored?,1521
+FAQ:1522,FAQ,What is the shelf life / expiry?,1522
+FAQ:1523,FAQ,What are the ingredients?,1523
+FAQ:1524,FAQ,Who should avoid it / contraindications?,1524
+FAQ:1525,FAQ,How does it compare to other PERSONAL CARE products?,1525
+FAQ:1526,FAQ,What is the pack size?,1526
+FAQ:1527,FAQ,Who manufactures this product?,1527
+FAQ:1528,FAQ,What is Seabuckthron Massage Gel (30g)?,1528
+FAQ:1529,FAQ,What is the price and business volume (BV) for Seabuckthron Massage Gel (30g)?,1529
+FAQ:1530,FAQ,Who is this suitable for?,1530
+FAQ:1531,FAQ,Is this safe for sensitive skin?,1531
+FAQ:1532,FAQ,How should it be stored?,1532
+FAQ:1533,FAQ,What is the shelf life / expiry?,1533
+FAQ:1534,FAQ,What are the ingredients?,1534
+FAQ:1535,FAQ,Who should avoid it / contraindications?,1535
+FAQ:1536,FAQ,How does it compare to other PERSONAL CARE products?,1536
+FAQ:1537,FAQ,What is the pack size?,1537
+FAQ:1538,FAQ,Who manufactures this product?,1538
+FAQ:1539,FAQ,What is Seabuckthron Massage Cream (30g)?,1539
+FAQ:1540,FAQ,What is the price and business volume (BV) for Seabuckthron Massage Cream (30g)?,1540
+FAQ:1541,FAQ,Who is this suitable for?,1541
+FAQ:1542,FAQ,Is this safe for sensitive skin?,1542
+FAQ:1543,FAQ,How should it be stored?,1543
+FAQ:1544,FAQ,What is the shelf life / expiry?,1544
+FAQ:1545,FAQ,What are the ingredients?,1545
+FAQ:1546,FAQ,Who should avoid it / contraindications?,1546
+FAQ:1547,FAQ,How does it compare to other PERSONAL CARE products?,1547
+FAQ:1548,FAQ,What is the pack size?,1548
+FAQ:1549,FAQ,Who manufactures this product?,1549
+FAQ:1550,FAQ,What is Seabuckthron Face Pack (30g)?,1550
+FAQ:1551,FAQ,What is the price and business volume (BV) for Seabuckthron Face Pack (30g)?,1551
+FAQ:1552,FAQ,Who is this suitable for?,1552
+FAQ:1553,FAQ,Is this safe for sensitive skin?,1553
+FAQ:1554,FAQ,How should it be stored?,1554
+FAQ:1555,FAQ,What is the shelf life / expiry?,1555
+FAQ:1556,FAQ,What are the ingredients?,1556
+FAQ:1557,FAQ,Who should avoid it / contraindications?,1557
+FAQ:1558,FAQ,How does it compare to other PERSONAL CARE products?,1558
+FAQ:1559,FAQ,What is the pack size?,1559
+FAQ:1560,FAQ,Who manufactures this product?,1560
+FAQ:1561,FAQ,What is Seabuckthron Facial Fluid (10ml)?,1561
+FAQ:1562,FAQ,What is the price and business volume (BV) for Seabuckthron Facial Fluid (10ml)?,1562
+FAQ:1563,FAQ,Who is this suitable for?,1563
+FAQ:1564,FAQ,Is this safe for sensitive skin?,1564
+FAQ:1565,FAQ,How should it be stored?,1565
+FAQ:1566,FAQ,What is the shelf life / expiry?,1566
+FAQ:1567,FAQ,What are the ingredients?,1567
+FAQ:1568,FAQ,Who should avoid it / contraindications?,1568
+FAQ:1569,FAQ,How does it compare to other PERSONAL CARE products?,1569
+FAQ:1570,FAQ,What is the pack size?,1570
+FAQ:1571,FAQ,Who manufactures this product?,1571
+FAQ:1572,FAQ,What is Deep Cleansing Face Wash (100ml)?,1572
+FAQ:1573,FAQ,What is the price and business volume (BV) for Deep Cleansing Face Wash (100ml)?,1573
+FAQ:1574,FAQ,Who is this suitable for?,1574
+FAQ:1575,FAQ,Is this safe for sensitive skin?,1575
+FAQ:1576,FAQ,How should it be stored?,1576
+FAQ:1577,FAQ,What is the shelf life / expiry?,1577
+FAQ:1578,FAQ,What are the ingredients?,1578
+FAQ:1579,FAQ,Who should avoid it / contraindications?,1579
+FAQ:1580,FAQ,How does it compare to other PERSONAL CARE products?,1580
+FAQ:1581,FAQ,What is the pack size?,1581
+FAQ:1582,FAQ,Who manufactures this product?,1582
+FAQ:1583,FAQ,What is Deep Cleansing Facewash (60ml)?,1583
+FAQ:1584,FAQ,What is the price and business volume (BV) for Deep Cleansing Facewash (60ml)?,1584
+FAQ:1585,FAQ,Who is this suitable for?,1585
+FAQ:1586,FAQ,Is this safe for sensitive skin?,1586
+FAQ:1587,FAQ,How should it be stored?,1587
+FAQ:1588,FAQ,What is the shelf life / expiry?,1588
+FAQ:1589,FAQ,What are the ingredients?,1589
+FAQ:1590,FAQ,Who should avoid it / contraindications?,1590
+FAQ:1591,FAQ,How does it compare to other PERSONAL CARE products?,1591
+FAQ:1592,FAQ,What is the pack size?,1592
+FAQ:1593,FAQ,Who manufactures this product?,1593
+FAQ:1594,FAQ,What is WildMuse Premium Loofah?,1594
+FAQ:1595,FAQ,What is the price and business volume (BV) for WildMuse Premium Loofah?,1595
+FAQ:1596,FAQ,Who is this suitable for?,1596
+FAQ:1597,FAQ,Is this safe for sensitive skin?,1597
+FAQ:1598,FAQ,How should it be stored?,1598
+FAQ:1599,FAQ,What is the shelf life / expiry?,1599
+FAQ:1600,FAQ,What are the ingredients?,1600
+FAQ:1601,FAQ,Who should avoid it / contraindications?,1601
+FAQ:1602,FAQ,How does it compare to other PERSONAL CARE products?,1602
+FAQ:1603,FAQ,What is the pack size?,1603
+FAQ:1604,FAQ,Who manufactures this product?,1604
+FAQ:1605,FAQ,What is Amla Reetha Sikakai Shampoo (100ml)?,1605
+FAQ:1606,FAQ,What is the price and business volume (BV) for Amla Reetha Sikakai Shampoo (100ml)?,1606
+FAQ:1607,FAQ,Who is this suitable for?,1607
+FAQ:1608,FAQ,Is this safe for sensitive skin?,1608
+FAQ:1609,FAQ,How should it be stored?,1609
+FAQ:1610,FAQ,What is the shelf life / expiry?,1610
+FAQ:1611,FAQ,What are the ingredients?,1611
+FAQ:1612,FAQ,Who should avoid it / contraindications?,1612
+FAQ:1613,FAQ,How does it compare to other PERSONAL CARE products?,1613
+FAQ:1614,FAQ,What is the pack size?,1614
+FAQ:1615,FAQ,Who manufactures this product?,1615
+FAQ:1616,FAQ,What is Haldi Chandan Facewash (60ml)?,1616
+FAQ:1617,FAQ,What is the price and business volume (BV) for Haldi Chandan Facewash (60ml)?,1617
+FAQ:1618,FAQ,Who is this suitable for?,1618
+FAQ:1619,FAQ,Is this safe for sensitive skin?,1619
+FAQ:1620,FAQ,How should it be stored?,1620
+FAQ:1621,FAQ,What is the shelf life / expiry?,1621
+FAQ:1622,FAQ,What are the ingredients?,1622
+FAQ:1623,FAQ,Who should avoid it / contraindications?,1623
+FAQ:1624,FAQ,How does it compare to other PERSONAL CARE products?,1624
+FAQ:1625,FAQ,What is the pack size?,1625
+FAQ:1626,FAQ,Who manufactures this product?,1626
+FAQ:1627,FAQ,What is Face Serum (30ml)?,1627
+FAQ:1628,FAQ,What is the price and business volume (BV) for Face Serum (30ml)?,1628
+FAQ:1629,FAQ,Who is this suitable for?,1629
+FAQ:1630,FAQ,Is this safe for sensitive skin?,1630
+FAQ:1631,FAQ,How should it be stored?,1631
+FAQ:1632,FAQ,What is the shelf life / expiry?,1632
+FAQ:1633,FAQ,What are the ingredients?,1633
+FAQ:1634,FAQ,Who should avoid it / contraindications?,1634
+FAQ:1635,FAQ,How does it compare to other SKIN CARE products?,1635
+FAQ:1636,FAQ,What is the pack size?,1636
+FAQ:1637,FAQ,Who manufactures this product?,1637
+FAQ:1638,FAQ,What is Gold Facial Kit?,1638
+FAQ:1639,FAQ,What is the price and business volume (BV) for Gold Facial Kit?,1639
+FAQ:1640,FAQ,Who is this suitable for?,1640
+FAQ:1641,FAQ,Is this safe for sensitive skin?,1641
+FAQ:1642,FAQ,How should it be stored?,1642
+FAQ:1643,FAQ,What is the shelf life / expiry?,1643
+FAQ:1644,FAQ,What are the ingredients?,1644
+FAQ:1645,FAQ,Who should avoid it / contraindications?,1645
+FAQ:1646,FAQ,How does it compare to other SKIN CARE products?,1646
+FAQ:1647,FAQ,What is the pack size?,1647
+FAQ:1648,FAQ,Who manufactures this product?,1648
+FAQ:1649,FAQ,What is Sunscreen SPF 50+ (50gm)?,1649
+FAQ:1650,FAQ,What is the price and business volume (BV) for Sunscreen SPF 50+ (50gm)?,1650
+FAQ:1651,FAQ,Who is this suitable for?,1651
+FAQ:1652,FAQ,Is this safe for sensitive skin?,1652
+FAQ:1653,FAQ,How should it be stored?,1653
+FAQ:1654,FAQ,What is the shelf life / expiry?,1654
+FAQ:1655,FAQ,What are the ingredients?,1655
+FAQ:1656,FAQ,Who should avoid it / contraindications?,1656
+FAQ:1657,FAQ,How does it compare to other SKIN CARE products?,1657
+FAQ:1658,FAQ,What is the pack size?,1658
+FAQ:1659,FAQ,Who manufactures this product?,1659
+FAQ:1660,FAQ,What is Hydra Max Moisturizer (50gm)?,1660
+FAQ:1661,FAQ,What is the price and business volume (BV) for Hydra Max Moisturizer (50gm)?,1661
+FAQ:1662,FAQ,Who is this suitable for?,1662
+FAQ:1663,FAQ,Is this safe for sensitive skin?,1663
+FAQ:1664,FAQ,How should it be stored?,1664
+FAQ:1665,FAQ,What is the shelf life / expiry?,1665
+FAQ:1666,FAQ,What are the ingredients?,1666
+FAQ:1667,FAQ,Who should avoid it / contraindications?,1667
+FAQ:1668,FAQ,How does it compare to other SKIN CARE products?,1668
+FAQ:1669,FAQ,What is the pack size?,1669
+FAQ:1670,FAQ,Who manufactures this product?,1670
+FAQ:1671,FAQ,What is AgeX Anti-Ageing Night Cream (50gm)?,1671
+FAQ:1672,FAQ,What is the price and business volume (BV) for AgeX Anti-Ageing Night Cream (50gm)?,1672
+FAQ:1673,FAQ,Who is this suitable for?,1673
+FAQ:1674,FAQ,Is this safe for sensitive skin?,1674
+FAQ:1675,FAQ,How should it be stored?,1675
+FAQ:1676,FAQ,What is the shelf life / expiry?,1676
+FAQ:1677,FAQ,What are the ingredients?,1677
+FAQ:1678,FAQ,Who should avoid it / contraindications?,1678
+FAQ:1679,FAQ,How does it compare to other SKIN CARE products?,1679
+FAQ:1680,FAQ,What is the pack size?,1680
+FAQ:1681,FAQ,Who manufactures this product?,1681
+FAQ:1682,FAQ,What is AcneX Anti-Acne Foaming Cleanser (100ml)?,1682
+FAQ:1683,FAQ,What is the price and business volume (BV) for AcneX Anti-Acne Foaming Cleanser (100ml)?,1683
+FAQ:1684,FAQ,Who is this suitable for?,1684
+FAQ:1685,FAQ,Is this safe for sensitive skin?,1685
+FAQ:1686,FAQ,How should it be stored?,1686
+FAQ:1687,FAQ,What is the shelf life / expiry?,1687
+FAQ:1688,FAQ,What are the ingredients?,1688
+FAQ:1689,FAQ,Who should avoid it / contraindications?,1689
+FAQ:1690,FAQ,How does it compare to other SKIN CARE products?,1690
+FAQ:1691,FAQ,What is the pack size?,1691
+FAQ:1692,FAQ,Who manufactures this product?,1692
+FAQ:1693,FAQ,What is Amara Beauty Kajal?,1693
+FAQ:1694,FAQ,What is the price and business volume (BV) for Amara Beauty Kajal?,1694
+FAQ:1695,FAQ,Who is this suitable for?,1695
+FAQ:1696,FAQ,Is this safe for sensitive skin?,1696
+FAQ:1697,FAQ,How should it be stored?,1697
+FAQ:1698,FAQ,What is the shelf life / expiry?,1698
+FAQ:1699,FAQ,What are the ingredients?,1699
+FAQ:1700,FAQ,Who should avoid it / contraindications?,1700
+FAQ:1701,FAQ,How does it compare to other COLOR COSMETICS products?,1701
+FAQ:1702,FAQ,What is the pack size?,1702
+FAQ:1703,FAQ,Who manufactures this product?,1703
+FAQ:1704,FAQ,What is Amara Beauty Eyeliner?,1704
+FAQ:1705,FAQ,What is the price and business volume (BV) for Amara Beauty Eyeliner?,1705
+FAQ:1706,FAQ,Who is this suitable for?,1706
+FAQ:1707,FAQ,Is this safe for sensitive skin?,1707
+FAQ:1708,FAQ,How should it be stored?,1708
+FAQ:1709,FAQ,What is the shelf life / expiry?,1709
+FAQ:1710,FAQ,What are the ingredients?,1710
+FAQ:1711,FAQ,Who should avoid it / contraindications?,1711
+FAQ:1712,FAQ,How does it compare to other COLOR COSMETICS products?,1712
+FAQ:1713,FAQ,What is the pack size?,1713
+FAQ:1714,FAQ,Who manufactures this product?,1714
+FAQ:1715,FAQ,What is Asthprash (300 grams)?,1715
+FAQ:1716,FAQ,Who should use Asthprash?,1716
+FAQ:1717,FAQ,Who should avoid it or are there contraindications?,1717
+FAQ:1718,FAQ,What are the key benefits of Asthprash?,1718
+FAQ:1719,FAQ,What are the ingredients in Asthprash?,1719
+FAQ:1720,FAQ,What is the recommended dosage for Asthprash?,1720
+FAQ:1721,FAQ,What are the warnings or side effects?,1721
+FAQ:1722,FAQ,How should Asthprash be stored?,1722
+FAQ:1723,FAQ,What is the shelf life / expiry?,1723
+FAQ:1724,FAQ,How does it compare to other respiratory products like N-Astheal?,1724
+FAQ:1725,FAQ,"What is the price, DP, and BV for distributors?",1725
+FAQ:1726,FAQ,Is it suitable for a specific age group?,1726
+FAQ:1727,FAQ,Does Asthprash cure asthma or pneumonia?,1727
+FAQ:1728,FAQ,Who should avoid it / contraindications?,1728
+FAQ:1729,FAQ,What are the key benefits?,1729
+FAQ:1730,FAQ,What are the ingredients?,1730
+FAQ:1731,FAQ,What is the recommended dosage?,1731
+FAQ:1732,FAQ,What are the warnings or side effects?,1732
+FAQ:1733,FAQ,How should it be stored?,1733
+FAQ:1734,FAQ,What is the shelf life / expiry?,1734
+FAQ:1735,FAQ,How does it compare to Adicardial Syrup?,1735
+FAQ:1736,FAQ,"What is the price, DP, and BV for distributors?",1736
+FAQ:1737,FAQ,Is it suitable for a specific gender?,1737
+FAQ:1738,FAQ,What is Adicardial (120 Tab)?,1738
+FAQ:1739,FAQ,Who should use it?,1739
+FAQ:1740,FAQ,What is the recommended dosage?,1740
+FAQ:1741,FAQ,What are the warnings or side effects?,1741
+FAQ:1742,FAQ,How should it be stored?,1742
+FAQ:1743,FAQ,What is the shelf life / expiry?,1743
+FAQ:1744,FAQ,How does it compare to Adicardial Tablets?,1744
+FAQ:1745,FAQ,"What is the price, DP, and BV for distributors?",1745
+FAQ:1746,FAQ,Is it suitable for a specific gender?,1746
+FAQ:1747,FAQ,What is Adicardial Syrup (500ml)?,1747
+FAQ:1748,FAQ,Who should use it?,1748
+FAQ:1749,FAQ,Who should avoid it / contraindications?,1749
+FAQ:1750,FAQ,What are the key benefits?,1750
+FAQ:1751,FAQ,What are the ingredients?,1751
+FAQ:1752,FAQ,What is the shelf life / expiry?,1752
+FAQ:1753,FAQ,How does it compare to Adila Forte 60 Tab?,1753
+FAQ:1754,FAQ,"What is the price, DP, and BV for distributors?",1754
+FAQ:1755,FAQ,Is it suitable for a specific gender?,1755
+FAQ:1756,FAQ,Does it treat erectile dysfunction?,1756
+FAQ:1757,FAQ,What is Adila Forte (30 Tab)?,1757
+FAQ:1758,FAQ,Who should use it?,1758
+FAQ:1759,FAQ,Who should avoid it / contraindications?,1759
+FAQ:1760,FAQ,What are the key benefits?,1760
+FAQ:1761,FAQ,What are the ingredients?,1761
+FAQ:1762,FAQ,What is the recommended dosage?,1762
+FAQ:1763,FAQ,What are the warnings or side effects?,1763
+FAQ:1764,FAQ,How should it be stored?,1764
+FAQ:1765,FAQ,"What is the price, DP, and BV for distributors?",1765
+FAQ:1766,FAQ,Is it suitable for a specific gender?,1766
+FAQ:1767,FAQ,Does it treat male reproductive diseases?,1767
+FAQ:1768,FAQ,What is Adila Forte (60 Tab)?,1768
+FAQ:1769,FAQ,Who should use it?,1769
+FAQ:1770,FAQ,Who should avoid it / contraindications?,1770
+FAQ:1771,FAQ,What are the key benefits?,1771
+FAQ:1772,FAQ,What are the ingredients?,1772
+FAQ:1773,FAQ,What is the recommended dosage?,1773
+FAQ:1774,FAQ,What are the warnings or side effects?,1774
+FAQ:1775,FAQ,How should it be stored?,1775
+FAQ:1776,FAQ,What is the shelf life / expiry?,1776
+FAQ:1777,FAQ,How does it compare to Adila Forte 30 Tab?,1777
+FAQ:1778,FAQ,What is Adilipo (120 Tab)?,1778
+FAQ:1779,FAQ,Who should use it?,1779
+FAQ:1780,FAQ,Who should avoid it / contraindications?,1780
+FAQ:1781,FAQ,What are the key benefits?,1781
+FAQ:1782,FAQ,What are the ingredients?,1782
+FAQ:1783,FAQ,What is the recommended dosage?,1783
+FAQ:1784,FAQ,What are the warnings or side effects?,1784
+FAQ:1785,FAQ,How should it be stored?,1785
+FAQ:1786,FAQ,What is the shelf life / expiry?,1786
+FAQ:1787,FAQ,How does it compare to Adilipo 60 Tab?,1787
+FAQ:1788,FAQ,"What is the price, DP, and BV for distributors?",1788
+FAQ:1789,FAQ,Does it treat heart disease?,1789
+FAQ:1790,FAQ,What is Adilipo (60 Tab)?,1790
+FAQ:1791,FAQ,Who should use it?,1791
+FAQ:1792,FAQ,Who should avoid it / contraindications?,1792
+FAQ:1793,FAQ,What are the key benefits?,1793
+FAQ:1794,FAQ,What are the ingredients?,1794
+FAQ:1795,FAQ,What is the recommended dosage?,1795
+FAQ:1796,FAQ,What are the warnings or side effects?,1796
+FAQ:1797,FAQ,How should it be stored?,1797
+FAQ:1798,FAQ,What is the shelf life / expiry?,1798
+FAQ:1799,FAQ,How does it compare to Adilipo 120 Tab?,1799
+FAQ:1800,FAQ,"What is the price, DP, and BV for distributors?",1800
+FAQ:1801,FAQ,Can it replace my blood pressure medication?,1801
+FAQ:1802,FAQ,What are the key benefits?,1802
+FAQ:1803,FAQ,What are the ingredients?,1803
+FAQ:1804,FAQ,What is the recommended dosage?,1804
+FAQ:1805,FAQ,What are the warnings or side effects?,1805
+FAQ:1806,FAQ,How should it be stored?,1806
+FAQ:1807,FAQ,What is the shelf life / expiry?,1807
+FAQ:1808,FAQ,How does it compare to LivEase Syrup?,1808
+FAQ:1809,FAQ,"What is the price, DP, and BV for distributors?",1809
+FAQ:1810,FAQ,Does it cure liver disease?,1810
+FAQ:1811,FAQ,What is Adiliv (60 Tab)?,1811
+FAQ:1812,FAQ,Who should use it?,1812
+FAQ:1813,FAQ,Who should avoid it / contraindications?,1813
+FAQ:1814,FAQ,What are the warnings or side effects?,1814
+FAQ:1815,FAQ,How should it be stored?,1815
+FAQ:1816,FAQ,What is the shelf life / expiry?,1816
+FAQ:1817,FAQ,How does it compare to Nonima Juice?,1817
+FAQ:1818,FAQ,"What is the price, DP, and BV for distributors?",1818
+FAQ:1819,FAQ,Is it safe for diabetics?,1819
+FAQ:1820,FAQ,What is Aloevera with Guava Juice (1L)?,1820
+FAQ:1821,FAQ,Who should use it?,1821
+FAQ:1822,FAQ,Who should avoid it / contraindications?,1822
+FAQ:1823,FAQ,What are the key benefits?,1823
+FAQ:1824,FAQ,What are the ingredients?,1824
+FAQ:1825,FAQ,What is the recommended dosage?,1825
+FAQ:1826,FAQ,How does it compare to N-Astheal Tablets?,1826
+FAQ:1827,FAQ,"What is the price, DP, and BV for distributors?",1827
+FAQ:1828,FAQ,Is it suitable for children?,1828
+FAQ:1829,FAQ,What is Astheal Cough Syrup (100ml)?,1829
+FAQ:1830,FAQ,Who should use it?,1830
+FAQ:1831,FAQ,Who should avoid it / contraindications?,1831
+FAQ:1832,FAQ,What are the key benefits?,1832
+FAQ:1833,FAQ,What are the ingredients?,1833
+FAQ:1834,FAQ,What is the recommended dosage?,1834
+FAQ:1835,FAQ,What are the warnings or side effects?,1835
+FAQ:1836,FAQ,How should it be stored?,1836
+FAQ:1837,FAQ,What is the shelf life / expiry?,1837
+FAQ:1838,FAQ,What is Ashvagandha Extract (60 Veg Capsules)?,1838
+FAQ:1839,FAQ,Who should use it?,1839
+FAQ:1840,FAQ,Who should avoid it / contraindications?,1840
+FAQ:1841,FAQ,What are the key benefits?,1841
+FAQ:1842,FAQ,What are the ingredients?,1842
+FAQ:1843,FAQ,What is the recommended dosage?,1843
+FAQ:1844,FAQ,What are the warnings or side effects?,1844
+FAQ:1845,FAQ,How should it be stored?,1845
+FAQ:1846,FAQ,What is the shelf life / expiry?,1846
+FAQ:1847,FAQ,How does it compare to Shatavari Extract?,1847
+FAQ:1848,FAQ,"What is the price, DP, and BV for distributors?",1848
+FAQ:1849,FAQ,Who should use it?,1849
+FAQ:1850,FAQ,Who should avoid it / contraindications?,1850
+FAQ:1851,FAQ,What are the key benefits?,1851
+FAQ:1852,FAQ,What are the ingredients?,1852
+FAQ:1853,FAQ,What is the recommended dosage?,1853
+FAQ:1854,FAQ,What are the warnings or side effects?,1854
+FAQ:1855,FAQ,How should it be stored?,1855
+FAQ:1856,FAQ,What is the shelf life / expiry?,1856
+FAQ:1857,FAQ,How does it compare to other vitamin C supplements?,1857
+FAQ:1858,FAQ,"What is the price, DP, and BV for distributors?",1858
+FAQ:1859,FAQ,What is Amla Extract (60 Veg Capsules)?,1859
+FAQ:1860,FAQ,What is the recommended dosage?,1860
+FAQ:1861,FAQ,What are the warnings or side effects?,1861
+FAQ:1862,FAQ,How should it be stored?,1862
+FAQ:1863,FAQ,What is the shelf life / expiry?,1863
+FAQ:1864,FAQ,How does it compare to standard calcium supplements?,1864
+FAQ:1865,FAQ,"What is the price, DP, and BV for distributors?",1865
+FAQ:1866,FAQ,What is Advanced Calcium Tablets?,1866
+FAQ:1867,FAQ,Who should use it?,1867
+FAQ:1868,FAQ,Who should avoid it / contraindications?,1868
+FAQ:1869,FAQ,What are the key benefits?,1869
+FAQ:1870,FAQ,What are the ingredients?,1870
+FAQ:1871,FAQ,How does it compare to Gas-O-Free Syrup?,1871
+FAQ:1872,FAQ,"What is the price, DP, and BV for distributors?",1872
+FAQ:1873,FAQ,What is Arogya Churn (100g)?,1873
+FAQ:1874,FAQ,Who should use it?,1874
+FAQ:1875,FAQ,Who should avoid it / contraindications?,1875
+FAQ:1876,FAQ,What are the key benefits?,1876
+FAQ:1877,FAQ,What are the ingredients?,1877
+FAQ:1878,FAQ,What is the recommended dosage?,1878
+FAQ:1879,FAQ,What are the warnings or side effects?,1879
+FAQ:1880,FAQ,How should it be stored?,1880
+FAQ:1881,FAQ,What is the shelf life / expiry?,1881
+FAQ:1882,FAQ,What is Di-beat (60 Tab)?,1882
+FAQ:1883,FAQ,Who should use it?,1883
+FAQ:1884,FAQ,Who should avoid it / contraindications?,1884
+FAQ:1885,FAQ,What are the key benefits?,1885
+FAQ:1886,FAQ,What are the ingredients?,1886
+FAQ:1887,FAQ,What is the recommended dosage?,1887
+FAQ:1888,FAQ,What are the warnings or side effects?,1888
+FAQ:1889,FAQ,How should it be stored?,1889
+FAQ:1890,FAQ,What is the shelf life / expiry?,1890
+FAQ:1891,FAQ,How does it compare to general health supplements?,1891
+FAQ:1892,FAQ,"What is the price, DP, and BV for distributors?",1892
+FAQ:1893,FAQ,Does it cure diabetes?,1893
+FAQ:1894,FAQ,What is Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml)?,1894
+FAQ:1895,FAQ,What is the price and business volume (BV) for Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml)?,1895
+FAQ:1896,FAQ,Who should use this product?,1896
+FAQ:1897,FAQ,Does this cure medical conditions?,1897
+FAQ:1898,FAQ,How should it be stored?,1898
+FAQ:1899,FAQ,What is the shelf life / expiry?,1899
+FAQ:1900,FAQ,What are the ingredients?,1900
+FAQ:1901,FAQ,Who should avoid it / contraindications?,1901
+FAQ:1902,FAQ,How does it compare to other HEALTH CARE products?,1902
+FAQ:1903,FAQ,What is the pack size?,1903
+FAQ:1904,FAQ,Who manufactures this product?,1904
+FAQ:1905,FAQ,What is Gas-O-Free (200ml)?,1905
+FAQ:1906,FAQ,What is the price and business volume (BV) for Gas-O-Free (200ml)?,1906
+FAQ:1907,FAQ,Who should use this product?,1907
+FAQ:1908,FAQ,Does this cure medical conditions?,1908
+FAQ:1909,FAQ,How should it be stored?,1909
+FAQ:1910,FAQ,What is the shelf life / expiry?,1910
+FAQ:1911,FAQ,What are the ingredients?,1911
+FAQ:1912,FAQ,Who should avoid it / contraindications?,1912
+FAQ:1913,FAQ,How does it compare to other HEALTH CARE products?,1913
+FAQ:1914,FAQ,What is the pack size?,1914
+FAQ:1915,FAQ,Who manufactures this product?,1915
+FAQ:1916,FAQ,What is Gas-O-Free (500ml)?,1916
+FAQ:1917,FAQ,What is the price and business volume (BV) for Gas-O-Free (500ml)?,1917
+FAQ:1918,FAQ,Who should use this product?,1918
+FAQ:1919,FAQ,Does this cure medical conditions?,1919
+FAQ:1920,FAQ,How should it be stored?,1920
+FAQ:1921,FAQ,What is the shelf life / expiry?,1921
+FAQ:1922,FAQ,What are the ingredients?,1922
+FAQ:1923,FAQ,Who should avoid it / contraindications?,1923
+FAQ:1924,FAQ,How does it compare to other HEALTH CARE products?,1924
+FAQ:1925,FAQ,What is the pack size?,1925
+FAQ:1926,FAQ,Who manufactures this product?,1926
+FAQ:1927,FAQ,What is GoPiles (60 Tab)?,1927
+FAQ:1928,FAQ,What is the price and business volume (BV) for GoPiles (60 Tab)?,1928
+FAQ:1929,FAQ,Who should use this product?,1929
+FAQ:1930,FAQ,Does this cure medical conditions?,1930
+FAQ:1931,FAQ,How should it be stored?,1931
+FAQ:1932,FAQ,What is the shelf life / expiry?,1932
+FAQ:1933,FAQ,What are the ingredients?,1933
+FAQ:1934,FAQ,Who should avoid it / contraindications?,1934
+FAQ:1935,FAQ,How does it compare to other HEALTH CARE products?,1935
+FAQ:1936,FAQ,What is the pack size?,1936
+FAQ:1937,FAQ,Who manufactures this product?,1937
+FAQ:1938,FAQ,What is GoPiles Syrup (500ml)?,1938
+FAQ:1939,FAQ,What is the price and business volume (BV) for GoPiles Syrup (500ml)?,1939
+FAQ:1940,FAQ,Who should use this product?,1940
+FAQ:1941,FAQ,Does this cure medical conditions?,1941
+FAQ:1942,FAQ,How should it be stored?,1942
+FAQ:1943,FAQ,What is the shelf life / expiry?,1943
+FAQ:1944,FAQ,What are the ingredients?,1944
+FAQ:1945,FAQ,Who should avoid it / contraindications?,1945
+FAQ:1946,FAQ,How does it compare to other HEALTH CARE products?,1946
+FAQ:1947,FAQ,What is the pack size?,1947
+FAQ:1948,FAQ,Who manufactures this product?,1948
+FAQ:1949,FAQ,What is Giloe Extract (60 Veg Capsules)?,1949
+FAQ:1950,FAQ,What is the price and business volume (BV) for Giloe Extract (60 Veg Capsules)?,1950
+FAQ:1951,FAQ,Who should use this product?,1951
+FAQ:1952,FAQ,Is this a medicine?,1952
+FAQ:1953,FAQ,How should it be stored?,1953
+FAQ:1954,FAQ,What is the shelf life / expiry?,1954
+FAQ:1955,FAQ,What are the ingredients?,1955
+FAQ:1956,FAQ,Who should avoid it / contraindications?,1956
+FAQ:1957,FAQ,How does it compare to other HEALTH CARE products?,1957
+FAQ:1958,FAQ,What is the pack size?,1958
+FAQ:1959,FAQ,Who manufactures this product?,1959
+FAQ:1960,FAQ,What is Eye Elixir Drops (10ml)?,1960
+FAQ:1961,FAQ,What is the price and business volume (BV) for Eye Elixir Drops (10ml)?,1961
+FAQ:1962,FAQ,Who should use this product?,1962
+FAQ:1963,FAQ,Does this cure medical conditions?,1963
+FAQ:1964,FAQ,How should it be stored?,1964
+FAQ:1965,FAQ,What is the shelf life / expiry?,1965
+FAQ:1966,FAQ,What are the ingredients?,1966
+FAQ:1967,FAQ,Who should avoid it / contraindications?,1967
+FAQ:1968,FAQ,How does it compare to other HEALTH CARE products?,1968
+FAQ:1969,FAQ,What is the pack size?,1969
+FAQ:1970,FAQ,Who manufactures this product?,1970
+FAQ:1971,FAQ,What is Eye Health++ (60 Capsules)?,1971
+FAQ:1972,FAQ,What is the price and business volume (BV) for Eye Health++ (60 Capsules)?,1972
+FAQ:1973,FAQ,Who should use this product?,1973
+FAQ:1974,FAQ,Does this cure medical conditions?,1974
+FAQ:1975,FAQ,How should it be stored?,1975
+FAQ:1976,FAQ,What is the shelf life / expiry?,1976
+FAQ:1977,FAQ,What are the ingredients?,1977
+FAQ:1978,FAQ,Who should avoid it / contraindications?,1978
+FAQ:1979,FAQ,How does it compare to other HEALTH CARE products?,1979
+FAQ:1980,FAQ,What is the pack size?,1980
+FAQ:1981,FAQ,Who manufactures this product?,1981
+FAQ:1982,FAQ,What is HB+ (200ml)?,1982
+FAQ:1983,FAQ,What is the price and business volume (BV) for HB+ (200ml)?,1983
+FAQ:1984,FAQ,Who should use this product?,1984
+FAQ:1985,FAQ,Does this cure medical conditions?,1985
+FAQ:1986,FAQ,How should it be stored?,1986
+FAQ:1987,FAQ,What is the shelf life / expiry?,1987
+FAQ:1988,FAQ,What are the ingredients?,1988
+FAQ:1989,FAQ,Who should avoid it / contraindications?,1989
+FAQ:1990,FAQ,How does it compare to other HEALTH CARE products?,1990
+FAQ:1991,FAQ,What is the pack size?,1991
+FAQ:1992,FAQ,Who manufactures this product?,1992
+FAQ:1993,FAQ,What is HB+ (500ml)?,1993
+FAQ:1994,FAQ,What is the price and business volume (BV) for HB+ (500ml)?,1994
+FAQ:1995,FAQ,Who should use this product?,1995
+FAQ:1996,FAQ,Does this cure medical conditions?,1996
+FAQ:1997,FAQ,How should it be stored?,1997
+FAQ:1998,FAQ,What is the shelf life / expiry?,1998
+FAQ:1999,FAQ,What are the ingredients?,1999
+FAQ:2000,FAQ,Who should avoid it / contraindications?,2000
+FAQ:2001,FAQ,How does it compare to other HEALTH CARE products?,2001
+FAQ:2002,FAQ,What is the pack size?,2002
+FAQ:2003,FAQ,Who manufactures this product?,2003
+FAQ:2004,FAQ,What is Hi-Energy (60 Tab)?,2004
+FAQ:2005,FAQ,What is the price and business volume (BV) for Hi-Energy (60 Tab)?,2005
+FAQ:2006,FAQ,Who should use this product?,2006
+FAQ:2007,FAQ,Is this a medicine?,2007
+FAQ:2008,FAQ,How should it be stored?,2008
+FAQ:2009,FAQ,What is the shelf life / expiry?,2009
+FAQ:2010,FAQ,What are the ingredients?,2010
+FAQ:2011,FAQ,Who should avoid it / contraindications?,2011
+FAQ:2012,FAQ,How does it compare to other HEALTH CARE products?,2012
+FAQ:2013,FAQ,What is the pack size?,2013
+FAQ:2014,FAQ,Who manufactures this product?,2014
+FAQ:2015,FAQ,What is Kidney Kawach (300 g)?,2015
+FAQ:2016,FAQ,What is the price and business volume (BV) for Kidney Kawach (300 g)?,2016
+FAQ:2017,FAQ,Who should use this product?,2017
+FAQ:2018,FAQ,Does this cure medical conditions?,2018
+FAQ:2019,FAQ,How should it be stored?,2019
+FAQ:2020,FAQ,What is the shelf life / expiry?,2020
+FAQ:2021,FAQ,What are the ingredients?,2021
+FAQ:2022,FAQ,Who should avoid it / contraindications?,2022
+FAQ:2023,FAQ,How does it compare to other HEALTH CARE products?,2023
+FAQ:2024,FAQ,What is the pack size?,2024
+FAQ:2025,FAQ,Who manufactures this product?,2025
+FAQ:2026,FAQ,What is Liv-Ease (200ml)?,2026
+FAQ:2027,FAQ,What is the price and business volume (BV) for Liv-Ease (200ml)?,2027
+FAQ:2028,FAQ,Who should use this product?,2028
+FAQ:2029,FAQ,Is this a medicine?,2029
+FAQ:2030,FAQ,How should it be stored?,2030
+FAQ:2031,FAQ,What is the shelf life / expiry?,2031
+FAQ:2032,FAQ,What are the ingredients?,2032
+FAQ:2033,FAQ,Who should avoid it / contraindications?,2033
+FAQ:2034,FAQ,How does it compare to other HEALTH CARE products?,2034
+FAQ:2035,FAQ,What is the pack size?,2035
+FAQ:2036,FAQ,Who manufactures this product?,2036
+FAQ:2037,FAQ,What is Liv-Ease (500ml)?,2037
+FAQ:2038,FAQ,What is the price and business volume (BV) for Liv-Ease (500ml)?,2038
+FAQ:2039,FAQ,Who should use this product?,2039
+FAQ:2040,FAQ,Is this a medicine?,2040
+FAQ:2041,FAQ,How should it be stored?,2041
+FAQ:2042,FAQ,What is the shelf life / expiry?,2042
+FAQ:2043,FAQ,What are the ingredients?,2043
+FAQ:2044,FAQ,Who should avoid it / contraindications?,2044
+FAQ:2045,FAQ,How does it compare to other HEALTH CARE products?,2045
+FAQ:2046,FAQ,What is the pack size?,2046
+FAQ:2047,FAQ,Who manufactures this product?,2047
+FAQ:2048,FAQ,What is Multivitamins Tablets?,2048
+FAQ:2049,FAQ,What is the price and business volume (BV) for Multivitamins Tablets?,2049
+FAQ:2050,FAQ,Who should use this product?,2050
+FAQ:2051,FAQ,Is this a medicine?,2051
+FAQ:2052,FAQ,How should it be stored?,2052
+FAQ:2053,FAQ,What is the shelf life / expiry?,2053
+FAQ:2054,FAQ,What are the ingredients?,2054
+FAQ:2055,FAQ,Who should avoid it / contraindications?,2055
+FAQ:2056,FAQ,How does it compare to other HEALTH CARE products?,2056
+FAQ:2057,FAQ,What is the pack size?,2057
+FAQ:2058,FAQ,Who manufactures this product?,2058
+FAQ:2059,FAQ,What is Nonima (500ml)?,2059
+FAQ:2060,FAQ,What is the price and business volume (BV) for Nonima (500ml)?,2060
+FAQ:2061,FAQ,Who should use this product?,2061
+FAQ:2062,FAQ,Does this cure medical conditions?,2062
+FAQ:2063,FAQ,How should it be stored?,2063
+FAQ:2064,FAQ,What is the shelf life / expiry?,2064
+FAQ:2065,FAQ,What are the ingredients?,2065
+FAQ:2066,FAQ,Who should avoid it / contraindications?,2066
+FAQ:2067,FAQ,How does it compare to other HEALTH CARE products?,2067
+FAQ:2068,FAQ,What is the pack size?,2068
+FAQ:2069,FAQ,Who manufactures this product?,2069
+FAQ:2070,FAQ,What is N-astheal (120 Tab)?,2070
+FAQ:2071,FAQ,What is the price and business volume (BV) for N-astheal (120 Tab)?,2071
+FAQ:2072,FAQ,Who should use this product?,2072
+FAQ:2073,FAQ,Does this cure medical conditions?,2073
+FAQ:2074,FAQ,How should it be stored?,2074
+FAQ:2075,FAQ,What is the shelf life / expiry?,2075
+FAQ:2076,FAQ,What are the ingredients?,2076
+FAQ:2077,FAQ,Who should avoid it / contraindications?,2077
+FAQ:2078,FAQ,How does it compare to other HEALTH CARE products?,2078
+FAQ:2079,FAQ,What is the pack size?,2079
+FAQ:2080,FAQ,Who manufactures this product?,2080
+FAQ:2081,FAQ,What is N-astheal (60 Tab)?,2081
+FAQ:2082,FAQ,What is the price and business volume (BV) for N-astheal (60 Tab)?,2082
+FAQ:2083,FAQ,Who should use this product?,2083
+FAQ:2084,FAQ,Does this cure medical conditions?,2084
+FAQ:2085,FAQ,How should it be stored?,2085
+FAQ:2086,FAQ,What is the shelf life / expiry?,2086
+FAQ:2087,FAQ,What are the ingredients?,2087
+FAQ:2088,FAQ,Who should avoid it / contraindications?,2088
+FAQ:2089,FAQ,How does it compare to other HEALTH CARE products?,2089
+FAQ:2090,FAQ,What is the pack size?,2090
+FAQ:2091,FAQ,Who manufactures this product?,2091
+FAQ:2092,FAQ,What is Orthofix (60 Tab)?,2092
+FAQ:2093,FAQ,What is the price and business volume (BV) for Orthofix (60 Tab)?,2093
+FAQ:2094,FAQ,Who should use this product?,2094
+FAQ:2095,FAQ,Does this cure medical conditions?,2095
+FAQ:2096,FAQ,How should it be stored?,2096
+FAQ:2097,FAQ,What is the shelf life / expiry?,2097
+FAQ:2098,FAQ,What are the ingredients?,2098
+FAQ:2099,FAQ,Who should avoid it / contraindications?,2099
+FAQ:2100,FAQ,How does it compare to other HEALTH CARE products?,2100
+FAQ:2101,FAQ,What is the pack size?,2101
+FAQ:2102,FAQ,Who manufactures this product?,2102
+FAQ:2103,FAQ,What is Orthofix Oil (100ml)?,2103
+FAQ:2104,FAQ,What is the price and business volume (BV) for Orthofix Oil (100ml)?,2104
+FAQ:2105,FAQ,Who should use this product?,2105
+FAQ:2106,FAQ,Does this cure medical conditions?,2106
+FAQ:2107,FAQ,How should it be stored?,2107
+FAQ:2108,FAQ,What is the shelf life / expiry?,2108
+FAQ:2109,FAQ,What are the ingredients?,2109
+FAQ:2110,FAQ,Who should avoid it / contraindications?,2110
+FAQ:2111,FAQ,How does it compare to other HEALTH CARE products?,2111
+FAQ:2112,FAQ,What is the pack size?,2112
+FAQ:2113,FAQ,Who manufactures this product?,2113
+FAQ:2114,FAQ,What is Omega 3-6-9?,2114
+FAQ:2115,FAQ,What is the price and business volume (BV) for Omega 3-6-9?,2115
+FAQ:2116,FAQ,Who should use this product?,2116
+FAQ:2117,FAQ,Does this cure medical conditions?,2117
+FAQ:2118,FAQ,How should it be stored?,2118
+FAQ:2119,FAQ,What is the shelf life / expiry?,2119
+FAQ:2120,FAQ,What are the ingredients?,2120
+FAQ:2121,FAQ,Who should avoid it / contraindications?,2121
+FAQ:2122,FAQ,How does it compare to other HEALTH CARE products?,2122
+FAQ:2123,FAQ,What is the pack size?,2123
+FAQ:2124,FAQ,Who manufactures this product?,2124
+FAQ:2125,FAQ,What is Quick 6 Pain Relief Gel (30g)?,2125
+FAQ:2126,FAQ,What is the price and business volume (BV) for Quick 6 Pain Relief Gel (30g)?,2126
+FAQ:2127,FAQ,Who should use this product?,2127
+FAQ:2128,FAQ,Is this a medicine?,2128
+FAQ:2129,FAQ,How should it be stored?,2129
+FAQ:2130,FAQ,What is the shelf life / expiry?,2130
+FAQ:2131,FAQ,What are the ingredients?,2131
+FAQ:2132,FAQ,Who should avoid it / contraindications?,2132
+FAQ:2133,FAQ,How does it compare to other HEALTH CARE products?,2133
+FAQ:2134,FAQ,What is the pack size?,2134
+FAQ:2135,FAQ,Who manufactures this product?,2135
+FAQ:2136,FAQ,What is Super Rich Berry Juice (1 Ltr.)?,2136
+FAQ:2137,FAQ,What is the price and business volume (BV) for Super Rich Berry Juice (1 Ltr.)?,2137
+FAQ:2138,FAQ,Who should use this product?,2138
+FAQ:2139,FAQ,Does this cure medical conditions?,2139
+FAQ:2140,FAQ,How should it be stored?,2140
+FAQ:2141,FAQ,What is the shelf life / expiry?,2141
+FAQ:2142,FAQ,What are the ingredients?,2142
+FAQ:2143,FAQ,Who should avoid it / contraindications?,2143
+FAQ:2144,FAQ,How does it compare to other HEALTH CARE products?,2144
+FAQ:2145,FAQ,What is the pack size?,2145
+FAQ:2146,FAQ,Who manufactures this product?,2146
+FAQ:2147,FAQ,What is Seabuckthron Juice (1 Ltr.)?,2147
+FAQ:2148,FAQ,What is the price and business volume (BV) for Seabuckthron Juice (1 Ltr.)?,2148
+FAQ:2149,FAQ,Who should use this product?,2149
+FAQ:2150,FAQ,Is this a medicine?,2150
+FAQ:2151,FAQ,How should it be stored?,2151
+FAQ:2152,FAQ,What is the shelf life / expiry?,2152
+FAQ:2153,FAQ,What are the ingredients?,2153
+FAQ:2154,FAQ,Who should avoid it / contraindications?,2154
+FAQ:2155,FAQ,How does it compare to other HEALTH CARE products?,2155
+FAQ:2156,FAQ,What is the pack size?,2156
+FAQ:2157,FAQ,Who manufactures this product?,2157
+FAQ:2158,FAQ,What is Shatavari Extract (60 Veg Capsules)?,2158
+FAQ:2159,FAQ,What is the price and business volume (BV) for Shatavari Extract (60 Veg Capsules)?,2159
+FAQ:2160,FAQ,Who should use this product?,2160
+FAQ:2161,FAQ,Is this a medicine?,2161
+FAQ:2162,FAQ,How should it be stored?,2162
+FAQ:2163,FAQ,What is the shelf life / expiry?,2163
+FAQ:2164,FAQ,What are the ingredients?,2164
+FAQ:2165,FAQ,Who should avoid it / contraindications?,2165
+FAQ:2166,FAQ,How does it compare to other HEALTH CARE products?,2166
+FAQ:2167,FAQ,What is the pack size?,2167
+FAQ:2168,FAQ,Who manufactures this product?,2168
+FAQ:2169,FAQ,What is Super Food Capsule?,2169
+FAQ:2170,FAQ,What is the price and business volume (BV) for Super Food Capsule?,2170
+FAQ:2171,FAQ,Who should use this product?,2171
+FAQ:2172,FAQ,Does this cure medical conditions?,2172
+FAQ:2173,FAQ,How should it be stored?,2173
+FAQ:2174,FAQ,What is the shelf life / expiry?,2174
+FAQ:2175,FAQ,What are the ingredients?,2175
+FAQ:2176,FAQ,Who should avoid it / contraindications?,2176
+FAQ:2177,FAQ,How does it compare to other HEALTH CARE products?,2177
+FAQ:2178,FAQ,What is the pack size?,2178
+FAQ:2179,FAQ,Who manufactures this product?,2179
+FAQ:2180,FAQ,What is Premium Tulsi Max (30ml)?,2180
+FAQ:2181,FAQ,What is the price and business volume (BV) for Premium Tulsi Max (30ml)?,2181
+FAQ:2182,FAQ,Who should use this product?,2182
+FAQ:2183,FAQ,Does this cure medical conditions?,2183
+FAQ:2184,FAQ,How should it be stored?,2184
+FAQ:2185,FAQ,What is the shelf life / expiry?,2185
+FAQ:2186,FAQ,What are the ingredients?,2186
+FAQ:2187,FAQ,Who should avoid it / contraindications?,2187
+FAQ:2188,FAQ,How does it compare to other HEALTH CARE products?,2188
+FAQ:2189,FAQ,What is the pack size?,2189
+FAQ:2190,FAQ,Who manufactures this product?,2190
+FAQ:2191,FAQ,What is Vital Protein Powder (300gm)?,2191
+FAQ:2192,FAQ,What is the price and business volume (BV) for Vital Protein Powder (300gm)?,2192
+FAQ:2193,FAQ,Who should use this product?,2193
+FAQ:2194,FAQ,Does this cure medical conditions?,2194
+FAQ:2195,FAQ,How should it be stored?,2195
+FAQ:2196,FAQ,What is the shelf life / expiry?,2196
+FAQ:2197,FAQ,What are the ingredients?,2197
+FAQ:2198,FAQ,Who should avoid it / contraindications?,2198
+FAQ:2199,FAQ,How does it compare to other HEALTH CARE products?,2199
+FAQ:2200,FAQ,What is the pack size?,2200
+FAQ:2201,FAQ,Who manufactures this product?,2201
+FAQ:2202,FAQ,What is L-Arginine++ - Energy Drink (100g)?,2202
+FAQ:2203,FAQ,What is the price and business volume (BV) for L-Arginine++ - Energy Drink (100g)?,2203
+FAQ:2204,FAQ,Who should use this product?,2204
+FAQ:2205,FAQ,Is this a medicine?,2205
+FAQ:2206,FAQ,How should it be stored?,2206
+FAQ:2207,FAQ,What is the shelf life / expiry?,2207
+FAQ:2208,FAQ,What are the ingredients?,2208
+FAQ:2209,FAQ,Who should avoid it / contraindications?,2209
+FAQ:2210,FAQ,How does it compare to other HEALTH CARE products?,2210
+FAQ:2211,FAQ,What is the pack size?,2211
+FAQ:2212,FAQ,Who manufactures this product?,2212
+FAQ:2213,FAQ,What is Ample Meal - Meal Replacement Nutritional Shake (500g)?,2213
+FAQ:2214,FAQ,What is the price and business volume (BV) for Ample Meal - Meal Replacement Nutritional Shake (500g)?,2214
+FAQ:2215,FAQ,Who should use this product?,2215
+FAQ:2216,FAQ,Does this cure medical conditions?,2216
+FAQ:2217,FAQ,How should it be stored?,2217
+FAQ:2218,FAQ,What is the shelf life / expiry?,2218
+FAQ:2219,FAQ,What are the ingredients?,2219
+FAQ:2220,FAQ,Who should avoid it / contraindications?,2220
+FAQ:2221,FAQ,How does it compare to other HEALTH CARE products?,2221
+FAQ:2222,FAQ,What is the pack size?,2222
+FAQ:2223,FAQ,Who manufactures this product?,2223
+FAQ:2224,FAQ,What is JuniorJoy - Kids Nutritional Drink (300g)?,2224
+FAQ:2225,FAQ,What is the price and business volume (BV) for JuniorJoy - Kids Nutritional Drink (300g)?,2225
+FAQ:2226,FAQ,Who should use this product?,2226
+FAQ:2227,FAQ,Is this a medicine?,2227
+FAQ:2228,FAQ,How should it be stored?,2228
+FAQ:2229,FAQ,What is the shelf life / expiry?,2229
+FAQ:2230,FAQ,What are the ingredients?,2230
+FAQ:2231,FAQ,Who should avoid it / contraindications?,2231
+FAQ:2232,FAQ,How does it compare to other HEALTH CARE products?,2232
+FAQ:2233,FAQ,What is the pack size?,2233
+FAQ:2234,FAQ,Who manufactures this product?,2234
+FAQ:2235,FAQ,What is Kahwa Masala Chai (25 Pcs)?,2235
+FAQ:2236,FAQ,What is the price and business volume (BV) for Kahwa Masala Chai (25 Pcs)?,2236
+FAQ:2237,FAQ,Who should use this product?,2237
+FAQ:2238,FAQ,Is this a medicine?,2238
+FAQ:2239,FAQ,How should it be stored?,2239
+FAQ:2240,FAQ,What is the shelf life / expiry?,2240
+FAQ:2241,FAQ,What are the ingredients?,2241
+FAQ:2242,FAQ,Who should avoid it / contraindications?,2242
+FAQ:2243,FAQ,How does it compare to other HEALTH CARE products?,2243
+FAQ:2244,FAQ,What is the pack size?,2244
+FAQ:2245,FAQ,Who manufactures this product?,2245
+FAQ:2246,FAQ,What is Shilajit Gummies (60 Gummies)?,2246
+FAQ:2247,FAQ,What is the price and business volume (BV) for Shilajit Gummies (60 Gummies)?,2247
+FAQ:2248,FAQ,Who should use this product?,2248
+FAQ:2249,FAQ,Is this a medicine?,2249
+FAQ:2250,FAQ,How should it be stored?,2250
+FAQ:2251,FAQ,What is the shelf life / expiry?,2251
+FAQ:2252,FAQ,What are the ingredients?,2252
+FAQ:2253,FAQ,Who should avoid it / contraindications?,2253
+FAQ:2254,FAQ,How does it compare to other HEALTH CARE products?,2254
+FAQ:2255,FAQ,What is the pack size?,2255
+FAQ:2256,FAQ,Who manufactures this product?,2256
+FAQ:2257,FAQ,What is Apple Cider Vinegar (3X20 Tablets)?,2257
+FAQ:2258,FAQ,What is the price and business volume (BV) for Apple Cider Vinegar (3X20 Tablets)?,2258
+FAQ:2259,FAQ,Who should use this product?,2259
+FAQ:2260,FAQ,Is this a medicine?,2260
+FAQ:2261,FAQ,How should it be stored?,2261
+FAQ:2262,FAQ,What is the shelf life / expiry?,2262
+FAQ:2263,FAQ,What are the ingredients?,2263
+FAQ:2264,FAQ,Who should avoid it / contraindications?,2264
+FAQ:2265,FAQ,How does it compare to other HEALTH CARE products?,2265
+FAQ:2266,FAQ,What is the pack size?,2266
+FAQ:2267,FAQ,Who manufactures this product?,2267
+FAQ:2268,FAQ,What is Marine Collagen (200g)?,2268
+FAQ:2269,FAQ,What is the price and business volume (BV) for Marine Collagen (200g)?,2269
+FAQ:2270,FAQ,Who should use this product?,2270
+FAQ:2271,FAQ,Is this a medicine?,2271
+FAQ:2272,FAQ,How should it be stored?,2272
+FAQ:2273,FAQ,What is the shelf life / expiry?,2273
+FAQ:2274,FAQ,What are the ingredients?,2274
+FAQ:2275,FAQ,Who should avoid it / contraindications?,2275
+FAQ:2276,FAQ,How does it compare to other HEALTH CARE products?,2276
+FAQ:2277,FAQ,What is the pack size?,2277
+FAQ:2278,FAQ,Who manufactures this product?,2278
+FAQ:2279,FAQ,What is Dishwash Liquid Gel (500ml)?,2279
+FAQ:2280,FAQ,What is the price and business volume (BV) for Dishwash Liquid Gel (500ml)?,2280
+FAQ:2281,FAQ,Who should use this?,2281
+FAQ:2282,FAQ,Are there specific usage instructions?,2282
+FAQ:2283,FAQ,How should it be stored?,2283
+FAQ:2284,FAQ,What is the shelf life / expiry?,2284
+FAQ:2285,FAQ,What are the ingredients?,2285
+FAQ:2286,FAQ,Who should avoid it / contraindications?,2286
+FAQ:2287,FAQ,How does it compare to other HOME CARE products?,2287
+FAQ:2288,FAQ,What is the pack size?,2288
+FAQ:2289,FAQ,Who manufactures this product?,2289
+FAQ:2290,FAQ,What is Toilet Bowl Cleaner (500ml)?,2290
+FAQ:2291,FAQ,What is the price and business volume (BV) for Toilet Bowl Cleaner (500ml)?,2291
+FAQ:2292,FAQ,Who should use this?,2292
+FAQ:2293,FAQ,Are there specific usage instructions?,2293
+FAQ:2294,FAQ,How should it be stored?,2294
+FAQ:2295,FAQ,What is the shelf life / expiry?,2295
+FAQ:2296,FAQ,What are the ingredients?,2296
+FAQ:2297,FAQ,Who should avoid it / contraindications?,2297
+FAQ:2298,FAQ,How does it compare to other HOME CARE products?,2298
+FAQ:2299,FAQ,What is the pack size?,2299
+FAQ:2300,FAQ,Who manufactures this product?,2300
+FAQ:2301,FAQ,What is Liquid Detergent (1Ltr.)?,2301
+FAQ:2302,FAQ,What is the price and business volume (BV) for Liquid Detergent (1Ltr.)?,2302
+FAQ:2303,FAQ,Who should use this?,2303
+FAQ:2304,FAQ,Are there specific usage instructions?,2304
+FAQ:2305,FAQ,How should it be stored?,2305
+FAQ:2306,FAQ,What is the shelf life / expiry?,2306
+FAQ:2307,FAQ,What are the ingredients?,2307
+FAQ:2308,FAQ,Who should avoid it / contraindications?,2308
+FAQ:2309,FAQ,How does it compare to other HOME CARE products?,2309
+FAQ:2310,FAQ,What is the pack size?,2310
+FAQ:2311,FAQ,Who manufactures this product?,2311
+FAQ:2312,FAQ,What is All in 1 Surface Cleaner (500ml)?,2312
+FAQ:2313,FAQ,What is the price and business volume (BV) for All in 1 Surface Cleaner (500ml)?,2313
+FAQ:2314,FAQ,Who should use this?,2314
+FAQ:2315,FAQ,Are there specific usage instructions?,2315
+FAQ:2316,FAQ,How should it be stored?,2316
+FAQ:2317,FAQ,What is the shelf life / expiry?,2317
+FAQ:2318,FAQ,What are the ingredients?,2318
+FAQ:2319,FAQ,Who should avoid it / contraindications?,2319
+FAQ:2320,FAQ,How does it compare to other HOME CARE products?,2320
+FAQ:2321,FAQ,What is the pack size?,2321
+FAQ:2322,FAQ,Who manufactures this product?,2322
+FAQ:2323,FAQ,What is Premium Suit Length (Black)?,2323
+FAQ:2324,FAQ,What is the price and business volume (BV) for Premium Suit Length (Black)?,2324
+FAQ:2325,FAQ,Who should use this?,2325
+FAQ:2326,FAQ,Are there specific usage instructions?,2326
+FAQ:2327,FAQ,How should it be stored?,2327
+FAQ:2328,FAQ,What is the shelf life / expiry?,2328
+FAQ:2329,FAQ,What are the ingredients?,2329
+FAQ:2330,FAQ,Who should avoid it / contraindications?,2330
+FAQ:2331,FAQ,How does it compare to other CLOTHING products?,2331
+FAQ:2332,FAQ,What is the pack size?,2332
+FAQ:2333,FAQ,Who manufactures this product?,2333
+FAQ:2334,FAQ,What is Designer Mask (Pack of 5)?,2334
+FAQ:2335,FAQ,What is the price and business volume (BV) for Designer Mask (Pack of 5)?,2335
+FAQ:2336,FAQ,Who should use this?,2336
+FAQ:2337,FAQ,Are there specific usage instructions?,2337
+FAQ:2338,FAQ,How should it be stored?,2338
+FAQ:2339,FAQ,What is the shelf life / expiry?,2339
+FAQ:2340,FAQ,What are the ingredients?,2340
+FAQ:2341,FAQ,Who should avoid it / contraindications?,2341
+FAQ:2342,FAQ,How does it compare to other CLOTHING products?,2342
+FAQ:2343,FAQ,What is the pack size?,2343
+FAQ:2344,FAQ,Who manufactures this product?,2344
+FAQ:2345,FAQ,What is Dayjoy Necktie?,2345
+FAQ:2346,FAQ,What is the price and business volume (BV) for Dayjoy Necktie?,2346
+FAQ:2347,FAQ,Who should use this?,2347
+FAQ:2348,FAQ,Are there specific usage instructions?,2348
+FAQ:2349,FAQ,How should it be stored?,2349
+FAQ:2350,FAQ,What is the shelf life / expiry?,2350
+FAQ:2351,FAQ,What are the ingredients?,2351
+FAQ:2352,FAQ,Who should avoid it / contraindications?,2352
+FAQ:2353,FAQ,How does it compare to other CLOTHING products?,2353
+FAQ:2354,FAQ,What is the pack size?,2354
+FAQ:2355,FAQ,Who manufactures this product?,2355
+FAQ:2356,FAQ,"What is T-shirt New Design (L, M, XL)?",2356
+FAQ:2357,FAQ,"What is the price and business volume (BV) for T-shirt New Design (L, M, XL)?",2357
+FAQ:2358,FAQ,Who should use this?,2358
+FAQ:2359,FAQ,Are there specific usage instructions?,2359
+FAQ:2360,FAQ,How should it be stored?,2360
+FAQ:2361,FAQ,What is the shelf life / expiry?,2361
+FAQ:2362,FAQ,What are the ingredients?,2362
+FAQ:2363,FAQ,Who should avoid it / contraindications?,2363
+FAQ:2364,FAQ,How does it compare to other CLOTHING products?,2364
+FAQ:2365,FAQ,What is the pack size?,2365
+FAQ:2366,FAQ,Who manufactures this product?,2366
+FAQ:2367,FAQ,What is Happy Soil - Humic (500ml)?,2367
+FAQ:2368,FAQ,What is the price and business volume (BV) for Happy Soil - Humic (500ml)?,2368
+FAQ:2369,FAQ,Who should use this product?,2369
+FAQ:2370,FAQ,Is it safe for organic farming?,2370
+FAQ:2371,FAQ,How should it be stored?,2371
+FAQ:2372,FAQ,What is the shelf life / expiry?,2372
+FAQ:2373,FAQ,What are the ingredients?,2373
+FAQ:2374,FAQ,Who should avoid it / contraindications?,2374
+FAQ:2375,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2375
+FAQ:2376,FAQ,What is the pack size?,2376
+FAQ:2377,FAQ,Who manufactures this product?,2377
+FAQ:2378,FAQ,What is Nano Tech-19 (500ml)?,2378
+FAQ:2379,FAQ,What is the price and business volume (BV) for Nano Tech-19 (500ml)?,2379
+FAQ:2380,FAQ,Who should use this product?,2380
+FAQ:2381,FAQ,Is it safe for organic farming?,2381
+FAQ:2382,FAQ,How should it be stored?,2382
+FAQ:2383,FAQ,What is the shelf life / expiry?,2383
+FAQ:2384,FAQ,What are the ingredients?,2384
+FAQ:2385,FAQ,Who should avoid it / contraindications?,2385
+FAQ:2386,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2386
+FAQ:2387,FAQ,What is the pack size?,2387
+FAQ:2388,FAQ,Who manufactures this product?,2388
+FAQ:2389,FAQ,What is Nano Tech-46 (500ml)?,2389
+FAQ:2390,FAQ,What is the price and business volume (BV) for Nano Tech-46 (500ml)?,2390
+FAQ:2391,FAQ,Who should use this product?,2391
+FAQ:2392,FAQ,Is it safe for organic farming?,2392
+FAQ:2393,FAQ,How should it be stored?,2393
+FAQ:2394,FAQ,What is the shelf life / expiry?,2394
+FAQ:2395,FAQ,What are the ingredients?,2395
+FAQ:2396,FAQ,Who should avoid it / contraindications?,2396
+FAQ:2397,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2397
+FAQ:2398,FAQ,What is the pack size?,2398
+FAQ:2399,FAQ,Who manufactures this product?,2399
+FAQ:2400,FAQ,What is Nano Tech-50 (500ml)?,2400
+FAQ:2401,FAQ,What is the price and business volume (BV) for Nano Tech-50 (500ml)?,2401
+FAQ:2402,FAQ,Who should use this product?,2402
+FAQ:2403,FAQ,Is it safe for organic farming?,2403
+FAQ:2404,FAQ,How should it be stored?,2404
+FAQ:2405,FAQ,What is the shelf life / expiry?,2405
+FAQ:2406,FAQ,What are the ingredients?,2406
+FAQ:2407,FAQ,Who should avoid it / contraindications?,2407
+FAQ:2408,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2408
+FAQ:2409,FAQ,What is the pack size?,2409
+FAQ:2410,FAQ,Who manufactures this product?,2410
+FAQ:2411,FAQ,What is Nano Tech-52 (500ml)?,2411
+FAQ:2412,FAQ,What is the price and business volume (BV) for Nano Tech-52 (500ml)?,2412
+FAQ:2413,FAQ,Who should use this product?,2413
+FAQ:2414,FAQ,Is it safe for organic farming?,2414
+FAQ:2415,FAQ,How should it be stored?,2415
+FAQ:2416,FAQ,What is the shelf life / expiry?,2416
+FAQ:2417,FAQ,What are the ingredients?,2417
+FAQ:2418,FAQ,Who should avoid it / contraindications?,2418
+FAQ:2419,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2419
+FAQ:2420,FAQ,What is the pack size?,2420
+FAQ:2421,FAQ,Who manufactures this product?,2421
+FAQ:2422,FAQ,What is Prosperous+ (1 L)?,2422
+FAQ:2423,FAQ,What is the price and business volume (BV) for Prosperous+ (1 L)?,2423
+FAQ:2424,FAQ,Who should use this product?,2424
+FAQ:2425,FAQ,Is it safe for organic farming?,2425
+FAQ:2426,FAQ,How should it be stored?,2426
+FAQ:2427,FAQ,What is the shelf life / expiry?,2427
+FAQ:2428,FAQ,What are the ingredients?,2428
+FAQ:2429,FAQ,Who should avoid it / contraindications?,2429
+FAQ:2430,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2430
+FAQ:2431,FAQ,What is the pack size?,2431
+FAQ:2432,FAQ,Who manufactures this product?,2432
+FAQ:2433,FAQ,What is Prosperous+ Tablets?,2433
+FAQ:2434,FAQ,What is the price and business volume (BV) for Prosperous+ Tablets?,2434
+FAQ:2435,FAQ,Who should use this product?,2435
+FAQ:2436,FAQ,Is it safe for organic farming?,2436
+FAQ:2437,FAQ,How should it be stored?,2437
+FAQ:2438,FAQ,What is the shelf life / expiry?,2438
+FAQ:2439,FAQ,What are the ingredients?,2439
+FAQ:2440,FAQ,Who should avoid it / contraindications?,2440
+FAQ:2441,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2441
+FAQ:2442,FAQ,What is the pack size?,2442
+FAQ:2443,FAQ,Who manufactures this product?,2443
+FAQ:2444,FAQ,What is Joy-O-Zyme (500ml)?,2444
+FAQ:2445,FAQ,What is the price and business volume (BV) for Joy-O-Zyme (500ml)?,2445
+FAQ:2446,FAQ,Who should use this product?,2446
+FAQ:2447,FAQ,Is it safe for organic farming?,2447
+FAQ:2448,FAQ,How should it be stored?,2448
+FAQ:2449,FAQ,What is the shelf life / expiry?,2449
+FAQ:2450,FAQ,What are the ingredients?,2450
+FAQ:2451,FAQ,Who should avoid it / contraindications?,2451
+FAQ:2452,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2452
+FAQ:2453,FAQ,What is the pack size?,2453
+FAQ:2454,FAQ,Who manufactures this product?,2454
+FAQ:2455,FAQ,What is JoySpread 80+ Gold (250ml)?,2455
+FAQ:2456,FAQ,What is the price and business volume (BV) for JoySpread 80+ Gold (250ml)?,2456
+FAQ:2457,FAQ,Who should use this product?,2457
+FAQ:2458,FAQ,Is it safe for organic farming?,2458
+FAQ:2459,FAQ,How should it be stored?,2459
+FAQ:2460,FAQ,What is the shelf life / expiry?,2460
+FAQ:2461,FAQ,What are the ingredients?,2461
+FAQ:2462,FAQ,Who should avoid it / contraindications?,2462
+FAQ:2463,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2463
+FAQ:2464,FAQ,What is the pack size?,2464
+FAQ:2465,FAQ,Who manufactures this product?,2465
+FAQ:2466,FAQ,What is JoySpread 80+ Gold (100ml)?,2466
+FAQ:2467,FAQ,What is the price and business volume (BV) for JoySpread 80+ Gold (100ml)?,2467
+FAQ:2468,FAQ,Who should use this product?,2468
+FAQ:2469,FAQ,Is it safe for organic farming?,2469
+FAQ:2470,FAQ,How should it be stored?,2470
+FAQ:2471,FAQ,What is the shelf life / expiry?,2471
+FAQ:2472,FAQ,What are the ingredients?,2472
+FAQ:2473,FAQ,Who should avoid it / contraindications?,2473
+FAQ:2474,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2474
+FAQ:2475,FAQ,What is the pack size?,2475
+FAQ:2476,FAQ,Who manufactures this product?,2476
+FAQ:2477,FAQ,What is JoyGrow 2X (Granules) (2kg)?,2477
+FAQ:2478,FAQ,What is the price and business volume (BV) for JoyGrow 2X (Granules) (2kg)?,2478
+FAQ:2479,FAQ,Who should use this product?,2479
+FAQ:2480,FAQ,Is it safe for organic farming?,2480
+FAQ:2481,FAQ,How should it be stored?,2481
+FAQ:2482,FAQ,What is the shelf life / expiry?,2482
+FAQ:2483,FAQ,What are the ingredients?,2483
+FAQ:2484,FAQ,Who should avoid it / contraindications?,2484
+FAQ:2485,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2485
+FAQ:2486,FAQ,What is the pack size?,2486
+FAQ:2487,FAQ,Who manufactures this product?,2487
+FAQ:2488,FAQ,What is JoyProtect (500ml)?,2488
+FAQ:2489,FAQ,What is the price and business volume (BV) for JoyProtect (500ml)?,2489
+FAQ:2490,FAQ,Who should use this product?,2490
+FAQ:2491,FAQ,Is it safe for organic farming?,2491
+FAQ:2492,FAQ,How should it be stored?,2492
+FAQ:2493,FAQ,What is the shelf life / expiry?,2493
+FAQ:2494,FAQ,What are the ingredients?,2494
+FAQ:2495,FAQ,Who should avoid it / contraindications?,2495
+FAQ:2496,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2496
+FAQ:2497,FAQ,What is the pack size?,2497
+FAQ:2498,FAQ,Who manufactures this product?,2498
+FAQ:2499,FAQ,What is JoyCalcium (2 Litre)?,2499
+FAQ:2500,FAQ,What is the price and business volume (BV) for JoyCalcium (2 Litre)?,2500
+FAQ:2501,FAQ,Who should use this product?,2501
+FAQ:2502,FAQ,Is it safe for organic farming?,2502
+FAQ:2503,FAQ,How should it be stored?,2503
+FAQ:2504,FAQ,What is the shelf life / expiry?,2504
+FAQ:2505,FAQ,What are the ingredients?,2505
+FAQ:2506,FAQ,Who should avoid it / contraindications?,2506
+FAQ:2507,FAQ,How does it compare to other AGRICULTURE & VETERINARY products?,2507
+FAQ:2508,FAQ,What is the pack size?,2508
+FAQ:2509,FAQ,Who manufactures this product?,2509
+FAQ:2510,FAQ,What is Bio-Germanium & Magnetic Mattress?,2510
+FAQ:2511,FAQ,What is the price and business volume (BV) for Bio-Germanium & Magnetic Mattress?,2511
+FAQ:2512,FAQ,Who should use this?,2512
+FAQ:2513,FAQ,Are there specific usage instructions?,2513
+FAQ:2514,FAQ,How should it be stored?,2514
+FAQ:2515,FAQ,What is the shelf life / expiry?,2515
+FAQ:2516,FAQ,What are the ingredients?,2516
+FAQ:2517,FAQ,Who should avoid it / contraindications?,2517
+FAQ:2518,FAQ,How does it compare to other GERMANIUM & MAGNETIC products?,2518
+FAQ:2519,FAQ,What is the pack size?,2519
+FAQ:2520,FAQ,Who manufactures this product?,2520
+FAQ:2521,FAQ,What is Bio-Germanium & Magnetic Mattress (Pack of 2)?,2521
+FAQ:2522,FAQ,What is the price and business volume (BV) for Bio-Germanium & Magnetic Mattress (Pack of 2)?,2522
+FAQ:2523,FAQ,Who should use this?,2523
+FAQ:2524,FAQ,Are there specific usage instructions?,2524
+FAQ:2525,FAQ,How should it be stored?,2525
+FAQ:2526,FAQ,What is the shelf life / expiry?,2526
+FAQ:2527,FAQ,What are the ingredients?,2527
+FAQ:2528,FAQ,Who should avoid it / contraindications?,2528
+FAQ:2529,FAQ,How does it compare to other GERMANIUM & MAGNETIC products?,2529
+FAQ:2530,FAQ,What is the pack size?,2530
+FAQ:2531,FAQ,Who manufactures this product?,2531
+FAQ:2532,FAQ,What is Aqua Energiser (Pack of 3)?,2532
+FAQ:2533,FAQ,What is the price and business volume (BV) for Aqua Energiser (Pack of 3)?,2533
+FAQ:2534,FAQ,Who should use this?,2534
+FAQ:2535,FAQ,Are there specific usage instructions?,2535
+FAQ:2536,FAQ,How should it be stored?,2536
+FAQ:2537,FAQ,What is the shelf life / expiry?,2537
+FAQ:2538,FAQ,What are the ingredients?,2538
+FAQ:2539,FAQ,Who should avoid it / contraindications?,2539
+FAQ:2540,FAQ,How does it compare to other AQUA ESSENTIALS products?,2540
+FAQ:2541,FAQ,What is the pack size?,2541
+FAQ:2542,FAQ,Who manufactures this product?,2542
+FAQ:2543,FAQ,What is Aqua Energiser (Single)?,2543
+FAQ:2544,FAQ,What is the price and business volume (BV) for Aqua Energiser (Single)?,2544
+FAQ:2545,FAQ,Who should use this?,2545
+FAQ:2546,FAQ,Are there specific usage instructions?,2546
+FAQ:2547,FAQ,How should it be stored?,2547
+FAQ:2548,FAQ,What is the shelf life / expiry?,2548
+FAQ:2549,FAQ,What are the ingredients?,2549
+FAQ:2550,FAQ,Who should avoid it / contraindications?,2550
+FAQ:2551,FAQ,How does it compare to other AQUA ESSENTIALS products?,2551
+FAQ:2552,FAQ,What is the pack size?,2552
+FAQ:2553,FAQ,Who manufactures this product?,2553
+FAQ:2554,FAQ,What is New Perfect-Ion?,2554
+FAQ:2555,FAQ,What is the price and business volume (BV) for New Perfect-Ion?,2555
+FAQ:2556,FAQ,Who should use this?,2556
+FAQ:2557,FAQ,Are there specific usage instructions?,2557
+FAQ:2558,FAQ,How should it be stored?,2558
+FAQ:2559,FAQ,What is the shelf life / expiry?,2559
+FAQ:2560,FAQ,What are the ingredients?,2560
+FAQ:2561,FAQ,Who should avoid it / contraindications?,2561
+FAQ:2562,FAQ,How does it compare to other AQUA ESSENTIALS products?,2562
+FAQ:2563,FAQ,What is the pack size?,2563
+FAQ:2564,FAQ,Who manufactures this product?,2564
+FAQ:2565,FAQ,What is Perfect-Ion Testing Solutions?,2565
+FAQ:2566,FAQ,What is the price and business volume (BV) for Perfect-Ion Testing Solutions?,2566
+FAQ:2567,FAQ,Who should use this?,2567
+FAQ:2568,FAQ,Are there specific usage instructions?,2568
+FAQ:2569,FAQ,How should it be stored?,2569
+FAQ:2570,FAQ,What is the shelf life / expiry?,2570
+FAQ:2571,FAQ,What are the ingredients?,2571
+FAQ:2572,FAQ,Who should avoid it / contraindications?,2572
+FAQ:2573,FAQ,How does it compare to other AQUA ESSENTIALS products?,2573
+FAQ:2574,FAQ,What is the pack size?,2574
+FAQ:2575,FAQ,Who manufactures this product?,2575
+FAQ:2576,FAQ,What is Perfect-Ion Leaflets (Set of 25)?,2576
+FAQ:2577,FAQ,What is the price and business volume (BV) for Perfect-Ion Leaflets (Set of 25)?,2577
+FAQ:2578,FAQ,Who should use this?,2578
+FAQ:2579,FAQ,Are there specific usage instructions?,2579
+FAQ:2580,FAQ,How should it be stored?,2580
+FAQ:2581,FAQ,What is the shelf life / expiry?,2581
+FAQ:2582,FAQ,What are the ingredients?,2582
+FAQ:2583,FAQ,Who should avoid it / contraindications?,2583
+FAQ:2584,FAQ,How does it compare to other AQUA ESSENTIALS products?,2584
+FAQ:2585,FAQ,What is the pack size?,2585
+FAQ:2586,FAQ,Who manufactures this product?,2586
+FAQ:2587,FAQ,What is Perfect-Ion Leaflets (Set of 50)?,2587
+FAQ:2588,FAQ,What is the price and business volume (BV) for Perfect-Ion Leaflets (Set of 50)?,2588
+FAQ:2589,FAQ,Who should use this?,2589
+FAQ:2590,FAQ,Are there specific usage instructions?,2590
+FAQ:2591,FAQ,How should it be stored?,2591
+FAQ:2592,FAQ,What is the shelf life / expiry?,2592
+FAQ:2593,FAQ,What are the ingredients?,2593
+FAQ:2594,FAQ,Who should avoid it / contraindications?,2594
+FAQ:2595,FAQ,How does it compare to other AQUA ESSENTIALS products?,2595
+FAQ:2596,FAQ,What is the pack size?,2596
+FAQ:2597,FAQ,Who manufactures this product?,2597
+FAQ:2598,FAQ,What is N-SF 9.5 Mineraliser?,2598
+FAQ:2599,FAQ,What is the price and business volume (BV) for N-SF 9.5 Mineraliser?,2599
+FAQ:2600,FAQ,Who should use this?,2600
+FAQ:2601,FAQ,Are there specific usage instructions?,2601
+FAQ:2602,FAQ,How should it be stored?,2602
+FAQ:2603,FAQ,What is the shelf life / expiry?,2603
+FAQ:2604,FAQ,What are the ingredients?,2604
+FAQ:2605,FAQ,Who should avoid it / contraindications?,2605
+FAQ:2606,FAQ,How does it compare to other AQUA ESSENTIALS products?,2606
+FAQ:2607,FAQ,What is the pack size?,2607
+FAQ:2608,FAQ,Who manufactures this product?,2608
+FAQ:2609,FAQ,What is N-SF 10.5 Mineraliser?,2609
+FAQ:2610,FAQ,What is the price and business volume (BV) for N-SF 10.5 Mineraliser?,2610
+FAQ:2611,FAQ,Who should use this?,2611
+FAQ:2612,FAQ,Are there specific usage instructions?,2612
+FAQ:2613,FAQ,How should it be stored?,2613
+FAQ:2614,FAQ,What is the shelf life / expiry?,2614
+FAQ:2615,FAQ,What are the ingredients?,2615
+FAQ:2616,FAQ,Who should avoid it / contraindications?,2616
+FAQ:2617,FAQ,How does it compare to other AQUA ESSENTIALS products?,2617
+FAQ:2618,FAQ,What is the pack size?,2618
+FAQ:2619,FAQ,Who manufactures this product?,2619
+FAQ:2620,FAQ,What is Dayjoy Diary?,2620
+FAQ:2621,FAQ,What is the price and business volume (BV) for Dayjoy Diary?,2621
+FAQ:2622,FAQ,Who should use this?,2622
+FAQ:2623,FAQ,Are there specific usage instructions?,2623
+FAQ:2624,FAQ,How should it be stored?,2624
+FAQ:2625,FAQ,What is the shelf life / expiry?,2625
+FAQ:2626,FAQ,What are the ingredients?,2626
+FAQ:2627,FAQ,Who should avoid it / contraindications?,2627
+FAQ:2628,FAQ,How does it compare to other PROMOTION TOOLS products?,2628
+FAQ:2629,FAQ,What is the pack size?,2629
+FAQ:2630,FAQ,Who manufactures this product?,2630
+FAQ:2631,FAQ,What is Dayjoy Leather Bag?,2631
+FAQ:2632,FAQ,What is the price and business volume (BV) for Dayjoy Leather Bag?,2632
+FAQ:2633,FAQ,Who should use this?,2633
+FAQ:2634,FAQ,Are there specific usage instructions?,2634
+FAQ:2635,FAQ,How should it be stored?,2635
+FAQ:2636,FAQ,What is the shelf life / expiry?,2636
+FAQ:2637,FAQ,What are the ingredients?,2637
+FAQ:2638,FAQ,Who should avoid it / contraindications?,2638
+FAQ:2639,FAQ,How does it compare to other PROMOTION TOOLS products?,2639
+FAQ:2640,FAQ,What is the pack size?,2640
+FAQ:2641,FAQ,Who manufactures this product?,2641
+FAQ:2642,FAQ,What is Dayjoy Cap?,2642
+FAQ:2643,FAQ,What is the price and business volume (BV) for Dayjoy Cap?,2643
+FAQ:2644,FAQ,Who should use this?,2644
+FAQ:2645,FAQ,Are there specific usage instructions?,2645
+FAQ:2646,FAQ,How should it be stored?,2646
+FAQ:2647,FAQ,What is the shelf life / expiry?,2647
+FAQ:2648,FAQ,What are the ingredients?,2648
+FAQ:2649,FAQ,Who should avoid it / contraindications?,2649
+FAQ:2650,FAQ,How does it compare to other PROMOTION TOOLS products?,2650
+FAQ:2651,FAQ,What is the pack size?,2651
+FAQ:2652,FAQ,Who manufactures this product?,2652
+FAQ:2653,FAQ,What is Dayjoy Mug?,2653
+FAQ:2654,FAQ,What is the price and business volume (BV) for Dayjoy Mug?,2654
+FAQ:2655,FAQ,Who should use this?,2655
+FAQ:2656,FAQ,Are there specific usage instructions?,2656
+FAQ:2657,FAQ,How should it be stored?,2657
+FAQ:2658,FAQ,What is the shelf life / expiry?,2658
+FAQ:2659,FAQ,What are the ingredients?,2659
+FAQ:2660,FAQ,Who should avoid it / contraindications?,2660
+FAQ:2661,FAQ,How does it compare to other PROMOTION TOOLS products?,2661
+FAQ:2662,FAQ,What is the pack size?,2662
+FAQ:2663,FAQ,Who manufactures this product?,2663
+FAQ:2664,FAQ,What is Dayjoy Bike Sticker?,2664
+FAQ:2665,FAQ,What is the price and business volume (BV) for Dayjoy Bike Sticker?,2665
+FAQ:2666,FAQ,Who should use this?,2666
+FAQ:2667,FAQ,Are there specific usage instructions?,2667
+FAQ:2668,FAQ,How should it be stored?,2668
+FAQ:2669,FAQ,What is the shelf life / expiry?,2669
+FAQ:2670,FAQ,What are the ingredients?,2670
+FAQ:2671,FAQ,Who should avoid it / contraindications?,2671
+FAQ:2672,FAQ,How does it compare to other PROMOTION TOOLS products?,2672
+FAQ:2673,FAQ,What is the pack size?,2673
+FAQ:2674,FAQ,Who manufactures this product?,2674
+FAQ:2675,FAQ,What is Dayjoy Car Sticker?,2675
+FAQ:2676,FAQ,What is the price and business volume (BV) for Dayjoy Car Sticker?,2676
+FAQ:2677,FAQ,Who should use this?,2677
+FAQ:2678,FAQ,Are there specific usage instructions?,2678
+FAQ:2679,FAQ,How should it be stored?,2679
+FAQ:2680,FAQ,What is the shelf life / expiry?,2680
+FAQ:2681,FAQ,What are the ingredients?,2681
+FAQ:2682,FAQ,Who should avoid it / contraindications?,2682
+FAQ:2683,FAQ,How does it compare to other PROMOTION TOOLS products?,2683
+FAQ:2684,FAQ,What is the pack size?,2684
+FAQ:2685,FAQ,Who manufactures this product?,2685
+FAQ:2686,FAQ,What is Dayjoy Pin?,2686
+FAQ:2687,FAQ,What is the price and business volume (BV) for Dayjoy Pin?,2687
+FAQ:2688,FAQ,Who should use this?,2688
+FAQ:2689,FAQ,Are there specific usage instructions?,2689
+FAQ:2690,FAQ,How should it be stored?,2690
+FAQ:2691,FAQ,What is the shelf life / expiry?,2691
+FAQ:2692,FAQ,What are the ingredients?,2692
+FAQ:2693,FAQ,Who should avoid it / contraindications?,2693
+FAQ:2694,FAQ,How does it compare to other PROMOTION TOOLS products?,2694
+FAQ:2695,FAQ,What is the pack size?,2695
+FAQ:2696,FAQ,Who manufactures this product?,2696
+FAQ:2697,FAQ,What is Dayjoy Backpack Bag?,2697
+FAQ:2698,FAQ,What is the price and business volume (BV) for Dayjoy Backpack Bag?,2698
+FAQ:2699,FAQ,Who should use this?,2699
+FAQ:2700,FAQ,Are there specific usage instructions?,2700
+FAQ:2701,FAQ,How should it be stored?,2701
+FAQ:2702,FAQ,What is the shelf life / expiry?,2702
+FAQ:2703,FAQ,What are the ingredients?,2703
+FAQ:2704,FAQ,Who should avoid it / contraindications?,2704
+FAQ:2705,FAQ,How does it compare to other PROMOTION TOOLS products?,2705
+FAQ:2706,FAQ,What is the pack size?,2706
+FAQ:2707,FAQ,Who manufactures this product?,2707
+FAQ:2708,FAQ,What is New Dayjoy Product Brochure (Hindi)?,2708
+FAQ:2709,FAQ,What is the price and business volume (BV) for New Dayjoy Product Brochure (Hindi)?,2709
+FAQ:2710,FAQ,Who should use this?,2710
+FAQ:2711,FAQ,Are there specific usage instructions?,2711
+FAQ:2712,FAQ,How should it be stored?,2712
+FAQ:2713,FAQ,What is the shelf life / expiry?,2713
+FAQ:2714,FAQ,What are the ingredients?,2714
+FAQ:2715,FAQ,Who should avoid it / contraindications?,2715
+FAQ:2716,FAQ,How does it compare to other PROMOTION TOOLS products?,2716
+FAQ:2717,FAQ,What is the pack size?,2717
+FAQ:2718,FAQ,Who manufactures this product?,2718
+FAQ:2719,FAQ,What is New Dayjoy Product Brochure (English)?,2719
+FAQ:2720,FAQ,What is the price and business volume (BV) for New Dayjoy Product Brochure (English)?,2720
+FAQ:2721,FAQ,Who should use this?,2721
+FAQ:2722,FAQ,Are there specific usage instructions?,2722
+FAQ:2723,FAQ,How should it be stored?,2723
+FAQ:2724,FAQ,What is the shelf life / expiry?,2724
+FAQ:2725,FAQ,What are the ingredients?,2725
+FAQ:2726,FAQ,Who should avoid it / contraindications?,2726
+FAQ:2727,FAQ,How does it compare to other PROMOTION TOOLS products?,2727
+FAQ:2728,FAQ,What is the pack size?,2728
+FAQ:2729,FAQ,Who manufactures this product?,2729
+FAQ:2730,FAQ,What is New Dayjoy Product Brochure (Telugu)?,2730
+FAQ:2731,FAQ,What is the price and business volume (BV) for New Dayjoy Product Brochure (Telugu)?,2731
+FAQ:2732,FAQ,Who should use this?,2732
+FAQ:2733,FAQ,Are there specific usage instructions?,2733
+FAQ:2734,FAQ,How should it be stored?,2734
+FAQ:2735,FAQ,What is the shelf life / expiry?,2735
+FAQ:2736,FAQ,What are the ingredients?,2736
+FAQ:2737,FAQ,Who should avoid it / contraindications?,2737
+FAQ:2738,FAQ,How does it compare to other PROMOTION TOOLS products?,2738
+FAQ:2739,FAQ,What is the pack size?,2739
+FAQ:2740,FAQ,Who manufactures this product?,2740
+FAQ:2741,FAQ,What is Product Leaflets (Set of 48 Leaflets)?,2741
+FAQ:2742,FAQ,What is the price and business volume (BV) for Product Leaflets (Set of 48 Leaflets)?,2742
+FAQ:2743,FAQ,Who should use this?,2743
+FAQ:2744,FAQ,Are there specific usage instructions?,2744
+FAQ:2745,FAQ,How should it be stored?,2745
+FAQ:2746,FAQ,What is the shelf life / expiry?,2746
+FAQ:2747,FAQ,What are the ingredients?,2747
+FAQ:2748,FAQ,Who should avoid it / contraindications?,2748
+FAQ:2749,FAQ,How does it compare to other PROMOTION TOOLS products?,2749
+FAQ:2750,FAQ,What is the pack size?,2750
+FAQ:2751,FAQ,Who manufactures this product?,2751
+FAQ:2752,FAQ,What is Hindi One-Page Compensation Plan (Set of 25 Leaflets)?,2752
+FAQ:2753,FAQ,What is the price and business volume (BV) for Hindi One-Page Compensation Plan (Set of 25 Leaflets)?,2753
+FAQ:2754,FAQ,Who should use this?,2754
+FAQ:2755,FAQ,Are there specific usage instructions?,2755
+FAQ:2756,FAQ,How should it be stored?,2756
+FAQ:2757,FAQ,What is the shelf life / expiry?,2757
+FAQ:2758,FAQ,What are the ingredients?,2758
+FAQ:2759,FAQ,Who should avoid it / contraindications?,2759
+FAQ:2760,FAQ,How does it compare to other PROMOTION TOOLS products?,2760
+FAQ:2761,FAQ,What is the pack size?,2761
+FAQ:2762,FAQ,Who manufactures this product?,2762
+FAQ:2763,FAQ,What is English One-Page Compensation Plan (Set of 25 Leaflets)?,2763
+FAQ:2764,FAQ,What is the price and business volume (BV) for English One-Page Compensation Plan (Set of 25 Leaflets)?,2764
+FAQ:2765,FAQ,Who should use this?,2765
+FAQ:2766,FAQ,Are there specific usage instructions?,2766
+FAQ:2767,FAQ,How should it be stored?,2767
+FAQ:2768,FAQ,What is the shelf life / expiry?,2768
+FAQ:2769,FAQ,What are the ingredients?,2769
+FAQ:2770,FAQ,Who should avoid it / contraindications?,2770
+FAQ:2771,FAQ,How does it compare to other PROMOTION TOOLS products?,2771
+FAQ:2772,FAQ,What is the pack size?,2772
+FAQ:2773,FAQ,Who manufactures this product?,2773
+FAQ:2774,FAQ,What is Hindi One-Page Compensation Plan (Set of 50 Leaflets)?,2774
+FAQ:2775,FAQ,What is the price and business volume (BV) for Hindi One-Page Compensation Plan (Set of 50 Leaflets)?,2775
+FAQ:2776,FAQ,Who should use this?,2776
+FAQ:2777,FAQ,Are there specific usage instructions?,2777
+FAQ:2778,FAQ,How should it be stored?,2778
+FAQ:2779,FAQ,What is the shelf life / expiry?,2779
+FAQ:2780,FAQ,What are the ingredients?,2780
+FAQ:2781,FAQ,Who should avoid it / contraindications?,2781
+FAQ:2782,FAQ,How does it compare to other PROMOTION TOOLS products?,2782
+FAQ:2783,FAQ,What is the pack size?,2783
+FAQ:2784,FAQ,Who manufactures this product?,2784
+FAQ:2785,FAQ,What is English One-Page Compensation Plan (Set of 50 Leaflets)?,2785
+FAQ:2786,FAQ,What is the price and business volume (BV) for English One-Page Compensation Plan (Set of 50 Leaflets)?,2786
+FAQ:2787,FAQ,Who should use this?,2787
+FAQ:2788,FAQ,Are there specific usage instructions?,2788
+FAQ:2789,FAQ,How should it be stored?,2789
+FAQ:2790,FAQ,What is the shelf life / expiry?,2790
+FAQ:2791,FAQ,What are the ingredients?,2791
+FAQ:2792,FAQ,Who should avoid it / contraindications?,2792
+FAQ:2793,FAQ,How does it compare to other PROMOTION TOOLS products?,2793
+FAQ:2794,FAQ,What is the pack size?,2794
+FAQ:2795,FAQ,Who manufactures this product?,2795
+FAQ:2796,FAQ,What is Dayjoy Business Planner Book (Hindi)?,2796
+FAQ:2797,FAQ,What is the price and business volume (BV) for Dayjoy Business Planner Book (Hindi)?,2797
+FAQ:2798,FAQ,Who should use this?,2798
+FAQ:2799,FAQ,Are there specific usage instructions?,2799
+FAQ:2800,FAQ,How should it be stored?,2800
+FAQ:2801,FAQ,What is the shelf life / expiry?,2801
+FAQ:2802,FAQ,What are the ingredients?,2802
+FAQ:2803,FAQ,Who should avoid it / contraindications?,2803
+FAQ:2804,FAQ,How does it compare to other PROMOTION TOOLS products?,2804
+FAQ:2805,FAQ,What is the pack size?,2805
+FAQ:2806,FAQ,Who manufactures this product?,2806
+FAQ:2807,FAQ,What is Dayjoy Business Planner Book (English)?,2807
+FAQ:2808,FAQ,What is the price and business volume (BV) for Dayjoy Business Planner Book (English)?,2808
+FAQ:2809,FAQ,Who should use this?,2809
+FAQ:2810,FAQ,Are there specific usage instructions?,2810
+FAQ:2811,FAQ,How should it be stored?,2811
+FAQ:2812,FAQ,What is the shelf life / expiry?,2812
+FAQ:2813,FAQ,What are the ingredients?,2813
+FAQ:2814,FAQ,Who should avoid it / contraindications?,2814
+FAQ:2815,FAQ,How does it compare to other PROMOTION TOOLS products?,2815
+FAQ:2816,FAQ,What is the pack size?,2816
+FAQ:2817,FAQ,Who manufactures this product?,2817
+FAQ:2818,FAQ,What is STANDARD PACKAGE?,2818
+FAQ:2819,FAQ,What is the price and business volume (BV) for STANDARD PACKAGE?,2819
+FAQ:2820,FAQ,Who should use this?,2820
+FAQ:2821,FAQ,Are there specific usage instructions?,2821
+FAQ:2822,FAQ,How should it be stored?,2822
+FAQ:2823,FAQ,What is the shelf life / expiry?,2823
+FAQ:2824,FAQ,What are the ingredients?,2824
+FAQ:2825,FAQ,Who should avoid it / contraindications?,2825
+FAQ:2826,FAQ,How does it compare to other COMBO PACKAGES products?,2826
+FAQ:2827,FAQ,What is the pack size?,2827
+FAQ:2828,FAQ,Who manufactures this product?,2828
+FAQ:2829,FAQ,What is PREMIUM PACKAGE?,2829
+FAQ:2830,FAQ,What is the price and business volume (BV) for PREMIUM PACKAGE?,2830
+FAQ:2831,FAQ,Who should use this?,2831
+FAQ:2832,FAQ,Are there specific usage instructions?,2832
+FAQ:2833,FAQ,How should it be stored?,2833
+FAQ:2834,FAQ,What is the shelf life / expiry?,2834
+FAQ:2835,FAQ,What are the ingredients?,2835
+FAQ:2836,FAQ,Who should avoid it / contraindications?,2836
+FAQ:2837,FAQ,How does it compare to other COMBO PACKAGES products?,2837
+FAQ:2838,FAQ,What is the pack size?,2838
+FAQ:2839,FAQ,Who manufactures this product?,2839
+FAQ:2840,FAQ,What is ELITE PACKAGE?,2840
+FAQ:2841,FAQ,What is the price and business volume (BV) for ELITE PACKAGE?,2841
+FAQ:2842,FAQ,Who should use this?,2842
+FAQ:2843,FAQ,Are there specific usage instructions?,2843
+FAQ:2844,FAQ,How should it be stored?,2844
+FAQ:2845,FAQ,What is the shelf life / expiry?,2845
+FAQ:2846,FAQ,What are the ingredients?,2846
+FAQ:2847,FAQ,Who should avoid it / contraindications?,2847
+FAQ:2848,FAQ,How does it compare to other COMBO PACKAGES products?,2848
+FAQ:2849,FAQ,What is the pack size?,2849
+FAQ:2850,FAQ,Who manufactures this product?,2850
+FAQ:2851,FAQ,What is AGRI PRO PACKAGE?,2851
+FAQ:2852,FAQ,What is the price and business volume (BV) for AGRI PRO PACKAGE?,2852
+FAQ:2853,FAQ,Who should use this?,2853
+FAQ:2854,FAQ,Are there specific usage instructions?,2854
+FAQ:2855,FAQ,How should it be stored?,2855
+FAQ:2856,FAQ,What is the shelf life / expiry?,2856
+FAQ:2857,FAQ,What are the ingredients?,2857
+FAQ:2858,FAQ,Who should avoid it / contraindications?,2858
+FAQ:2859,FAQ,How does it compare to other COMBO PACKAGES products?,2859
+FAQ:2860,FAQ,What is the pack size?,2860
+FAQ:2861,FAQ,Who manufactures this product?,2861
+FAQ:2862,FAQ,What is AGRI STARTER PACKAGE?,2862
+FAQ:2863,FAQ,What is the price and business volume (BV) for AGRI STARTER PACKAGE?,2863
+FAQ:2864,FAQ,Who should use this?,2864
+FAQ:2865,FAQ,Are there specific usage instructions?,2865
+FAQ:2866,FAQ,How should it be stored?,2866
+FAQ:2867,FAQ,What is the shelf life / expiry?,2867
+FAQ:2868,FAQ,What are the ingredients?,2868
+FAQ:2869,FAQ,Who should avoid it / contraindications?,2869
+FAQ:2870,FAQ,How does it compare to other COMBO PACKAGES products?,2870
+FAQ:2871,FAQ,What is the pack size?,2871
+FAQ:2872,FAQ,Who manufactures this product?,2872
+FAQ:2873,FAQ,What is LEGEND PACKAGE?,2873
+FAQ:2874,FAQ,What is the price and business volume (BV) for LEGEND PACKAGE?,2874
+FAQ:2875,FAQ,Who should use this?,2875
+FAQ:2876,FAQ,Are there specific usage instructions?,2876
+FAQ:2877,FAQ,How should it be stored?,2877
+FAQ:2878,FAQ,What is the shelf life / expiry?,2878
+FAQ:2879,FAQ,What are the ingredients?,2879
+FAQ:2880,FAQ,Who should avoid it / contraindications?,2880
+FAQ:2881,FAQ,How does it compare to other COMBO PACKAGES products?,2881
+FAQ:2882,FAQ,What is the pack size?,2882
+FAQ:2883,FAQ,Who manufactures this product?,2883
+FAQ:PLAN-0001,FAQ,What is Dayjoy GrowthX Plan?,PLAN-0001
+FAQ:PLAN-0002,FAQ,Why join direct selling?,PLAN-0002
+FAQ:PLAN-0003,FAQ,How to start Dayjoy digital business?,PLAN-0003
+FAQ:PLAN-0004,FAQ,How to choose a good direct selling company?,PLAN-0004
+FAQ:PLAN-0005,FAQ,How does Business Matching Incentive work?,PLAN-0005
+FAQ:PLAN-0006,FAQ,How does Mentorship Incentive work?,PLAN-0006
+FAQ:PLAN-0007,FAQ,How many lifetime reward clubs are in the plan?,PLAN-0007
+FAQ:PLAN-0008,FAQ,How many ranks are there?,PLAN-0008
+FAQ:PLAN-0009,FAQ,How does Dayjoy online shopping work?,PLAN-0009
+FAQ:PLAN-0010,FAQ,What is Dayjoy?,PLAN-0010
+FAQ:PLAN-0011,FAQ,Who leads Dayjoy?,PLAN-0011
+FAQ:PLAN-0012,FAQ,What are Dayjoy manufacturing strengths?,PLAN-0012
+FAQ:PLAN-0013,FAQ,Does Dayjoy have product recommendation data?,PLAN-0013
+POLICY:INCOME_DISCLAIMER,Policy,Income Disclaimer,01_CANONICAL/policies/Income_Disclaimer_Dayjoy.pdf
+POLICY:PAYMENT_GATEWAY,Policy,Payment Gateway Policy,01_CANONICAL/policies/PaymentGatewayPolicy_Dayjoy.pdf
+POLICY:SOCIAL_MEDIA,Policy,Social Media Policy,01_CANONICAL/policies/Social_Media_Policy_Dayjoy.pdf

@@ -1,0 +1,31 @@
+Dayjoy extraction confirmation
+
+Completed and saved:
+1. Plan FAQ knowledge file
+2. Plan ranks and rewards table
+3. Business matching matrix
+4. Master extracted knowledge file combining plan, shopping, brochure, and recommendation coverage
+5. Updated recommendation chart and product index already saved earlier
+
+Confirmed source extraction used from:
+- file:124 Dayjoy GrowthX Plan Presentation PDF
+- file:123 Dayjoy Online Shopping PDF
+- file:44 Dayjoy Product Brochure PDF
+- file:126 recommendation_chart_clean.xlsx
+- file:127 recommendation_chart_clean.csv
+
+Current saved outputs relevant for Dayjoy GPT search:
+- dayjoy_all_extracted_knowledge_master.csv
+- dayjoy_plan_faq_knowledge.csv
+- dayjoy_plan_ranks_rewards.csv
+- dayjoy_business_matching_matrix.csv
+- dayjoy_recommendation_chart_updated.csv
+- dayjoy_recommendation_chart_updated.xlsx
+- dayjoy_product_index_updated.csv
+- dayjoy_recommendation_summary.csv
+
+Counts:
+- Plan FAQ entries: 13
+- Plan rank/reward rows: 17
+- Business matching rows: 8
+- Master knowledge rows: 40

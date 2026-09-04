@@ -1,0 +1,33 @@
+product_code,sku,product_name,gap_field,gap_reason,status
+DJP1023,DJ-FOO-0024,Veg Biryani with Shahi Gravy,pack_size,null_pack_size,route_to_gap_register
+DJP1024,DJ-FOO-0025,Poha with Bhujia,pack_size,null_pack_size,route_to_gap_register
+DJP1025,DJ-FOO-0026,Upma with Bhujia,pack_size,null_pack_size,route_to_gap_register
+DJP1054,DJ-PER-0055,WildMuse Premium Loofah,pack_size,null_pack_size,route_to_gap_register
+DJP1058,DJ-SKI-0059,Gold Facial Kit,pack_size,null_pack_size,route_to_gap_register
+DJP1063,DJ-COL-0064,Amara Beauty Kajal,pack_size,null_pack_size,route_to_gap_register
+DJP1064,DJ-COL-0065,Amara Beauty Eyeliner,pack_size,null_pack_size,route_to_gap_register
+DJP1077,DJ-HEA-0078,Advanced Calcium Tablets,pack_size,null_pack_size,route_to_gap_register
+DJP1094,DJ-HEA-0095,Multivitamins Tablets,pack_size,null_pack_size,route_to_gap_register
+DJP1100,DJ-HEA-0101,Omega 3-6-9,pack_size,null_pack_size,route_to_gap_register
+DJP1105,DJ-HEA-0106,Super Food Capsule,pack_size,null_pack_size,route_to_gap_register
+DJP1121,DJ-CLO-0122,Dayjoy Necktie,pack_size,null_pack_size,route_to_gap_register
+DJP1129,DJ-AGR-0130,Prosperous+ Tablets,pack_size,null_pack_size,route_to_gap_register
+DJP1136,DJ-GER-0137,Bio-Germanium & Magnetic Mattress,pack_size,null_pack_size,route_to_gap_register
+DJP1140,DJ-AQU-0141,New Perfect-Ion,pack_size,null_pack_size,route_to_gap_register
+DJP1141,DJ-AQU-0142,Perfect-Ion Testing Solutions,pack_size,null_pack_size,route_to_gap_register
+DJP1144,DJ-AQU-0145,N-SF 9.5 Mineraliser,pack_size,null_pack_size,route_to_gap_register
+DJP1145,DJ-AQU-0146,N-SF 10.5 Mineraliser,pack_size,null_pack_size,route_to_gap_register
+DJP1146,DJ-PRO-0147,Dayjoy Diary,pack_size,null_pack_size,route_to_gap_register
+DJP1147,DJ-PRO-0148,Dayjoy Leather Bag,pack_size,null_pack_size,route_to_gap_register
+DJP1148,DJ-PRO-0149,Dayjoy Cap,pack_size,null_pack_size,route_to_gap_register
+DJP1149,DJ-PRO-0150,Dayjoy Mug,pack_size,null_pack_size,route_to_gap_register
+DJP1150,DJ-PRO-0151,Dayjoy Bike Sticker,pack_size,null_pack_size,route_to_gap_register
+DJP1151,DJ-PRO-0152,Dayjoy Car Sticker,pack_size,null_pack_size,route_to_gap_register
+DJP1152,DJ-PRO-0153,Dayjoy Pin,pack_size,null_pack_size,route_to_gap_register
+DJP1153,DJ-PRO-0154,Dayjoy Backpack Bag,pack_size,null_pack_size,route_to_gap_register
+DJP1164,DJ-COM-0165,STANDARD PACKAGE,pack_size,null_pack_size,route_to_gap_register
+DJP1165,DJ-COM-0166,PREMIUM PACKAGE,pack_size,null_pack_size,route_to_gap_register
+DJP1166,DJ-COM-0167,ELITE PACKAGE,pack_size,null_pack_size,route_to_gap_register
+DJP1167,DJ-COM-0168,AGRI PRO PACKAGE,pack_size,null_pack_size,route_to_gap_register
+DJP1168,DJ-COM-0169,AGRI STARTER PACKAGE,pack_size,null_pack_size,route_to_gap_register
+DJP1169,DJ-COM-0170,LEGEND PACKAGE,pack_size,null_pack_size,route_to_gap_register

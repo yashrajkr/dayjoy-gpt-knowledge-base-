@@ -1,0 +1,92 @@
+catalog86_name,matched_sku,matched_canonical_name,match_confidence,ingredients_filled,benefits_filled,dosage_filled
+ASTHPRASH,DJ-HEA-0066,Asthprash (300 grams),1.15,False,False,False
+Kidney Kawach,DJ-HEA-0092,Kidney Kawach (300 g),1.15,False,False,False
+AdilaForte Tablet,DJ-HEA-0070,Adila Forte (60 Tab),0.952,False,False,False
+Orthofix Tablet & Oil,DJ-HEA-0099,Orthofix (60 Tab),manual_verified,False,False,False
+Orthofix Tablet & Oil,DJ-HEA-0100,Orthofix Oil (100ml),manual_verified,False,False,False
+Hi-Energy Tablet,DJ-HEA-0091,Hi-Energy (60 Tab),1.15,False,False,False
+Adilipo Tablet,DJ-HEA-0072,Adilipo (60 Tab),1.15,False,False,False
+Di-Beat Tablet,DJ-HEA-0080,Di-beat (60 Tab),1.15,False,False,False
+N-Astheal Tablet,DJ-HEA-0098,N-astheal (60 Tab),1.15,False,False,False
+Astheal Cough Syrup,DJ-HEA-0075,Astheal Cough Syrup (100ml),1.15,False,False,False
+Adiliv Tablet / LivEase Syrup,DJ-HEA-0073,Adiliv (60 Tab),manual_verified,False,False,False
+Adiliv Tablet / LivEase Syrup,DJ-HEA-0094,Liv-Ease (500ml),manual_verified,False,False,False
+HB+ Syrup,DJ-HEA-0090,HB+ (500ml),1.15,False,False,False
+Gas-O-Free Syrup,DJ-HEA-0083,Gas-O-Free (500ml),1.15,False,False,False
+Adicardial Tablet & Syrup,DJ-HEA-0067,Adicardial (120 Tab),manual_verified,False,False,False
+Adicardial Tablet & Syrup,DJ-HEA-0068,Adicardial Syrup (500ml),manual_verified,False,False,False
+Go Piles Tablet & Syrup,DJ-HEA-0084,GoPiles (60 Tab),manual_verified,False,False,False
+Go Piles Tablet & Syrup,DJ-HEA-0085,GoPiles Syrup (500ml),manual_verified,False,False,False
+Arogya Churn,DJ-HEA-0079,Arogya Churn (100g),1.15,False,False,False
+Giloe Extract Capsules,DJ-HEA-0086,Giloe Extract (60 Veg Capsules),1.15,False,False,False
+Shatavari Extract Capsules,DJ-HEA-0105,Shatavari Extract (60 Veg Capsules),1.15,False,False,False
+Amla Extract Capsules,DJ-HEA-0077,Amla Extract (60 Veg Capsules),1.15,False,False,False
+Ashvagandha Extract Capsules,DJ-HEA-0076,Ashvagandha Extract (60 Veg Capsules),1.15,False,False,False
+Premium Tulsi Max,DJ-HEA-0107,Premium Tulsi Max (30ml),1.15,False,False,False
+Quick 6 Pain Relief Gel,DJ-HEA-0102,Quick 6 Pain Relief Gel (30g),1.15,True,False,False
+Super Rich Berries Juice,DJ-HEA-0103,Super Rich Berry Juice (1 Ltr.),1.063,False,False,False
+Sea Buckthorn Juice,DJ-HEA-0104,Seabuckthron Juice (1 Ltr.),0.919,False,False,False
+Nonima,DJ-HEA-0096,Nonima (500ml),1.15,False,False,False
+Aloe Vera Guava Juice,DJ-HEA-0074,Aloevera with Guava Juice (1L),0.87,False,False,False
+Super Food Capsule,DJ-HEA-0106,Super Food Capsule,1.15,False,False,False
+Omega 3-6-9 Softgel Capsules,DJ-HEA-0101,Omega 3-6-9,0.883,False,False,False
+Advanced Calcium Tablets,DJ-HEA-0078,Advanced Calcium Tablets,1.15,False,False,False
+Multi Vitamins Tablets,DJ-HEA-0095,Multivitamins Tablets,0.963,False,False,False
+JuniorJoy,DJ-HEA-0111,JuniorJoy - Kids Nutritional Drink (300g),manual_verified,True,True,True
+Vital Protein,DJ-HEA-0108,Vital Protein Powder (300gm),1.15,False,False,False
+Ample Meal,DJ-HEA-0110,Ample Meal - Meal Replacement Nutritional Shake (500g),manual_verified,False,False,False
+Golden Elixir Nano Curcumin Drops,DJ-HEA-0081,Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml),1.15,False,False,False
+Eye Elixir Drops & Eye Health++ Capsule,DJ-HEA-0087,Eye Elixir Drops (10ml),manual_verified,False,False,False
+Eye Elixir Drops & Eye Health++ Capsule,DJ-HEA-0088,Eye Health++ (60 Capsules),manual_verified,False,False,False
+Kahwa Masala Chai,DJ-HEA-0112,Kahwa Masala Chai (25 Pcs),1.15,False,False,False
+Apple Cider Vinegar Effervescent Tablets,DJ-HEA-0114,Apple Cider Vinegar (3X20 Tablets),0.895,False,False,False
+Marine Collagen,DJ-HEA-0115,Marine Collagen (200g),1.15,False,False,False
+Shilajit Gummies,DJ-HEA-0113,Shilajit Gummies (60 Gummies),1.15,False,False,False
+Aloe Vera Shampoo,DJ-PER-0042,Regain Aloevera Shampoo (300ml),0.8,False,False,False
+Hydra Aloe Vera Body Lotion,DJ-PER-0035,Hydra Aloevera Body Lotion (300ml),1.131,False,False,False
+Anti-Pollution Aloe Vera Face Wash,DJ-PER-0028,Anti Pollution Aloevera Face Wash (100ml),1.135,False,False,False
+LuxWash Handwash,DJ-PER-0037,Luxwash Handwash (250ml),1.15,True,False,False
+Milk Bath Soap,DJ-PER-0040,Milk Bath Soap (Pack of 3) (100g),1.15,False,False,False
+Luxury Saffron Soap,DJ-PER-0032,Luxury Saffron Soap (100g),1.15,False,False,False
+WildMuse Premium Loofah,DJ-PER-0055,WildMuse Premium Loofah,1.15,True,False,False
+Ecofriendly Bamboo Toothbrush,DJ-PER-0033,Ecofriendly Toothbrush (Pack of 2),1.013,False,False,False
+Herbosmile Herbal Toothpaste,DJ-PER-0034,HerboSmile Herbal Toothpaste (100g),1.15,False,False,False
+Amla Reetha Shikakai Bhringraj Shampoo,DJ-PER-0056,Amla Reetha Sikakai Shampoo (100ml),0.981,False,False,False
+Milk and Keratin Extracts Shampoo,DJ-PER-0038,Milk & Keratin Extracts Shampoo (100ml),1.085,False,False,False
+Aloe Vera Gel,DJ-PER-0029,Aloevera Gel (100g),0.96,False,False,False
+Deep Cleansing Face Wash,DJ-PER-0053,Deep Cleansing Face Wash (100ml),1.15,True,False,False
+Daily Care Cream,DJ-PER-0031,Daily Care Cream (60g),1.15,True,False,False
+Haldi Chandan Face Wash,DJ-PER-0057,Haldi Chandan Facewash (60ml),1.128,False,False,False
+BR Rich Oil,DJ-PER-0030,BR Rich Oil (200ml),1.15,True,False,False
+Kesham,DJ-PER-0036,Kesham (100ml),1.15,True,False,False
+Premium Sanitary Pads,DJ-PER-0044,Sanitary Pad (XL) (Pack of 10),manual_verified,False,False,False
+Premium Sanitary Pads,DJ-PER-0045,Sanitary Pad (XXL) (Pack of 10),manual_verified,False,False,False
+Sea Buckthorn Facial Kit (6 products),DJ-PER-0046,Seabuckthron Facial Kit (30g) (Pack of 6),0.936,False,False,False
+Face Serum (Niacinamide & Hyaluronic Acid),DJ-SKI-0058,Face Serum (30ml),1.15,False,False,False
+Hydra Max Gel Moisturizer,DJ-SKI-0061,Hydra Max Moisturizer (50gm),1.063,False,False,False
+Sunscreen SPF 50+ & PA++++,DJ-SKI-0060,Sunscreen SPF 50+ (50gm),1.064,False,False,False
+Total Joy Rice Bran Oil,DJ-FOO-0023,Total Joy Rice Bran Oil (2 Litre),1.15,False,False,False
+Jaljira,DJ-FOO-0014,Jaljeera (100g),0.8,False,False,False
+Organic Jeera,DJ-FOO-0015,Organic Jeera (250g),1.15,False,False,False
+Kasuri Methi,DJ-FOO-0016,Kasuri Methi (50g),1.15,False,False,False
+Rai,DJ-FOO-0020,Rai (250g),1.15,False,False,False
+YumDum Organic Black Salt,DJ-FOO-0001,Black Salt Sprinkler (200g),manual_verified,False,False,False
+YumDum Himalayan Pink Salt,DJ-FOO-0013,Himalayan Pink Salt Sprinkler (200g),manual_verified,True,False,True
+Veg Biryani with Shahi Gravy,DJ-FOO-0024,Veg Biryani with Shahi Gravy,1.15,False,False,False
+Ghee Rava Upma with Bhujia,DJ-FOO-0026,Upma with Bhujia,0.762,False,False,False
+Poha with Bhujia,DJ-FOO-0025,Poha with Bhujia,1.15,False,False,False
+Dishwash Liquid Gel,DJ-HOM-0116,Dishwash Liquid Gel (500ml),1.15,False,False,False
+Toilet Bowl Cleaner,DJ-HOM-0117,Toilet Bowl Cleaner (500ml),1.15,True,False,False
+Surface Cleaner,DJ-HOM-0119,All in 1 Surface Cleaner (500ml),0.769,True,False,False
+Liquid Detergent,DJ-HOM-0118,Liquid Detergent (1Ltr.),1.15,True,False,False
+Premium Suit Length,DJ-CLO-0120,Premium Suit Length (Black),1.15,False,False,False
+Dayjoy Necktie,DJ-CLO-0122,Dayjoy Necktie,1.15,False,False,False
+Prosperous+,DJ-AGR-0130,Prosperous+ Tablets,1.15,False,False,False
+Happy Soil,DJ-AGR-0124,Happy Soil - Humic (500ml),0.919,False,False,False
+Joy Spread 80+ Gold,DJ-AGR-0133,JoySpread 80+ Gold (100ml),0.971,False,False,False
+JoyProtect,DJ-AGR-0135,JoyProtect (500ml),1.15,False,False,False
+Joy O-Zyme,DJ-AGR-0131,Joy-O-Zyme (500ml),1.15,False,False,False
+Joygrow 2X (Granules),DJ-AGR-0134,JoyGrow 2X (Granules) (2kg),1.15,False,False,False
+JoyCalcium,DJ-AGR-0136,JoyCalcium (2 Litre),1.15,False,False,False
+Aqua Energiser,DJ-AQU-0140,Aqua Energiser (Single),1.15,False,False,False
+Dayjoy T-shirt,DJ-CLO-0123,"T-shirt New Design (L, M, XL)","manual_corrected (auto-match to 'Dayjoy Diary' at 0.842 was WRONG, corrected after review)",True,False,True

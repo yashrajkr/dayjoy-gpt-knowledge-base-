@@ -1,0 +1,11 @@
+info_id,intent_id,required_field,why_needed,source_document
+RI001,SI001,order number,Cannot locate/act on an order without its identifier,"DRAFT (process scaffolding, no Dayjoy source)"
+RI002,SI002,order number; invoice date; product condition,Needed to check return eligibility window and process,"DRAFT (process scaffolding, no Dayjoy source)"
+RI003,SI003,order number; refund method preference,Needed to route refund to correct payment method,"DRAFT (process scaffolding, no Dayjoy source)"
+RI004,SI004,order number; photo of damage (if available); date received,Needed to validate a damaged-product claim,"DRAFT (process scaffolding, no Dayjoy source)"
+RI005,SI005,order number or destination pin code,Needed to give an accurate delivery estimate,"DRAFT (process scaffolding, no Dayjoy source)"
+RI006,SI007,order number; payment method; approximate transaction time,PaymentGatewayPolicy_Dayjoy.pdf explicitly requires the order number when escalating a payment issue to Customer Care,PaymentGatewayPolicy_Dayjoy.pdf (order number requirement is sourced; the rest of this row is DRAFT scaffolding)
+RI007,SI012,product name or SKU,Needed to look up availability in the product master,"DRAFT (process scaffolding, no Dayjoy source)"
+RI008,SI013,product name or SKU,Needed to look up MRP/DP/BV in the price list,"DRAFT (process scaffolding, no Dayjoy source)"
+RI009,SI015,which specific company fact is being asked about,Needed to route to the correct row in dayjoy_company_knowledge.csv,"DRAFT (process scaffolding, no Dayjoy source)"
+RI010,SI017,exact symptom/condition phrase used by the user,"Needed to check for a matching pre-approved row in regulated_health_intents_review.csv, without which the request must escalate","DRAFT (process scaffolding, no Dayjoy source)"

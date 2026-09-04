@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+1737,68,DJP1067,DJ-HEA-0068,What is Adicardial Syrup (500ml)?,"Adicardial Syrup (500ml) is a product under the HEALTH CARE category, offered by the brand Curind.",general_info,1,Various Documents,N/A,medium
+1738,68,DJP1067,DJ-HEA-0068,What is the price and business volume (BV) for Adicardial Syrup (500ml)?,"The MRP is ₹1399.0, Distributor Price (DP) is ₹865.0, and the Business Volume (BV) is 400.0.",pricing,2,Various Documents,N/A,high
+1739,68,DJP1067,DJ-HEA-0068,Who should use this product?,"According to the recommendation chart, it may be useful for individuals dealing with: Stress, Menstrual Problems (Painful periods, irregular periods, Dysfunctional uterine bleeding), Depression & Anxiety, Hormonal Imbalance, Anxiety.",usage,3,Various Documents,N/A,medium
+1740,68,DJP1067,DJ-HEA-0068,Does this cure medical conditions?,"This product does not replace medical treatment. Consult a qualified physician before use, especially if you are on medication or have a diagnosed condition.",safety,4,Various Documents,N/A,medium
+1741,68,DJP1067,DJ-HEA-0068,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+1742,68,DJP1067,DJ-HEA-0068,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+1743,68,DJP1067,DJ-HEA-0068,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+1744,68,DJP1067,DJ-HEA-0068,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+1745,68,DJP1067,DJ-HEA-0068,How does it compare to other HEALTH CARE products?,This product is uniquely formulated under the Curind brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+1746,68,DJP1067,DJ-HEA-0068,What is the pack size?,This specific item comes in a 500ml pack size.,dosage,10,Various Documents,N/A,medium
+1747,68,DJP1067,DJ-HEA-0068,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

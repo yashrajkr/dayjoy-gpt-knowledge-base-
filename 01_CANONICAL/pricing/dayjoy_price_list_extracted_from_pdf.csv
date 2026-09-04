@@ -1,0 +1,139 @@
+sno,product_name,mrp,distributor_price,bv,normalized_name
+1,Black Salt Sprinkler (200g),59,49,10,black salt sprinkler 200g
+2,Chaat Masala (100g),75,56,10,chaat masala 100g
+3,Chicken Masala (100g),110,90,15,chicken masala 100g
+4,Daily Tea (250g),169,125,20,daily tea 250g
+5,Daily Tea (500g),329,245,39,daily tea 500g
+6,Dhaniya Powder (25g),20,15,1,dhaniya powder 25g
+7,Dhaniya Powder (200g),95,75,14,dhaniya powder 200g
+8,Dhaniya Powder (500g),210,170,30,dhaniya powder 500g
+9,Garam Masala (100g),110,99,20,garam masala 100g
+10,Haldi Powder (25g),20,15,1,haldi powder 25g
+11,Haldi Powder (200g),135,80,12,haldi powder 200g
+12,Haldi Powder (500g),320,200,28,haldi powder 500g
+13,Himalayan Pink Salt Sprinkler (200g),75,60,13,himalayan pink salt sprinkler 200g
+14,Jaljeera (100g),65,55,15,jaljeera 100g
+15,Organic Jeera (250g),199,165,33,organic jeera 250g
+16,Kasuri Methi (50g),59,45,9,kasuri methi 50g
+17,Mirchi Powder (25g),20,15,1,mirchi powder 25g
+18,Mirchi Powder (200g),145,110,18,mirchi powder 200g
+19,Mirchi Powder (500g),335,275,50,mirchi powder 500g
+20,Rai (250g),99,80,13,rai 250g
+21,Sabji Masala (100g),110,99,20,sabji masala 100g
+22,New Total Joy Rice Bran Oil (1 Litre),299,235,24,new total joy rice bran oil 1 litre
+23,Total Joy Rice Bran Oil (2 Litre),599,470,40,total joy rice bran oil 2 litre
+24,Veg Biryani with Shahi Gravy,199,135,17,veg biryani with shahi gravy
+25,Poha with Bhujia,99,67,9,poha with bhujia
+26,Upma with Bhujia 99 71 9 (B) PERSONAL CARE 27 Anti Pollution Face Wash (150ml),249,165,50,upma with bhujia 99 71 9 b personal care 27 anti pollution face wash 150ml
+28,Anti Pollution Aloevera Face Wash (100ml),135,94,23,anti pollution aloevera face wash 100ml
+29,Aloevera Gel (100g),150,115,36,aloevera gel 100g
+30,BR Rich Oil (200ml),249,165,44,br rich oil 200ml
+31,Daily Care Cream (60g),149,95,30,daily care cream 60g
+32,Luxury Saffron Soap (100g),125,82,20,luxury saffron soap 100g
+33,Ecofriendly Toothbrush (Pack of 2),149,100,30,ecofriendly toothbrush pack of 2
+34,HerboSmile Herbal Toothpaste (100g),125,82,20,herbosmile herbal toothpaste 100g
+35,Hydra Aloevera Body Lotion (300ml),349,245,76,hydra aloevera body lotion 300ml
+36,Kesham (100ml),149,91,24,kesham 100ml
+37,Luxwash Handwash (250ml),150,95,17,luxwash handwash 250ml
+38,Milk & Keratin Extracts Shampoo (100ml),175,118,33,milk keratin extracts shampoo 100ml
+39,Milk Bath Soap (100g),75,52,9,milk bath soap 100g
+40,Milk Bath Soap (Pack of 3) (100g),225,150,25,milk bath soap pack of 3 100g
+41,Neem & Tulsi Herbal Soap (100g) (Pack of 3),147,107,19,neem tulsi herbal soap 100g pack of 3
+42,Regain Aloevera Shampoo (300ml),349,245,76,regain aloevera shampoo 300ml
+43,Sandalwood & Shahi Gulab Body Lotion (150ml),249,169,56,sandalwood shahi gulab body lotion 150ml
+44,Sanitary Pad (XL) (Pack of 10),249,130,40,sanitary pad xl pack of 10
+45,Sanitary Pad (XXL) (Pack of 10),275,150,45,sanitary pad xxl pack of 10
+46,Seabuckthron Facial Kit (30g) (Pack of 6),1349,799,290,seabuckthron facial kit 30g pack of 6
+47,Seabuckthron Cleanser (30g),225,145,52,seabuckthron cleanser 30g
+48,Seabuckthron Scrub (30g),225,145,52,seabuckthron scrub 30g
+49,Seabuckthron Massage Gel (30g),225,145,52,seabuckthron massage gel 30g
+50,Seabuckthron Massage Cream (30g),225,145,52,seabuckthron massage cream 30g
+51,Seabuckthron Face Pack (30g),225,145,52,seabuckthron face pack 30g
+52,Seabuckthron Facial Fluid (10ml),225,145,52,seabuckthron facial fluid 10ml
+53,Deep Cleansing Face Wash (100ml),199,139,48,deep cleansing face wash 100ml
+54,Deep Cleansing Facewash (60ml),125,82,21,deep cleansing facewash 60ml
+55,WildMuse Premium Loofah,125,99,36,wildmuse premium loofah
+56,Amla Reetha Sikakai Shampoo (100ml),130,110,34,amla reetha sikakai shampoo 100ml
+57,Haldi Chandan Facewash (60ml) 85 68 18 (C) SKIN CARE 58 Face Serum (30ml),699,499,170,haldi chandan facewash 60ml 85 68 18 c skin care 58 face serum 30ml
+59,Gold Facial Kit,449,310,100,gold facial kit
+60,Sunscreen SPF 50+ (50gm),349,299,92,sunscreen spf 50 50gm
+61,Hydra Max Moisturizer (50gm),449,369,110,hydra max moisturizer 50gm
+62,AgeX Anti-Ageing Night Cream (50gm),799,599,225,agex anti ageing night cream 50gm
+63,AcneX Anti- Acne Foaming Cleanser (100ml) 399 299 98 (D) COLOR COSMETICS 64 Amara Beauty Kajal,299,199,65,acnex anti acne foaming cleanser 100ml 399 299 98 d color cosmetics 64 amara beauty kajal
+65,Amara Beauty Eyeliner 399 299 105 (E) HEALTH CARE 66 Asthprash (300 grams),2999,1499,720,amara beauty eyeliner 399 299 105 e health care 66 asthprash 300 grams
+67,Adicardial (120 Tab),2099,1325,620,adicardial 120 tab
+68,Adicardial Syrup (500ml),1399,865,400,adicardial syrup 500ml
+69,Adila Forte (30 Tab),1499,1030,480,adila forte 30 tab
+70,Adila Forte (60 Tab),2999,1875,880,adila forte 60 tab
+71,Adilipo (120 Tab),2699,1725,840,adilipo 120 tab
+72,Adilipo (60 Tab),1499,950,450,adilipo 60 tab
+73,Adiliv (60 Tab),1199,825,375,adiliv 60 tab
+74,Aloevera with Guava Juice (1L),1499,710,285,aloevera with guava juice 1l
+75,Astheal Cough Syrup (100ml),199,99,32,astheal cough syrup 100ml
+76,Ashvagandha Extract (60 Veg Capsules),499,299,110,ashvagandha extract 60 veg capsules
+77,Amla Extract (60 Veg Capsules),499,275,100,amla extract 60 veg capsules
+78,Advanced Calcium Tablets,999,325,130,advanced calcium tablets
+79,Arogya Churn (100g),189,115,40,arogya churn 100g
+80,Di-beat (60 Tab),1199,825,375,di beat 60 tab
+81,Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml),4999,2849,1320,golden elixir nano curcumin drops pack of 2 bottles each 25ml
+82,Gas-O-Free (200ml),599,375,160,gas o free 200ml
+83,Gas-O-Free (500ml),1399,865,400,gas o free 500ml
+84,GoPiles (60 Tab),1199,825,375,gopiles 60 tab
+85,GoPiles Syrup (500ml),1399,865,400,gopiles syrup 500ml
+86,Giloe Extract (60 Veg Capsules),499,275,100,giloe extract 60 veg capsules
+87,Eye Elixir Drops (10ml),149,100,42,eye elixir drops 10ml
+88,Eye Health++ (60 Capsules),1799,1099,480,eye health 60 capsules
+89,HB+ (200ml),599,375,160,hb 200ml
+90,HB+ (500ml),1399,865,400,hb 500ml
+91,Hi-Energy (60 Tab),1199,825,375,hi energy 60 tab
+92,Kidney Kawach (300 g),2999,1799,840,kidney kawach 300 g
+93,Liv-Ease (200ml),599,375,160,liv ease 200ml
+94,Liv-Ease (500ml),1399,865,400,liv ease 500ml
+95,Multivitamins Tablets,999,425,180,multivitamins tablets
+96,Nonima (500ml),1499,949,400,nonima 500ml
+97,N-astheal (120 Tab),2699,1725,865,n astheal 120 tab
+98,N-astheal (60 Tab),1499,960,465,n astheal 60 tab
+99,Orthofix (60 Tab),1199,825,375,orthofix 60 tab
+100,Orthofix Oil (100ml),525,325,112,orthofix oil 100ml
+101,Omega 3-6-9,999,500,200,omega 3 6 9
+102,Quick 6 Pain Relief Gel (30g),149,99,32,quick 6 pain relief gel 30g
+103,Super Rich Berry Juice (1 Ltr.),2999,1660,740,super rich berry juice 1 ltr
+104,Seabuckthron Juice (1 Ltr.),2999,1490,640,seabuckthron juice 1 ltr
+105,Shatavari Extract (60 Veg Capsules),499,299,110,shatavari extract 60 veg capsules
+106,Super Food Capsule,1999,999,420,super food capsule
+107,Premium Tulsi Max (30ml),299,178,58,premium tulsi max 30ml
+108,Vital Protein Powder (300gm),1999,1199,430,vital protein powder 300gm
+109,L-Arginine++ - Energy Drink (100g),1499,799,300,l arginine energy drink 100g
+110,Ample Meal - Meal Replacement Nutritional Shake (500g),2699,1799,650,ample meal meal replacement nutritional shake 500g
+111,JuniorJoy - Kids Nutritional Drink (300g),1499,899,325,juniorjoy kids nutritional drink 300g
+112,Kahwa Masala Chai (25 Pcs),399,295,95,kahwa masala chai 25 pcs
+113,Shilajit Gummies (60 Gummies),1499,999,400,shilajit gummies 60 gummies
+114,Apple Cider Vinegar (3X20 Tablets),1425,875,350,apple cider vinegar 3x20 tablets
+115,Marine Collagen (200g) 1799 999 380 (F) HOME CARE 116 Dishwash Liquid Gel (500ml),189,149,29,marine collagen 200g 1799 999 380 f home care 116 dishwash liquid gel 500ml
+117,Toilet Bowl Cleaner (500ml),149,115,21,toilet bowl cleaner 500ml
+118,Liquid Detergent (1Ltr.),449,370,74,liquid detergent 1ltr
+119,All in 1 Surface Cleaner (500ml) 179 140 27 (G) CLOTHING 120 Premium Suit Length (Black),10000,5999,2800,all in 1 surface cleaner 500ml 179 140 27 g clothing 120 premium suit length black
+121,Designer Mask (Pack of 5),220,180,55,designer mask pack of 5
+122,Dayjoy Necktie,499,299,50,dayjoy necktie
+123,"T-shirt New Design (L, M, XL) 699 599 100 (H) AGRICULTURE & VETERINARY 124 Happy Soil - Humic (500ml)",849,575,200,t shirt new design l m xl 699 599 100 h agriculture veterinary 124 happy soil humic 500ml
+125,Nano Tech-19 (500ml),1499,949,425,nano tech 19 500ml
+126,Nano Tech-46 (500ml),1499,949,425,nano tech 46 500ml
+127,Nano Tech-50 (500ml),1499,949,425,nano tech 50 500ml
+128,Nano Tech-52 (500ml),1499,949,425,nano tech 52 500ml
+129,Prosperous+ (1 L),1499,999,340,prosperous 1 l
+130,Prosperous+ Tablets,1049,599,310,prosperous tablets
+131,Joy-O-Zyme (500ml),1499,949,335,joy o zyme 500ml
+132,JoySpread 80+ Gold (250ml),499,329,75,joyspread 80 gold 250ml
+133,JoySpread 80+ Gold (100ml),249,155,37,joyspread 80 gold 100ml
+134,JoyGrow 2X (Granules) (2kg),999,499,180,joygrow 2x granules 2kg
+135,JoyProtect (500ml),1499,949,390,joyprotect 500ml
+136,JoyCalcium (2 Litre) 1049 699 250 (I) GERMANIUM & MAGNETIC 137 Bio-Germanium & Magnetic Mattress,15000,9999,4250,joycalcium 2 litre 1049 699 250 i germanium magnetic 137 bio germanium magnetic mattress
+143,Perfect-Ion Testing Solutions,1399,699,280,perfect ion testing solutions
+144,Perfect-Ion Leaflets (Set of 25) 36 36 145 Perfect-Ion Leaflets (Set of 50) 66 66 146 N-SF 9.5 Mineraliser,1999,1499,450,perfect ion leaflets set of 25 36 36 145 perfect ion leaflets set of 50 66 66 146 n sf 9 5 mineraliser
+147,N-SF 10.5 Mineraliser 1999 1499 450 (K) PROMOTION TOOLS 148 Dayjoy Diary 299 275 149 Dayjoy Leather Bag,2999,1599,550,n sf 10 5 mineraliser 1999 1499 450 k promotion tools 148 dayjoy diary 299 275 149 dayjoy leather bag
+150,Dayjoy Cap 95 95 151 Dayjoy Mug 125 125 152 Dayjoy Bike Sticker 20 20 153 Dayjoy Car Sticker 40 40 154 Dayjoy Pin 150 150 155 Dayjoy Backpack Bag 1100 1100 156 New Dayjoy Product Brochure (Hindi) 250 250 157 New Dayjoy Product Brochure (English) 250 250 158 New Dayjoy Product Brochure (Telugu) 250 250 159 Product Leaflets (Set of 48 Leaflets) 130 130 160 Hindi One-Page Compensation Plan (Set of 25 Leaflets) 75 75 161 English One-Page Compensation Plan (Set of 25 Leaflets) 75 75 162 Hindi One-Page Compensation Plan (Set of 50 Leaflets) 135 135 163 English One-Page Compensation Plan (Set of 50 Leaflets) 135 135 164 Dayjoy Business Planner Book (Hindi) 250 250 165 Dayjoy Business Planner Book (English) 250 250 (L) COMBO PACKAGES 166 STANDARD PACKAGE (Direct income =Rs.250),10997,5499,2500,dayjoy cap 95 95 151 dayjoy mug 125 125 152 dayjoy bike sticker 20 20 153 dayjoy car sticker 40 40 154 dayjoy pin 150 150 155 dayjoy backpack bag 1100 1100 156 new dayjoy product brochure hindi 250 250 157 new dayjoy product brochure english 250 250 158 new dayjoy product brochure telugu 250 250 159 product leaflets set of 48 leaflets 130 130 160 hindi one page compensation plan set of 25 leaflets 75 75 161 english one page compensation plan set of 25 leaflets 75 75 162 hindi one page compensation plan set of 50 leaflets 135 135 163 english one page compensation plan set of 50 leaflets 135 135 164 dayjoy business planner book hindi 250 250 165 dayjoy business planner book english 250 250 l combo packages 166 standard package direct income rs 250
+167,PREMIUM PACKAGE(Direct income = Rs.500),17592,10499,5000,premium package direct income rs 500
+168,ELITE PACKAGE (Direct income = Rs.750),28286,15999,7500,elite package direct income rs 750
+169,AGRI PRO PACKAGE,29076,22650,10000,agri pro package
+170,AGRI STARTER PACKAGE,15587,11499,5000,agri starter package
+171,LEGEND PACKAGE,27687,18999,10000,legend package

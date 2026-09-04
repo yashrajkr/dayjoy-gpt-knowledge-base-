@@ -1,0 +1,5 @@
+catalog86_name,best_guess,score,reason
+JuniorJoy,JuniorJoy - Kids Nutritional Drink (300g),0.589,
+Ample Meal,Garam Masala (100g),0.545,
+YumDum Himalayan Pink Salt,Himalayan Pink Salt Sprinkler (200g),0.691,
+Neem & Aloevera Herbal Soap,Neem & Tulsi Herbal Soap (100g) (Pack of 3),0.916,"Auto-match scored 0.916 but is WRONG on inspection -- source ingredients are Neem+Aloe Vera, canonical product is Neem+Tulsi, a different formulation. No confident canonical match exists; declined to guess. May be a genuinely missing SKU."

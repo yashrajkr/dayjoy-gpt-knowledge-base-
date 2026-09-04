@@ -1,0 +1,19 @@
+topic,policy
+price,allowed directly
+dp,allowed directly
+bv,allowed directly
+category,allowed directly
+pack size,allowed directly
+product existence/availability,allowed directly
+company facts,allowed directly
+shipping/refund policy,allowed directly
+joining basics,allowed directly
+brochure/training references,allowed directly
+product overview,allowed with citation + disclaimer
+general usage summary from approved brochure,allowed with citation + disclaimer
+compliance statements if approved source exists,allowed with citation + disclaimer
+diagnosis,not allowed without escalation
+cure claims,not allowed without escalation
+conflicting symptom-based recommendations,not allowed without escalation
+contraindication advice without approved medical/regulatory source,not allowed without escalation
+disease-specific treatment language,not allowed without escalation

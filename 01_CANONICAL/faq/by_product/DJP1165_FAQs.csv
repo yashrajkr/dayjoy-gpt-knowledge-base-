@@ -1,0 +1,12 @@
+faq_id,product_id,product_code,sku,question,answer,faq_category,sort_order,source_document,source_page_or_section,confidence
+2815,166,DJP1165,DJ-COM-0166,What is PREMIUM PACKAGE?,"PREMIUM PACKAGE is a product under the COMBO PACKAGES category, offered by the brand Dayjoy.",general_info,1,Various Documents,N/A,medium
+2816,166,DJP1165,DJ-COM-0166,What is the price and business volume (BV) for PREMIUM PACKAGE?,"The MRP is ₹17592.0, Distributor Price (DP) is ₹10499.0, and the Business Volume (BV) is 5000.0.",pricing,2,Various Documents,N/A,high
+2817,166,DJP1165,DJ-COM-0166,Who should use this?,Consumers interested in COMBO PACKAGES solutions provided by Dayjoy.,usage,3,Various Documents,N/A,medium
+2818,166,DJP1165,DJ-COM-0166,Are there specific usage instructions?,Please refer to the product packaging for detailed usage and assembly instructions.,safety,4,Various Documents,N/A,medium
+2819,166,DJP1165,DJ-COM-0166,How should it be stored?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,storage,5,Various Documents,N/A,low
+2820,166,DJP1165,DJ-COM-0166,What is the shelf life / expiry?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,shelf_life,6,Various Documents,N/A,low
+2821,166,DJP1165,DJ-COM-0166,What are the ingredients?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,ingredients,7,Various Documents,N/A,low
+2822,166,DJP1165,DJ-COM-0166,Who should avoid it / contraindications?,Information not available in source documents; requires verification from Dayjoy QA/regulatory team.,safety,8,Various Documents,N/A,low
+2823,166,DJP1165,DJ-COM-0166,How does it compare to other COMBO PACKAGES products?,This product is uniquely formulated under the Dayjoy brand. Specific comparison requires more details on the exact variant you are comparing it to.,comparison,9,Various Documents,N/A,medium
+2824,166,DJP1165,DJ-COM-0166,What is the pack size?,This specific item comes in a nan pack size.,dosage,10,Various Documents,N/A,medium
+2825,166,DJP1165,DJ-COM-0166,Who manufactures this product?,This product is associated with Adila Biotech / Dayjoy Marketing Pvt. Ltd..,general_info,11,Various Documents,N/A,medium

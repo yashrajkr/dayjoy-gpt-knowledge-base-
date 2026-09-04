@@ -1,0 +1,11 @@
+metric,value
+qa_cases,588
+product_lookup,170
+pricing,100
+faq,100
+company_policy,18
+distributor,100
+unsafe_health,100
+canonical_rows,170
+matched_price_rows,125
+null_pack_size_rows,170

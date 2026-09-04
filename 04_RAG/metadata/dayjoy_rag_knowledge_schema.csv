@@ -1,0 +1,10 @@
+layer,what_it_does,recommended_fields
+ingestion,Document loader + source registry,"filename, source_type, file_path, doc_id, version, uploaded_at"
+cleaning,Normalize text before chunking,"remove headers/footers, fix whitespace, normalize encoding, dedupe, optional OCR cleanup"
+chunking,"Split by structure first, then sentences/tokens","chunk_id, parent_doc_id, chunk_index, chunk_text, chunk_tokens, overlap, page_start, page_end"
+metadata,Attach context for retrieval and filtering,"title, author, date, source_document, section_path, page_number, language, doc_type"
+tags,Human-friendly labels,"topic_tags, product_tags, policy_tags, intent_tags"
+keywords,Search terms extracted from content,3-8 lowercase keywords per chunk/doc
+categories,Business classification,"company, product, policy, pricing, faq, shipping, compliance, intent"
+sources,Provenance tracking,"document_name, source_section, source_page, source_url, confidence_source"
+confidence,Answer quality indicator,"high, medium, low with source evidence and verifier notes"

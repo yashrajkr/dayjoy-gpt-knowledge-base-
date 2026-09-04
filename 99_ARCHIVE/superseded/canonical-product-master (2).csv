@@ -1,0 +1,171 @@
+product_code,sku,product_name,brand,category,subcategory,pack_size,mrp,distributor_price,bv,pv,source_document_id,source_version,approval_status,effective_from,effective_to,missing_fields_count,risk_level
+DJP1000,DJ-FOO-0001,Black Salt Sprinkler (200g),,,,,59.0,49.0,10.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1001,DJ-FOO-0002,Chaat Masala (100g),,,,,75.0,56.0,10.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1002,DJ-FOO-0003,Chicken Masala (100g),,,,,110.0,90.0,15.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1003,DJ-FOO-0004,Daily Tea (250g),,,,,169.0,125.0,20.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1004,DJ-FOO-0005,Daily Tea (500g),,,,,329.0,245.0,39.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1005,DJ-FOO-0006,Dhaniya Powder (25g),,,,,20.0,15.0,1.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1006,DJ-FOO-0007,Dhaniya Powder (200g),,,,,95.0,75.0,14.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1007,DJ-FOO-0008,Dhaniya Powder (500g),,,,,210.0,170.0,30.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1008,DJ-FOO-0009,Garam Masala (100g),,,,,110.0,99.0,20.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1009,DJ-FOO-0010,Haldi Powder (25g),,,,,20.0,15.0,1.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1010,DJ-FOO-0011,Haldi Powder (200g),,,,,135.0,80.0,12.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1011,DJ-FOO-0012,Haldi Powder (500g),,,,,320.0,200.0,28.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1012,DJ-FOO-0013,Himalayan Pink Salt Sprinkler (200g),,,,,75.0,60.0,13.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1013,DJ-FOO-0014,Jaljeera (100g),,,,,65.0,55.0,15.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1014,DJ-FOO-0015,Organic Jeera (250g),,,,,199.0,165.0,33.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1015,DJ-FOO-0016,Kasuri Methi (50g),,,,,59.0,45.0,9.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1016,DJ-FOO-0017,Mirchi Powder (25g),,,,,20.0,15.0,1.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1017,DJ-FOO-0018,Mirchi Powder (200g),,,,,145.0,110.0,18.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1018,DJ-FOO-0019,Mirchi Powder (500g),,,,,335.0,275.0,50.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1019,DJ-FOO-0020,Rai (250g),,,,,99.0,80.0,13.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1020,DJ-FOO-0021,Sabji Masala (100g),,,,,110.0,99.0,20.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1021,DJ-FOO-0022,New Total Joy Rice Bran Oil (1 Litre),,,,,299.0,235.0,24.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1022,DJ-FOO-0023,Total Joy Rice Bran Oil (2 Litre),,,,,599.0,470.0,40.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1023,DJ-FOO-0024,Veg Biryani with Shahi Gravy,,,,,199.0,135.0,17.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1024,DJ-FOO-0025,Poha with Bhujia,,,,,99.0,67.0,9.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1025,DJ-FOO-0026,Upma with Bhujia,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1026,DJ-PER-0027,Anti Pollution Face Wash (150ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1027,DJ-PER-0028,Anti Pollution Aloevera Face Wash (100ml),,,,,135.0,94.0,23.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1028,DJ-PER-0029,Aloevera Gel (100g),,,,,150.0,115.0,36.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1029,DJ-PER-0030,BR Rich Oil (200ml),,,,,249.0,165.0,44.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1030,DJ-PER-0031,Daily Care Cream (60g),,,,,149.0,95.0,30.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1031,DJ-PER-0032,Luxury Saffron Soap (100g),,,,,125.0,82.0,20.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1032,DJ-PER-0033,Ecofriendly Toothbrush (Pack of 2),,,,,149.0,100.0,30.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1033,DJ-PER-0034,HerboSmile Herbal Toothpaste (100g),,,,,125.0,82.0,20.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1034,DJ-PER-0035,Hydra Aloevera Body Lotion (300ml),,,,,349.0,245.0,76.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1035,DJ-PER-0036,Kesham (100ml),,,,,149.0,91.0,24.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1036,DJ-PER-0037,Luxwash Handwash (250ml),,,,,150.0,95.0,17.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1037,DJ-PER-0038,Milk & Keratin Extracts Shampoo (100ml),,,,,175.0,118.0,33.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1038,DJ-PER-0039,Milk Bath Soap (100g),,,,,75.0,52.0,9.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1039,DJ-PER-0040,Milk Bath Soap (Pack of 3) (100g),,,,,225.0,150.0,25.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1040,DJ-PER-0041,Neem & Tulsi Herbal Soap (100g) (Pack of 3),,,,,147.0,107.0,19.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1041,DJ-PER-0042,Regain Aloevera Shampoo (300ml),,,,,349.0,245.0,76.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1042,DJ-PER-0043,Sandalwood & Shahi Gulab Body Lotion (150ml),,,,,249.0,169.0,56.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1043,DJ-PER-0044,Sanitary Pad (XL) (Pack of 10),,,,,249.0,130.0,40.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1044,DJ-PER-0045,Sanitary Pad (XXL) (Pack of 10),,,,,275.0,150.0,45.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1045,DJ-PER-0046,Seabuckthron Facial Kit (30g) (Pack of 6),,,,,1349.0,799.0,290.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1046,DJ-PER-0047,Seabuckthron Cleanser (30g),,,,,225.0,145.0,52.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1047,DJ-PER-0048,Seabuckthron Scrub (30g),,,,,225.0,145.0,52.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1048,DJ-PER-0049,Seabuckthron Massage Gel (30g),,,,,225.0,145.0,52.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1049,DJ-PER-0050,Seabuckthron Massage Cream (30g),,,,,225.0,145.0,52.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1050,DJ-PER-0051,Seabuckthron Face Pack (30g),,,,,225.0,145.0,52.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1051,DJ-PER-0052,Seabuckthron Facial Fluid (10ml),,,,,225.0,145.0,52.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1052,DJ-PER-0053,Deep Cleansing Face Wash (100ml),,,,,199.0,139.0,48.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1053,DJ-PER-0054,Deep Cleansing Facewash (60ml),,,,,125.0,82.0,21.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1054,DJ-PER-0055,WildMuse Premium Loofah,,,,,125.0,99.0,36.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1055,DJ-PER-0056,Amla Reetha Sikakai Shampoo (100ml),,,,,130.0,110.0,34.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1056,DJ-PER-0057,Haldi Chandan Facewash (60ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1057,DJ-SKI-0058,Face Serum (30ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1058,DJ-SKI-0059,Gold Facial Kit,,,,,449.0,310.0,100.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1059,DJ-SKI-0060,Sunscreen SPF 50+ (50gm),,,,,349.0,299.0,92.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1060,DJ-SKI-0061,Hydra Max Moisturizer (50gm),,,,,449.0,369.0,110.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1061,DJ-SKI-0062,AgeX Anti-Ageing Night Cream (50gm),,,,,799.0,599.0,225.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1062,DJ-SKI-0063,AcneX Anti-Acne Foaming Cleanser (100ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1063,DJ-COL-0064,Amara Beauty Kajal,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1064,DJ-COL-0065,Amara Beauty Eyeliner,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1065,DJ-HEA-0066,Asthprash (300 grams),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1066,DJ-HEA-0067,Adicardial (120 Tab),,,,,2099.0,1325.0,620.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1067,DJ-HEA-0068,Adicardial Syrup (500ml),,,,,1399.0,865.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1068,DJ-HEA-0069,Adila Forte (30 Tab),,,,,1499.0,1030.0,480.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1069,DJ-HEA-0070,Adila Forte (60 Tab),,,,,2999.0,1875.0,880.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1070,DJ-HEA-0071,Adilipo (120 Tab),,,,,2699.0,1725.0,840.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1071,DJ-HEA-0072,Adilipo (60 Tab),,,,,1499.0,950.0,450.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1072,DJ-HEA-0073,Adiliv (60 Tab),,,,,1199.0,825.0,375.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1073,DJ-HEA-0074,Aloevera with Guava Juice (1L),,,,,1499.0,710.0,285.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1074,DJ-HEA-0075,Astheal Cough Syrup (100ml),,,,,199.0,99.0,32.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1075,DJ-HEA-0076,Ashvagandha Extract (60 Veg Capsules),,,,,499.0,299.0,110.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1076,DJ-HEA-0077,Amla Extract (60 Veg Capsules),,,,,499.0,275.0,100.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1077,DJ-HEA-0078,Advanced Calcium Tablets,,,,,999.0,325.0,130.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1078,DJ-HEA-0079,Arogya Churn (100g),,,,,189.0,115.0,40.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1079,DJ-HEA-0080,Di-beat (60 Tab),,,,,1199.0,825.0,375.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1080,DJ-HEA-0081,Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml),,,,,4999.0,2849.0,1320.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1081,DJ-HEA-0082,Gas-O-Free (200ml),,,,,599.0,375.0,160.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1082,DJ-HEA-0083,Gas-O-Free (500ml),,,,,1399.0,865.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1083,DJ-HEA-0084,GoPiles (60 Tab),,,,,1199.0,825.0,375.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1084,DJ-HEA-0085,GoPiles Syrup (500ml),,,,,1399.0,865.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1085,DJ-HEA-0086,Giloe Extract (60 Veg Capsules),,,,,499.0,275.0,100.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1086,DJ-HEA-0087,Eye Elixir Drops (10ml),,,,,149.0,100.0,42.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1087,DJ-HEA-0088,Eye Health++ (60 Capsules),,,,,1799.0,1099.0,480.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1088,DJ-HEA-0089,HB+ (200ml),,,,,599.0,375.0,160.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1089,DJ-HEA-0090,HB+ (500ml),,,,,1399.0,865.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1090,DJ-HEA-0091,Hi-Energy (60 Tab),,,,,1199.0,825.0,375.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1091,DJ-HEA-0092,Kidney Kawach (300 g),,,,,2999.0,1799.0,840.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1092,DJ-HEA-0093,Liv-Ease (200ml),,,,,599.0,375.0,160.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1093,DJ-HEA-0094,Liv-Ease (500ml),,,,,1399.0,865.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1094,DJ-HEA-0095,Multivitamins Tablets,,,,,999.0,425.0,180.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1095,DJ-HEA-0096,Nonima (500ml),,,,,1499.0,949.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1096,DJ-HEA-0097,N-astheal (120 Tab),,,,,2699.0,1725.0,865.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1097,DJ-HEA-0098,N-astheal (60 Tab),,,,,1499.0,960.0,465.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1098,DJ-HEA-0099,Orthofix (60 Tab),,,,,1199.0,825.0,375.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1099,DJ-HEA-0100,Orthofix Oil (100ml),,,,,525.0,325.0,112.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1100,DJ-HEA-0101,Omega 3-6-9,,,,,999.0,500.0,200.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1101,DJ-HEA-0102,Quick 6 Pain Relief Gel (30g),,,,,149.0,99.0,32.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1102,DJ-HEA-0103,Super Rich Berry Juice (1 Ltr.),,,,,2999.0,1660.0,740.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1103,DJ-HEA-0104,Seabuckthron Juice (1 Ltr.),,,,,2999.0,1490.0,640.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1104,DJ-HEA-0105,Shatavari Extract (60 Veg Capsules),,,,,499.0,299.0,110.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1105,DJ-HEA-0106,Super Food Capsule,,,,,1999.0,999.0,420.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1106,DJ-HEA-0107,Premium Tulsi Max (30ml),,,,,299.0,178.0,58.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1107,DJ-HEA-0108,Vital Protein Powder (300gm),,,,,1999.0,1199.0,430.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1108,DJ-HEA-0109,L-Arginine++ - Energy Drink (100g),,,,,1499.0,799.0,300.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1109,DJ-HEA-0110,Ample Meal - Meal Replacement Nutritional Shake (500g),,,,,2699.0,1799.0,650.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1110,DJ-HEA-0111,JuniorJoy - Kids Nutritional Drink (300g),,,,,1499.0,899.0,325.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1111,DJ-HEA-0112,Kahwa Masala Chai (25 Pcs),,,,,399.0,295.0,95.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1112,DJ-HEA-0113,Shilajit Gummies (60 Gummies),,,,,1499.0,999.0,400.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1113,DJ-HEA-0114,Apple Cider Vinegar (3X20 Tablets),,,,,1425.0,875.0,350.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1114,DJ-HEA-0115,Marine Collagen (200g),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1115,DJ-HOM-0116,Dishwash Liquid Gel (500ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1116,DJ-HOM-0117,Toilet Bowl Cleaner (500ml),,,,,149.0,115.0,21.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1117,DJ-HOM-0118,Liquid Detergent (1Ltr.),,,,,449.0,370.0,74.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1118,DJ-HOM-0119,All in 1 Surface Cleaner (500ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1119,DJ-CLO-0120,Premium Suit Length (Black),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1120,DJ-CLO-0121,Designer Mask (Pack of 5),,,,,220.0,180.0,55.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1121,DJ-CLO-0122,Dayjoy Necktie,,,,,499.0,299.0,50.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1122,DJ-CLO-0123,"T-shirt New Design (L, M, XL)",,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1123,DJ-AGR-0124,Happy Soil - Humic (500ml),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1124,DJ-AGR-0125,Nano Tech-19 (500ml),,,,,1499.0,949.0,425.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1125,DJ-AGR-0126,Nano Tech-46 (500ml),,,,,1499.0,949.0,425.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1126,DJ-AGR-0127,Nano Tech-50 (500ml),,,,,1499.0,949.0,425.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1127,DJ-AGR-0128,Nano Tech-52 (500ml),,,,,1499.0,949.0,425.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1128,DJ-AGR-0129,Prosperous+ (1 L),,,,,1499.0,999.0,340.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1129,DJ-AGR-0130,Prosperous+ Tablets,,,,,1049.0,599.0,310.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1130,DJ-AGR-0131,Joy-O-Zyme (500ml),,,,,1499.0,949.0,335.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1131,DJ-AGR-0132,JoySpread 80+ Gold (250ml),,,,,499.0,329.0,75.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1132,DJ-AGR-0133,JoySpread 80+ Gold (100ml),,,,,249.0,155.0,37.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1133,DJ-AGR-0134,JoyGrow 2X (Granules) (2kg),,,,,999.0,499.0,180.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1134,DJ-AGR-0135,JoyProtect (500ml),,,,,1499.0,949.0,390.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1135,DJ-AGR-0136,JoyCalcium (2 Litre),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1136,DJ-GER-0137,Bio-Germanium & Magnetic Mattress,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1137,DJ-GER-0138,Bio-Germanium & Magnetic Mattress (Pack of 2),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1138,DJ-AQU-0139,Aqua Energiser (Pack of 3),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1139,DJ-AQU-0140,Aqua Energiser (Single),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1140,DJ-AQU-0141,New Perfect-Ion,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1141,DJ-AQU-0142,Perfect-Ion Testing Solutions,,,,,1399.0,699.0,280.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1142,DJ-AQU-0143,Perfect-Ion Leaflets (Set of 25),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1143,DJ-AQU-0144,Perfect-Ion Leaflets (Set of 50),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1144,DJ-AQU-0145,N-SF 9.5 Mineraliser,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1145,DJ-AQU-0146,N-SF 10.5 Mineraliser,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1146,DJ-PRO-0147,Dayjoy Diary,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1147,DJ-PRO-0148,Dayjoy Leather Bag,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1148,DJ-PRO-0149,Dayjoy Cap,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1149,DJ-PRO-0150,Dayjoy Mug,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1150,DJ-PRO-0151,Dayjoy Bike Sticker,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1151,DJ-PRO-0152,Dayjoy Car Sticker,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1152,DJ-PRO-0153,Dayjoy Pin,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1153,DJ-PRO-0154,Dayjoy Backpack Bag,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1154,DJ-PRO-0155,New Dayjoy Product Brochure (Hindi),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1155,DJ-PRO-0156,New Dayjoy Product Brochure (English),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1156,DJ-PRO-0157,New Dayjoy Product Brochure (Telugu),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1157,DJ-PRO-0158,Product Leaflets (Set of 48 Leaflets),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1158,DJ-PRO-0159,Hindi One-Page Compensation Plan (Set of 25 Leaflets),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1159,DJ-PRO-0160,English One-Page Compensation Plan (Set of 25 Leaflets),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1160,DJ-PRO-0161,Hindi One-Page Compensation Plan (Set of 50 Leaflets),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1161,DJ-PRO-0162,English One-Page Compensation Plan (Set of 50 Leaflets),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1162,DJ-PRO-0163,Dayjoy Business Planner Book (Hindi),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1163,DJ-PRO-0164,Dayjoy Business Planner Book (English),,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1164,DJ-COM-0165,STANDARD PACKAGE,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1165,DJ-COM-0166,PREMIUM PACKAGE,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1166,DJ-COM-0167,ELITE PACKAGE,,,,,,,,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,4,medium
+DJP1167,DJ-COM-0168,AGRI PRO PACKAGE,,,,,29076.0,22650.0,10000.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1168,DJ-COM-0169,AGRI STARTER PACKAGE,,,,,15587.0,11499.0,5000.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium
+DJP1169,DJ-COM-0170,LEGEND PACKAGE,,,,,27687.0,18999.0,10000.0,,dayjoy-product-master + India-BV-Price-May-2026,2026-05-05,approved,2026-05-05,,1,medium

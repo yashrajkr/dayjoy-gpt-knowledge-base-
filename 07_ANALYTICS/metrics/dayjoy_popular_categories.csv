@@ -1,0 +1,12 @@
+category,mention_count,insight_type,basis
+faq,1884,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+informational,1073,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+recommendation,908,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+health-condition,761,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+pricing,632,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+policy,388,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+transactional,253,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+business,131,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+compliance,99,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+comparison,88,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.
+company,86,popular_category_proxy,Ranked by frequency of category mentions across unified corpus; proxy only.

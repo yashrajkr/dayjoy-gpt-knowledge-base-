@@ -1,0 +1,469 @@
+{
+  "company_overview": {
+    "company_name": "Dayjoy Marketing Private Limited",
+    "brand_name": "Dayjoy",
+    "parent_company": "Adila Group",
+    "founded_year": "2018 (incorporated 17 Dec 2018)",
+    "direct_selling_launch": "2019",
+    "registered_office": "A-780, Indra Vihar, Kota, Rajasthan - 324005, India",
+    "headquarters": "Kota, Rajasthan, India",
+    "industry": "Direct Selling / Wellness / FMCG / E-commerce",
+    "business_model": "Direct Selling (MLM) + E-commerce + Wellness + FMCG + Personal Care + Networking",
+    "company_type": "Private Limited Company (Non-government)",
+    "cin": "U52600RJ2018PTC062258",
+    "registration_number": "62258",
+    "roc": "ROC Jaipur",
+    "company_status": "Active",
+    "authorized_share_capital": "Rs 100,000.00",
+    "paid_up_capital": "Rs 100,000.00",
+    "employee_count": "51-200",
+    "presence": "24 states across India; over 1,000 franchise outlets; 4 regional offices (Jharkhand, Odisha, Delhi, Hyderabad)",
+    "website": "https://dayjoy.in",
+    "email": "support@dayjoy.in",
+    "phone": "+91 74120 34387",
+    "instagram": "@dayjoy_india",
+    "nic_code": "5260",
+    "nic_description": "Retail sale via direct selling/online shopping/door-to-door/telemarketing"
+  },
+  "leadership": [
+    {
+      "name": "Shambhu Kumar Agrawal",
+      "role": "Founder, Adila Group (parent company)",
+      "details": "Founded Adila Group in August 2009"
+    },
+    {
+      "name": "Anmol Agarwal",
+      "role": "Director / Managing Entrepreneur",
+      "details": "Managing Dayjoy; part of Adila Group leadership"
+    },
+    {
+      "name": "Divyansh Agarwal",
+      "role": "Founder & Visionary Leader",
+      "details": "Leads Dayjoy's direct selling expansion; expanded franchise network to 1,000+ outlets"
+    }
+  ],
+  "sub_brands": [
+    {
+      "brand": "Asthprash",
+      "category": "Health Care",
+      "description": "Herbal formulation for lung/respiratory health; protects against pollution. Price: Rs 2,999 (300g)",
+      "key_products": "Asthprash 300g"
+    },
+    {
+      "brand": "Curind",
+      "category": "Health Care",
+      "description": "Herbal wellness products for respiratory, renal, liver care",
+      "key_products": "Curind Astheal Cough Syrup, Curind Renal Shield, Curind Arsha Relief Juice, Curind Liv-Ease Juice, Curind HB+ Juice"
+    },
+    {
+      "brand": "Wild Muse (Wildmuse)",
+      "category": "Personal Care",
+      "description": "Premium personal care products with natural ingredients",
+      "key_products": "Deep Cleansing Face Wash, Daily Care Cream SPF 30, Milk & Keratin Shampoo"
+    },
+    {
+      "brand": "Yumdum",
+      "category": "Food Products",
+      "description": "Food and snack products"
+    },
+    {
+      "brand": "Aayushmaan",
+      "category": "Wellness",
+      "description": "Wellness and health products"
+    },
+    {
+      "brand": "Homeshine",
+      "category": "Home Care",
+      "description": "Home cleaning and care products"
+    },
+    {
+      "brand": "Domatti",
+      "category": "Food Products",
+      "description": "Food products line"
+    },
+    {
+      "brand": "HappyGrow",
+      "category": "Agriculture",
+      "description": "Agricultural growth products"
+    }
+  ],
+  "product_catalog": {
+    "Health Care": [
+      "Asthprash (300g)",
+      "Berry Juice",
+      "Seabuckthorn Juice",
+      "Tulsi Drop",
+      "Hemoglobin 200ml",
+      "Hemoglobin 500ml",
+      "Liver Care 200ml",
+      "Liver Care 500ml",
+      "Hi Energy 60 Tab",
+      "Dibeat 60 Tab",
+      "Detox Tea",
+      "Immunity Tea",
+      "Masala Tea",
+      "Green Tea",
+      "Gas Free 200ml",
+      "Gas Free 500ml",
+      "Adila Forte 30 Tab",
+      "Adila Forte 60 Tab",
+      "Adicardial Syrup",
+      "Adicardial 120 Tab",
+      "Ortho Fix"
+    ],
+    "Personal Care": [
+      "Sanitary Pad",
+      "Shampoo",
+      "Face Wash",
+      "Shower Gel",
+      "Body Lotion",
+      "Bath Soap",
+      "Hair Oil",
+      "Toothpaste",
+      "Tooth Brush",
+      "Hand Sanitizer",
+      "Face Cream",
+      "Facial Kit"
+    ],
+    "Food Products": [
+      "Haldi Powder",
+      "Dhaniya Powder",
+      "Mirchi Powder",
+      "Garam Masala",
+      "Chicken Masala",
+      "Sabji Masala",
+      "Chat Masala",
+      "Pickles",
+      "Rice Bran Oil",
+      "Jaljeera"
+    ],
+    "Home Care": [
+      "Dish Wash",
+      "Toilet Cleaner",
+      "Detergent Bar",
+      "Dishwash Bar"
+    ],
+    "Textiles": [
+      "Suit Length",
+      "Designer Mask (5 pack)"
+    ],
+    "Agriculture": [
+      "Happy Grow"
+    ]
+  },
+  "compensation_plan": {
+    "joining_packages": [
+      {
+        "package": "Starter",
+        "price": "Rs 7,600",
+        "pv": "5000 PV"
+      },
+      {
+        "package": "Premium",
+        "price": "Rs 7,700",
+        "pv": "5000 PV"
+      }
+    ],
+    "shopping_package": {
+      "amount": "Rs 2,500 - Rs 3,000",
+      "bv_points": "1000 BV",
+      "benefits": "Discount on MRP, Free Product Voucher, 20% Product Offer, Accidental Insurance Rs 2 Lacs, Free telephonic doctor consultation"
+    },
+    "income_streams": [
+      {
+        "name": "Retail Profit",
+        "rate": "Up to 30% / 50%",
+        "description": "Difference between MRP and Distributor Price (DP)"
+      },
+      {
+        "name": "Binary Income (Matching)",
+        "rate": "10%",
+        "description": "Per pair = Rs 500; Daily capping Rs 2,500; Monthly capping Rs 75,000"
+      },
+      {
+        "name": "Mentorship Bonus",
+        "rate": "100% of binary",
+        "description": "On business matching incentive of directly sponsored distributors"
+      },
+      {
+        "name": "Generation Income (Repurchase)",
+        "rate": "Up to 30%",
+        "description": "Monthly repurchase based income"
+      },
+      {
+        "name": "Performance Incentive",
+        "rate": "5% - 21%",
+        "description": "5 levels based on accumulated BV"
+      },
+      {
+        "name": "Gold Director Bonus",
+        "rate": "5%",
+        "description": "On total monthly group BV"
+      },
+      {
+        "name": "Royalty Income",
+        "rate": "5%",
+        "description": "Gold Director to Gold Director"
+      },
+      {
+        "name": "Platinum Director Bonus",
+        "rate": "5%",
+        "description": "On company turnover; Criteria 7,50,000 BV"
+      },
+      {
+        "name": "Travel Fund",
+        "rate": "2%",
+        "description": "On company turnover for Platinum+"
+      },
+      {
+        "name": "Emerald VP Bonus",
+        "rate": "4%",
+        "description": "Criteria 30 Lakh BV"
+      },
+      {
+        "name": "Car Fund",
+        "rate": "2%",
+        "description": "For Emerald VP+"
+      },
+      {
+        "name": "Sapphire VP Bonus",
+        "rate": "3%",
+        "description": "Criteria 1 Crore BV"
+      },
+      {
+        "name": "House Fund",
+        "rate": "2%",
+        "description": "For Sapphire VP+"
+      },
+      {
+        "name": "Diamond President Bonus",
+        "rate": "3%",
+        "description": "Criteria 2.25 Crore BV"
+      },
+      {
+        "name": "Lifestyle Fund",
+        "rate": "2%",
+        "description": "For Diamond President+"
+      },
+      {
+        "name": "Retailer Club Bonus",
+        "rate": "3%",
+        "description": "Self purchase minimum 500 BV monthly"
+      }
+    ],
+    "performance_levels": [
+      {
+        "level": "Level 1",
+        "bv_range": "1 - 10,000 BV",
+        "rate": "5%"
+      },
+      {
+        "level": "Level 2",
+        "bv_range": "10,000 - 40,000 BV",
+        "rate": "9%"
+      },
+      {
+        "level": "Level 3",
+        "bv_range": "40,000 - 80,000 BV",
+        "rate": "13%"
+      },
+      {
+        "level": "Level 4",
+        "bv_range": "80,000 - 1,60,000 BV",
+        "rate": "17%"
+      },
+      {
+        "level": "Level 5 (Gold Director)",
+        "bv_range": "1,60,000+ BV",
+        "rate": "21%"
+      }
+    ],
+    "annual_rewards": [
+      {
+        "bv": "1.5 Lakh BV",
+        "reward": "Smartphone / Rs 10,000"
+      },
+      {
+        "bv": "5 Lakh BV",
+        "reward": "Laptop / Rs 30,000"
+      },
+      {
+        "bv": "10 Lakh BV",
+        "reward": "Two Wheeler / Rs 65,000"
+      },
+      {
+        "bv": "25 Lakh BV",
+        "reward": "Bullet / Rs 1,70,000"
+      },
+      {
+        "bv": "50 Lakh BV",
+        "reward": "Gold / Rs 3,50,000"
+      },
+      {
+        "bv": "1 Crore BV",
+        "reward": "Sedan Car / Rs 7 Lakh"
+      },
+      {
+        "bv": "3 Crore BV",
+        "reward": "Car / Rs 25 Lakh"
+      }
+    ],
+    "loyalty_bonus": [
+      {
+        "months": "5 consecutive months at Rs 3,000",
+        "benefit": "Free products worth average in 6th month"
+      },
+      {
+        "months": "5 consecutive months at Rs 4,000",
+        "benefit": "Free products worth average in 6th month"
+      },
+      {
+        "months": "5 consecutive months at Rs 5,000",
+        "benefit": "Free products worth average in 6th month"
+      },
+      {
+        "months": "5 consecutive months at Rs 6,000",
+        "benefit": "Free products worth average in 6th month"
+      }
+    ],
+    "monthly_repurchase_criteria": {
+      "Distributor": "250 BV",
+      "Gold Director": "1,000 BV",
+      "Platinum Director": "2,000 BV"
+    },
+    "point_ratio": "30:30:40",
+    "bv_to_rupee": "1 BV = Rs 2 (max)"
+  },
+  "business_summary": {
+    "model": "Hybrid Plan (Binary + Generation + Mentorship)",
+    "type": "Direct Selling / Network Marketing",
+    "registration": "Free Registration available",
+    "minimum_purchase": "Rs 2,500 - Rs 3,000 (1000 BV)",
+    "kyc": "1 KYC = 1 ID",
+    "payment_modes": [
+      "NEFT",
+      "IMPS",
+      "Cheque",
+      "Debit Card",
+      "Credit Card",
+      "UPI",
+      "Net Banking",
+      "PayTM"
+    ],
+    "payout_frequency": "Daily and Monthly",
+    "binary_structure": "2 Direct compulsory (1 Left, 1 Right); 2:1 or 1:2 then 1:1",
+    "key_selling_points": [
+      "Own manufacturing unit",
+      "Natural ingredients and Ayurveda-based",
+      "150+ daily use products",
+      "Presence in 24 states",
+      "1,000+ franchise outlets",
+      "Highest payout direct selling company claim",
+      "16+ income streams",
+      "Accidental insurance and free doctor consultation"
+    ]
+  },
+  "legal_info": {
+    "legal_name": "Dayjoy Marketing Private Limited",
+    "cin": "U52600RJ2018PTC062258",
+    "date_of_incorporation": "2018-09-17",
+    "company_category": "Company limited by shares",
+    "company_sub_category": "Non-government company",
+    "class": "Private",
+    "roc": "Registrar of Companies, Jaipur",
+    "last_agm": "30 Dec 2023",
+    "last_balance_sheet_filed": "2023-03-31",
+    "directors": [
+      "Shambhu Kumar Agrawal",
+      "Anmol Agarwal",
+      "Divyansh Agarwal"
+    ],
+    "email": "support@dayjoy.in",
+    "registered_address": "A-780 Indra Vihar, Kota, Rajasthan - 324005"
+  },
+  "digital_presence": {
+    "website": "https://dayjoy.in",
+    "android_app": "Dayjoy (Google Play)",
+    "ios_app": "Dayjoy Nepal (App Store)",
+    "instagram": "@dayjoy_india (2,751 followers)",
+    "facebook": "Dayjoy Private Limited (20,361 likes)",
+    "linkedin": "Dayjoy Marketing Private Limited (757 followers)",
+    "app_developer": "Divyansh Agarwal",
+    "app_email": "marketingdayjoy@gmail.com",
+    "app_phone": "+17737977776"
+  },
+  "faq": [
+    {
+      "question": "What is Dayjoy?",
+      "answer": "Dayjoy Marketing Private Limited is a wellness and direct selling company founded in 2018, based in Kota, Rajasthan, India. It offers health, beauty, personal care, food, home care, and agricultural products through a direct selling model."
+    },
+    {
+      "question": "Who founded Dayjoy?",
+      "answer": "Dayjoy is part of the Adila Group, which was founded by Shambhu Kumar Agarwal in 2009. Dayjoy Marketing Private Limited was incorporated in 2018 and is led by directors Anmol Agarwal and Divyansh Agarwal."
+    },
+    {
+      "question": "Where is Dayjoy headquartered?",
+      "answer": "Dayjoy's registered office is at A-780, Indra Vihar, Kota, Rajasthan - 324005, India."
+    },
+    {
+      "question": "What products does Dayjoy sell?",
+      "answer": "Dayjoy sells 150+ products across categories: Health Care (Asthprash, juices, tablets, teas), Personal Care (Wild Muse brand - face wash, shampoo, creams), Food Products (spices, oils), Home Care (cleaning products), Textiles, and Agriculture (Happy Grow)."
+    },
+    {
+      "question": "What is the Dayjoy business plan?",
+      "answer": "Dayjoy uses a Hybrid Compensation Plan combining Binary Income (10%), Generation Income, Mentorship Bonus, Performance Incentive (5-21%), and multiple rank-based bonuses including Gold Director, Platinum Director, Emerald VP, Sapphire VP, and Diamond President bonuses."
+    },
+    {
+      "question": "How do I join Dayjoy?",
+      "answer": "Registration is free. After registration, purchase products worth Rs 2,500-3,000 (1000 BV) to activate your account. Joining packages are Rs 7,600 or Rs 7,700 (5000 PV). Visit dayjoy.in to register."
+    },
+    {
+      "question": "What is the minimum purchase to start earning?",
+      "answer": "You need to shop for Rs 2,500-3,000 worth of products to earn 1000 BV points and start earning from the compensation plan."
+    },
+    {
+      "question": "What is BV in Dayjoy?",
+      "answer": "BV stands for Business Volume. It is the point value assigned to products. 1 BV = Rs 2 (max). BV is used to calculate all income and bonuses in the compensation plan."
+    },
+    {
+      "question": "How does the Binary Income work?",
+      "answer": "Binary Income is 10% matching. You need 2 direct referrals (1 left, 1 right). Per pair earns Rs 500. Daily capping is Rs 2,500 and monthly capping is Rs 75,000."
+    },
+    {
+      "question": "What are the ranks in Dayjoy?",
+      "answer": "Ranks from lowest to highest: Distributor, Gold Director (1,60,000+ BV), Platinum Director (7,50,000 BV), Emerald VP (30 Lakh BV), Sapphire VP (1 Crore BV), Diamond President (2.25 Crore BV)."
+    },
+    {
+      "question": "What is Asthprash?",
+      "answer": "Asthprash is Dayjoy's flagship health product - a herbal formulation (300g, Rs 2,999) that protects lungs from pollution and promotes respiratory health."
+    },
+    {
+      "question": "Is Dayjoy a legitimate company?",
+      "answer": "Yes, Dayjoy Marketing Private Limited is registered with the Ministry of Corporate Affairs (CIN: U52600RJ2018PTC062258), incorporated under the Companies Act 2013. It is an Active private limited company registered with ROC Jaipur."
+    },
+    {
+      "question": "How many states does Dayjoy operate in?",
+      "answer": "Dayjoy has a presence in 24 states across India with over 1,000 franchise outlets and 4 regional offices in Jharkhand, Odisha, Delhi, and Hyderabad."
+    },
+    {
+      "question": "What is the loyalty program?",
+      "answer": "If you purchase minimum Rs 3,000 worth of products every month for 5 consecutive months, you get free products worth your 5-month average in the 6th month. Amounts scale from Rs 3,000 to Rs 6,000 per month."
+    },
+    {
+      "question": "What is the parent company of Dayjoy?",
+      "answer": "Dayjoy operates under the Adila Group, founded by Shambhu Kumar Agarwal in August 2009. Adila Group is dedicated to creating world-class products."
+    },
+    {
+      "question": "What payment methods does Dayjoy accept?",
+      "answer": "NEFT, IMPS, Cheque, Debit Card, Credit Card, UPI, Net Banking, and PayTM."
+    },
+    {
+      "question": "How can I contact Dayjoy?",
+      "answer": "Email: support@dayjoy.in, Phone: +91 74120 34387, Website: dayjoy.in, Address: A-780, Indra Vihar, Kota, Rajasthan - 324005."
+    },
+    {
+      "question": "What is the Mentorship Bonus?",
+      "answer": "Mentorship Bonus is 100% of the Business Matching Incentive earned by your directly sponsored distributors. You must have personally referred 2 teams to qualify."
+    }
+  ]
+}

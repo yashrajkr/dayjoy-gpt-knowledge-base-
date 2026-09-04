@@ -1,0 +1,1 @@
+CRITICAL GAP: No actual image files (png/jpg/webp) exist anywhere in the source knowledge base. Only metadata *describing* images is present, across two unreconciled files. See KNOWLEDGE_GAP_REPORT.md.

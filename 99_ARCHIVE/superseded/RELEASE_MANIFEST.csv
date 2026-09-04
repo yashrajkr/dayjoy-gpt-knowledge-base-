@@ -1,0 +1,16 @@
+folder,file,exists
+01_sources,India-BV-Price-May-2026.pdf,True
+01_sources,Dayjoy-Product-Brochure-English-July2026_11zon.pdf,True
+01_sources,Dayjoy_All_FAQs_Combined.csv,True
+01_sources,Dayjoy_Master_Intent_Dataset.csv,True
+02_canonical_final,dayjoy-canonical-product-master-final.csv,True
+02_canonical_final,dayjoy-canonical-product-master-final.xlsx,True
+02_canonical_final,dayjoy-verification-watchlist.csv,True
+03_rag_final,dayjoy-rag-chunks-final.csv,True
+03_rag_final,dayjoy-metadata-registry-final.csv,True
+03_rag_final,dayjoy-search-ranking-rules.csv,True
+04_policy_governance,canonical-answer-policy.csv,True
+04_policy_governance,product-safety-classes.csv,True
+04_policy_governance,dayjoy-source-verification-sop.md,True
+05_qa,dayjoy-data-qa-report-final.csv,True
+05_qa,phase9-qa-test-sheet.csv,True

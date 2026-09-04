@@ -1,0 +1,8 @@
+phase,work,status
+Phase 1-2,source consolidation and gap register,done
+Phase 3,intent cleanup and approval routing,done
+Phase 4,canonical product master with pricing merge,partial (pack-size unresolved in current master)
+Phase 5-6,safety classes and answer policy,done
+Phase 7-8,chunked RAG layer and ranking rules,done
+Phase 9,QA test sheet,done
+Phase 10,release package and manifest,done

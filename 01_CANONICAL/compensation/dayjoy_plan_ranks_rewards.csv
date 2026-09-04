@@ -1,0 +1,18 @@
+club_no,club_name,rank,bv_matching_criteria,business_matching_incentive_rs,mentorship_incentive_rs,lifetime_reward_rs,reward_description,total_income_base_rs,source_file_id,source_page,content_type,for_use
+1,Club 1,Star Executive,"15,000:7,500 or 7,500:15,000",750,N/A,"1,000",Lifetime Reward,"1,750",file:124,36,plan_rank,dayjoy_gpt_search
+2,Club 2,Super Star Executive,"22,500:22,500","2,250","1,125","3,000",Lifetime Reward,"6,375",file:124,36,plan_rank,dayjoy_gpt_search
+3,Club 3,Silver Executive,"45,000:45,000","4,500","2,250","6,000",Lifetime Reward,"12,750",file:124,36,plan_rank,dayjoy_gpt_search
+4,Club 4,Gold Director,"1,12,500:1,12,500","11,250","5,625","15,000",Lifetime Reward,"31,875",file:124,36,plan_rank,dayjoy_gpt_search
+5,Club 5,Ruby Director,"2,25,000:2,25,000","22,500","11,250","30,000",Lifetime Reward,"63,750",file:124,37,plan_rank,dayjoy_gpt_search
+6,Club 6,Platinum Director,"5,62,500:5,62,500","56,250","28,125","75,000",For Bike or iPhone,"1,54,375",file:124,38,plan_rank,dayjoy_gpt_search
+7,Club 7,Emerald Vice President,"15,00,000:15,00,000","1,50,000","75,000","2,00,000",For Hatchback Car,"4,25,000",file:124,39,plan_rank,dayjoy_gpt_search
+8,Club 8,Sapphire Vice President,"37,50,000:37,50,000","3,75,000","1,87,500","5,00,000",For SUV Car,"10,37,500",file:124,40,plan_rank,dayjoy_gpt_search
+9,Club 9,Diamond President,"93,75,000:93,75,000","9,37,500","4,68,750","10,00,000",For Gold; Mumbai-Goa Cruise Trip (2N/3D | Couple Tour),"25,06,250",file:124,41,plan_rank,dayjoy_gpt_search
+10,Club 10,Blue Diamond,"2,25,00,000:2,25,00,000","22,50,000","11,25,000","25,00,000",For Luxury Car; Dubai Trip (4N/5D | Couple Tour),"60,25,000",file:124,42,plan_rank,dayjoy_gpt_search
+11,Club 11,Black Diamond,"5,62,50,000:5,62,50,000","56,25,000","28,12,500","60,00,000",For Flat; Singapore Trip (5N/6D | Family Tour: 2 Adults & 2 Children),"1,47,37,500",file:124,43,plan_rank,dayjoy_gpt_search
+12,Club 12,Crown,"11,25,00,000:11,25,00,000","1,12,50,000","56,25,000","1,00,00,000",Dream Villa; Hongkong & Macau Trip (6N/7D | Family Tour: 2 Adults & 2 Children),"2,73,75,000",file:124,44,plan_rank,dayjoy_gpt_search
+13,Club 13,Royal Crown,"22,50,00,000:22,50,00,000","2,25,00,000","1,12,50,000","2,00,00,000",For Ferrari Car; Switzerland & Paris Trip (6N/7D | Couple Tour),"5,42,50,000",file:124,45,plan_rank,dayjoy_gpt_search
+14,Club 14,Universal Crown,"56,25,00,000:56,25,00,000","5,62,50,000","2,81,25,000","4,25,00,000",South Africa Tour (7N/8D | Couple Tour),"12,73,75,000",file:124,46,plan_rank,dayjoy_gpt_search
+15,Club 15,Ambassador,"112,50,00,000:112,50,00,000","11,25,00,000","5,62,50,000","5,50,00,000 + 2,00,00,000",5.5 Crore Cash + 2 Crore for Defender Car; United Kingdom Trip (5N/6D | Family Tour: 2 Adults & 2 Children),"24,45,00,000",file:124,47,plan_rank,dayjoy_gpt_search
+16,Club 16,Global Ambassador,"225,00,00,000:225,00,00,000","22,50,00,000","11,25,00,000","10,00,00,000 + 5,00,00,000",10 Crore Cash + 5 Crore for Rolls Royce Car; United States Trip (9N/10D | Family Tour: 2 Adults & 2 Children),"48,85,00,000",file:124,48,plan_rank,dayjoy_gpt_search
+17,Club 17,Universal Ambassador,"450,00,00,000:450,00,00,000","45,00,00,000","22,50,00,000","20,00,00,000 + 7,00,00,000 + 3,00,00,000",20 Crore Cash + 7 Crore for Helicopter + 3 Crore for Farm House; Europe Trip (14N/15D | Family Tour: 2 Adults & 2 Children),"97,65,00,000",file:124,49,plan_rank,dayjoy_gpt_search

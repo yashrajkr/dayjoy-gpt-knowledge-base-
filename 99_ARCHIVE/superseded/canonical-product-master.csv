@@ -1,0 +1,171 @@
+product_code,sku,product_name,brand,category,subcategory,pack_size,mrp,distributor_price,bv,pv,source_document_id,source_version,approval_status,effective_from,effective_to,missing_fields_count,risk_level
+DJP1000,DJ-FOO-0001,Black Salt Sprinkler (200g),Dayjoy,Black Salt Sprinkler,,200g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1001,DJ-FOO-0002,Chaat Masala (100g),Dayjoy,Chaat Masala,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1002,DJ-FOO-0003,Chicken Masala (100g),Dayjoy,Chicken Masala,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1003,DJ-FOO-0004,Daily Tea (250g),Dayjoy,Daily Tea,,250g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1004,DJ-FOO-0005,Daily Tea (500g),Dayjoy,Daily Tea,,500g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1005,DJ-FOO-0006,Dhaniya Powder (25g),Dayjoy,Dhaniya Powder,,25g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1006,DJ-FOO-0007,Dhaniya Powder (200g),Dayjoy,Dhaniya Powder,,200g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1007,DJ-FOO-0008,Dhaniya Powder (500g),Dayjoy,Dhaniya Powder,,500g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1008,DJ-FOO-0009,Garam Masala (100g),Dayjoy,Garam Masala,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1009,DJ-FOO-0010,Haldi Powder (25g),Dayjoy,Haldi Powder,,25g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1010,DJ-FOO-0011,Haldi Powder (200g),Dayjoy,Haldi Powder,,200g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1011,DJ-FOO-0012,Haldi Powder (500g),Dayjoy,Haldi Powder,,500g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1012,DJ-FOO-0013,Himalayan Pink Salt Sprinkler (200g),Dayjoy,Himalayan Pink Salt Sprinkler,,200g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1013,DJ-FOO-0014,Jaljeera (100g),Dayjoy,Jaljeera,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1014,DJ-FOO-0015,Organic Jeera (250g),Dayjoy,Organic Jeera,,250g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1015,DJ-FOO-0016,Kasuri Methi (50g),Dayjoy,Kasuri Methi,,50g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1016,DJ-FOO-0017,Mirchi Powder (25g),Dayjoy,Mirchi Powder,,25g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1017,DJ-FOO-0018,Mirchi Powder (200g),Dayjoy,Mirchi Powder,,200g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1018,DJ-FOO-0019,Mirchi Powder (500g),Dayjoy,Mirchi Powder,,500g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1019,DJ-FOO-0020,Rai (250g),Dayjoy,Rai,,250g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1020,DJ-FOO-0021,Sabji Masala (100g),Dayjoy,Sabji Masala,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1021,DJ-FOO-0022,New Total Joy Rice Bran Oil (1 Litre),Dayjoy,New Total Joy Rice Bran Oil,,1 Litre,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1022,DJ-FOO-0023,Total Joy Rice Bran Oil (2 Litre),Dayjoy,Total Joy Rice Bran Oil,,2 Litre,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1023,DJ-FOO-0024,Veg Biryani with Shahi Gravy,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1024,DJ-FOO-0025,Poha with Bhujia,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1025,DJ-FOO-0026,Upma with Bhujia,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1026,DJ-PER-0027,Anti Pollution Face Wash (150ml),Dayjoy,Anti Pollution Face Wash,,150ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1027,DJ-PER-0028,Anti Pollution Aloevera Face Wash (100ml),Dayjoy,Anti Pollution Aloevera Face Wash,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1028,DJ-PER-0029,Aloevera Gel (100g),Dayjoy,Aloevera Gel,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1029,DJ-PER-0030,BR Rich Oil (200ml),Dayjoy,BR Rich Oil,,200ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1030,DJ-PER-0031,Daily Care Cream (60g),Dayjoy,Daily Care Cream,,60g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1031,DJ-PER-0032,Luxury Saffron Soap (100g),Dayjoy,Luxury Saffron Soap,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1032,DJ-PER-0033,Ecofriendly Toothbrush (Pack of 2),Dayjoy,Ecofriendly Toothbrush,,Pack of 2,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1033,DJ-PER-0034,HerboSmile Herbal Toothpaste (100g),Dayjoy,HerboSmile Herbal Toothpaste,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1034,DJ-PER-0035,Hydra Aloevera Body Lotion (300ml),Dayjoy,Hydra Aloevera Body Lotion,,300ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1035,DJ-PER-0036,Kesham (100ml),Dayjoy,Kesham,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1036,DJ-PER-0037,Luxwash Handwash (250ml),Dayjoy,Luxwash Handwash,,250ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1037,DJ-PER-0038,Milk & Keratin Extracts Shampoo (100ml),Dayjoy,Milk & Keratin Extracts Shampoo,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1038,DJ-PER-0039,Milk Bath Soap (100g),Dayjoy,Milk Bath Soap,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1039,DJ-PER-0040,Milk Bath Soap (Pack of 3) (100g),Dayjoy,Milk Bath Soap,,Pack of 3,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1040,DJ-PER-0041,Neem & Tulsi Herbal Soap (100g) (Pack of 3),Dayjoy,Neem & Tulsi Herbal Soap,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1041,DJ-PER-0042,Regain Aloevera Shampoo (300ml),Dayjoy,Regain Aloevera Shampoo,,300ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1042,DJ-PER-0043,Sandalwood & Shahi Gulab Body Lotion (150ml),Dayjoy,Sandalwood & Shahi Gulab Body Lotion,,150ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1043,DJ-PER-0044,Sanitary Pad (XL) (Pack of 10),Dayjoy,Sanitary Pad,,XL,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1044,DJ-PER-0045,Sanitary Pad (XXL) (Pack of 10),Dayjoy,Sanitary Pad,,XXL,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1045,DJ-PER-0046,Seabuckthron Facial Kit (30g) (Pack of 6),Dayjoy,Seabuckthron Facial Kit,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1046,DJ-PER-0047,Seabuckthron Cleanser (30g),Dayjoy,Seabuckthron Cleanser,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1047,DJ-PER-0048,Seabuckthron Scrub (30g),Dayjoy,Seabuckthron Scrub,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1048,DJ-PER-0049,Seabuckthron Massage Gel (30g),Dayjoy,Seabuckthron Massage Gel,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1049,DJ-PER-0050,Seabuckthron Massage Cream (30g),Dayjoy,Seabuckthron Massage Cream,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1050,DJ-PER-0051,Seabuckthron Face Pack (30g),Dayjoy,Seabuckthron Face Pack,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1051,DJ-PER-0052,Seabuckthron Facial Fluid (10ml),Dayjoy,Seabuckthron Facial Fluid,,10ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1052,DJ-PER-0053,Deep Cleansing Face Wash (100ml),Dayjoy,Deep Cleansing Face Wash,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1053,DJ-PER-0054,Deep Cleansing Facewash (60ml),Dayjoy,Deep Cleansing Facewash,,60ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1054,DJ-PER-0055,WildMuse Premium Loofah,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1055,DJ-PER-0056,Amla Reetha Sikakai Shampoo (100ml),Dayjoy,Amla Reetha Sikakai Shampoo,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1056,DJ-PER-0057,Haldi Chandan Facewash (60ml),Dayjoy,Haldi Chandan Facewash,,60ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1057,DJ-SKI-0058,Face Serum (30ml),Dayjoy,Face Serum,,30ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1058,DJ-SKI-0059,Gold Facial Kit,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1059,DJ-SKI-0060,Sunscreen SPF 50+ (50gm),Dayjoy,Sunscreen SPF 50+,,50gm,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1060,DJ-SKI-0061,Hydra Max Moisturizer (50gm),Dayjoy,Hydra Max Moisturizer,,50gm,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1061,DJ-SKI-0062,AgeX Anti-Ageing Night Cream (50gm),Dayjoy,AgeX Anti-Ageing Night Cream,,50gm,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1062,DJ-SKI-0063,AcneX Anti-Acne Foaming Cleanser (100ml),Dayjoy,AcneX Anti-Acne Foaming Cleanser,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1063,DJ-COL-0064,Amara Beauty Kajal,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1064,DJ-COL-0065,Amara Beauty Eyeliner,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1065,DJ-HEA-0066,Asthprash (300 grams),Dayjoy,Asthprash,,300 grams,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1066,DJ-HEA-0067,Adicardial (120 Tab),Dayjoy,Adicardial,,120 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1067,DJ-HEA-0068,Adicardial Syrup (500ml),Dayjoy,Adicardial Syrup,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1068,DJ-HEA-0069,Adila Forte (30 Tab),Dayjoy,Adila Forte,,30 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1069,DJ-HEA-0070,Adila Forte (60 Tab),Dayjoy,Adila Forte,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1070,DJ-HEA-0071,Adilipo (120 Tab),Dayjoy,Adilipo,,120 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1071,DJ-HEA-0072,Adilipo (60 Tab),Dayjoy,Adilipo,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1072,DJ-HEA-0073,Adiliv (60 Tab),Dayjoy,Adiliv,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1073,DJ-HEA-0074,Aloevera with Guava Juice (1L),Dayjoy,Aloevera with Guava Juice,,1L,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1074,DJ-HEA-0075,Astheal Cough Syrup (100ml),Dayjoy,Astheal Cough Syrup,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1075,DJ-HEA-0076,Ashvagandha Extract (60 Veg Capsules),Dayjoy,Ashvagandha Extract,,60 Veg Capsules,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1076,DJ-HEA-0077,Amla Extract (60 Veg Capsules),Dayjoy,Amla Extract,,60 Veg Capsules,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1077,DJ-HEA-0078,Advanced Calcium Tablets,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1078,DJ-HEA-0079,Arogya Churn (100g),Dayjoy,Arogya Churn,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1079,DJ-HEA-0080,Di-beat (60 Tab),Dayjoy,Di-beat,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1080,DJ-HEA-0081,Golden Elixir - Nano Curcumin Drops (Pack of 2 Bottles - each 25ml),Dayjoy,Golden Elixir - Nano Curcumin Drops,,Pack of 2 Bottles - each 25ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1081,DJ-HEA-0082,Gas-O-Free (200ml),Dayjoy,Gas-O-Free,,200ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1082,DJ-HEA-0083,Gas-O-Free (500ml),Dayjoy,Gas-O-Free,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1083,DJ-HEA-0084,GoPiles (60 Tab),Dayjoy,GoPiles,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1084,DJ-HEA-0085,GoPiles Syrup (500ml),Dayjoy,GoPiles Syrup,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1085,DJ-HEA-0086,Giloe Extract (60 Veg Capsules),Dayjoy,Giloe Extract,,60 Veg Capsules,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1086,DJ-HEA-0087,Eye Elixir Drops (10ml),Dayjoy,Eye Elixir Drops,,10ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1087,DJ-HEA-0088,Eye Health++ (60 Capsules),Dayjoy,Eye Health++,,60 Capsules,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1088,DJ-HEA-0089,HB+ (200ml),Dayjoy,HB+,,200ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1089,DJ-HEA-0090,HB+ (500ml),Dayjoy,HB+,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1090,DJ-HEA-0091,Hi-Energy (60 Tab),Dayjoy,Hi-Energy,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1091,DJ-HEA-0092,Kidney Kawach (300 g),Dayjoy,Kidney Kawach,,300 g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1092,DJ-HEA-0093,Liv-Ease (200ml),Dayjoy,Liv-Ease,,200ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1093,DJ-HEA-0094,Liv-Ease (500ml),Dayjoy,Liv-Ease,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1094,DJ-HEA-0095,Multivitamins Tablets,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1095,DJ-HEA-0096,Nonima (500ml),Dayjoy,Nonima,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1096,DJ-HEA-0097,N-astheal (120 Tab),Dayjoy,N-astheal,,120 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1097,DJ-HEA-0098,N-astheal (60 Tab),Dayjoy,N-astheal,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1098,DJ-HEA-0099,Orthofix (60 Tab),Dayjoy,Orthofix,,60 Tab,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1099,DJ-HEA-0100,Orthofix Oil (100ml),Dayjoy,Orthofix Oil,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1100,DJ-HEA-0101,Omega 3-6-9,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1101,DJ-HEA-0102,Quick 6 Pain Relief Gel (30g),Dayjoy,Quick 6 Pain Relief Gel,,30g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1102,DJ-HEA-0103,Super Rich Berry Juice (1 Ltr.),Dayjoy,Super Rich Berry Juice,,1 Ltr.,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1103,DJ-HEA-0104,Seabuckthron Juice (1 Ltr.),Dayjoy,Seabuckthron Juice,,1 Ltr.,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1104,DJ-HEA-0105,Shatavari Extract (60 Veg Capsules),Dayjoy,Shatavari Extract,,60 Veg Capsules,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1105,DJ-HEA-0106,Super Food Capsule,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1106,DJ-HEA-0107,Premium Tulsi Max (30ml),Dayjoy,Premium Tulsi Max,,30ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1107,DJ-HEA-0108,Vital Protein Powder (300gm),Dayjoy,Vital Protein Powder,,300gm,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1108,DJ-HEA-0109,L-Arginine++ - Energy Drink (100g),Dayjoy,L-Arginine++ - Energy Drink,,100g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1109,DJ-HEA-0110,Ample Meal - Meal Replacement Nutritional Shake (500g),Dayjoy,Ample Meal - Meal Replacement Nutritional Shake,,500g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1110,DJ-HEA-0111,JuniorJoy - Kids Nutritional Drink (300g),Dayjoy,JuniorJoy - Kids Nutritional Drink,,300g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1111,DJ-HEA-0112,Kahwa Masala Chai (25 Pcs),Dayjoy,Kahwa Masala Chai,,25 Pcs,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1112,DJ-HEA-0113,Shilajit Gummies (60 Gummies),Dayjoy,Shilajit Gummies,,60 Gummies,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1113,DJ-HEA-0114,Apple Cider Vinegar (3X20 Tablets),Dayjoy,Apple Cider Vinegar,,3X20 Tablets,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1114,DJ-HEA-0115,Marine Collagen (200g),Dayjoy,Marine Collagen,,200g,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1115,DJ-HOM-0116,Dishwash Liquid Gel (500ml),Dayjoy,Dishwash Liquid Gel,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1116,DJ-HOM-0117,Toilet Bowl Cleaner (500ml),Dayjoy,Toilet Bowl Cleaner,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1117,DJ-HOM-0118,Liquid Detergent (1Ltr.),Dayjoy,Liquid Detergent,,1Ltr.,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1118,DJ-HOM-0119,All in 1 Surface Cleaner (500ml),Dayjoy,All in 1 Surface Cleaner,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1119,DJ-CLO-0120,Premium Suit Length (Black),Dayjoy,Premium Suit Length,,Black,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1120,DJ-CLO-0121,Designer Mask (Pack of 5),Dayjoy,Designer Mask,,Pack of 5,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1121,DJ-CLO-0122,Dayjoy Necktie,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1122,DJ-CLO-0123,"T-shirt New Design (L, M, XL)",Dayjoy,T-shirt New Design,,"L, M, XL",,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1123,DJ-AGR-0124,Happy Soil - Humic (500ml),Dayjoy,Happy Soil - Humic,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1124,DJ-AGR-0125,Nano Tech-19 (500ml),Dayjoy,Nano Tech-19,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1125,DJ-AGR-0126,Nano Tech-46 (500ml),Dayjoy,Nano Tech-46,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1126,DJ-AGR-0127,Nano Tech-50 (500ml),Dayjoy,Nano Tech-50,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1127,DJ-AGR-0128,Nano Tech-52 (500ml),Dayjoy,Nano Tech-52,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1128,DJ-AGR-0129,Prosperous+ (1 L),Dayjoy,Prosperous+,,1 L,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1129,DJ-AGR-0130,Prosperous+ Tablets,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1130,DJ-AGR-0131,Joy-O-Zyme (500ml),Dayjoy,Joy-O-Zyme,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1131,DJ-AGR-0132,JoySpread 80+ Gold (250ml),Dayjoy,JoySpread 80+ Gold,,250ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1132,DJ-AGR-0133,JoySpread 80+ Gold (100ml),Dayjoy,JoySpread 80+ Gold,,100ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1133,DJ-AGR-0134,JoyGrow 2X (Granules) (2kg),Dayjoy,JoyGrow 2X,,Granules,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1134,DJ-AGR-0135,JoyProtect (500ml),Dayjoy,JoyProtect,,500ml,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1135,DJ-AGR-0136,JoyCalcium (2 Litre),Dayjoy,JoyCalcium,,2 Litre,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1136,DJ-GER-0137,Bio-Germanium & Magnetic Mattress,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1137,DJ-GER-0138,Bio-Germanium & Magnetic Mattress (Pack of 2),Dayjoy,Bio-Germanium & Magnetic Mattress,,Pack of 2,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1138,DJ-AQU-0139,Aqua Energiser (Pack of 3),Dayjoy,Aqua Energiser,,Pack of 3,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1139,DJ-AQU-0140,Aqua Energiser (Single),Dayjoy,Aqua Energiser,,Single,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1140,DJ-AQU-0141,New Perfect-Ion,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1141,DJ-AQU-0142,Perfect-Ion Testing Solutions,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1142,DJ-AQU-0143,Perfect-Ion Leaflets (Set of 25),Dayjoy,Perfect-Ion Leaflets,,Set of 25,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1143,DJ-AQU-0144,Perfect-Ion Leaflets (Set of 50),Dayjoy,Perfect-Ion Leaflets,,Set of 50,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1144,DJ-AQU-0145,N-SF 9.5 Mineraliser,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1145,DJ-AQU-0146,N-SF 10.5 Mineraliser,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1146,DJ-PRO-0147,Dayjoy Diary,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1147,DJ-PRO-0148,Dayjoy Leather Bag,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1148,DJ-PRO-0149,Dayjoy Cap,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1149,DJ-PRO-0150,Dayjoy Mug,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1150,DJ-PRO-0151,Dayjoy Bike Sticker,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1151,DJ-PRO-0152,Dayjoy Car Sticker,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1152,DJ-PRO-0153,Dayjoy Pin,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1153,DJ-PRO-0154,Dayjoy Backpack Bag,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1154,DJ-PRO-0155,New Dayjoy Product Brochure (Hindi),Dayjoy,New Dayjoy Product Brochure,,Hindi,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1155,DJ-PRO-0156,New Dayjoy Product Brochure (English),Dayjoy,New Dayjoy Product Brochure,,English,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1156,DJ-PRO-0157,New Dayjoy Product Brochure (Telugu),Dayjoy,New Dayjoy Product Brochure,,Telugu,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1157,DJ-PRO-0158,Product Leaflets (Set of 48 Leaflets),Dayjoy,Product Leaflets,,Set of 48 Leaflets,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1158,DJ-PRO-0159,Hindi One-Page Compensation Plan (Set of 25 Leaflets),Dayjoy,Hindi One-Page Compensation Plan,,Set of 25 Leaflets,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1159,DJ-PRO-0160,English One-Page Compensation Plan (Set of 25 Leaflets),Dayjoy,English One-Page Compensation Plan,,Set of 25 Leaflets,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1160,DJ-PRO-0161,Hindi One-Page Compensation Plan (Set of 50 Leaflets),Dayjoy,Hindi One-Page Compensation Plan,,Set of 50 Leaflets,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1161,DJ-PRO-0162,English One-Page Compensation Plan (Set of 50 Leaflets),Dayjoy,English One-Page Compensation Plan,,Set of 50 Leaflets,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1162,DJ-PRO-0163,Dayjoy Business Planner Book (Hindi),Dayjoy,Dayjoy Business Planner Book,,Hindi,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1163,DJ-PRO-0164,Dayjoy Business Planner Book (English),Dayjoy,Dayjoy Business Planner Book,,English,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,3,high
+DJP1164,DJ-COM-0165,STANDARD PACKAGE,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1165,DJ-COM-0166,PREMIUM PACKAGE,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1166,DJ-COM-0167,ELITE PACKAGE,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1167,DJ-COM-0168,AGRI PRO PACKAGE,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1168,DJ-COM-0169,AGRI STARTER PACKAGE,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high
+DJP1169,DJ-COM-0170,LEGEND PACKAGE,Dayjoy,,,,,,,,dayjoy-product-master + india-bv-price-may-2026,2026-08-04,pending_enrichment,2026-05-01,,4,high

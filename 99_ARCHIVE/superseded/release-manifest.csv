@@ -1,0 +1,10 @@
+file,purpose,included
+output/dayjoy-price-list-extracted.csv,approved source or canonical dataset,True
+output/dayjoy-phase4-final-ready/canonical-product-master.csv,approved source or canonical dataset,True
+output/dayjoy-phase4-final-ready/canonical-product-master.xlsx,approved source or canonical dataset,True
+output/dayjoy-phase5-safety-policy/canonical-answer-policy.csv,approved source or canonical dataset,True
+output/dayjoy-phase5-safety-policy/product-safety-classes.csv,approved source or canonical dataset,True
+output/dayjoy-phase7-8-rag/dayjoy-rag-chunks.csv,approved source or canonical dataset,True
+output/dayjoy-phase7-8-rag/dayjoy-search-ranking-rules.csv,approved source or canonical dataset,True
+Dayjoy_All_FAQs_Combined.csv,approved source or canonical dataset,True
+Dayjoy_Master_Intent_Dataset.csv,approved source or canonical dataset,True

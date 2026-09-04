@@ -1,0 +1,13 @@
+category_name,category_slug,category_id
+FOOD PRODUCTS,food-products,1
+PERSONAL CARE,personal-care,2
+SKIN CARE,skin-care,3
+COLOR COSMETICS,color-cosmetics,4
+HEALTH CARE,health-care,5
+HOME CARE,home-care,6
+CLOTHING,clothing,7
+AGRICULTURE & VETERINARY,agriculture-veterinary,8
+GERMANIUM & MAGNETIC,germanium-magnetic,9
+AQUA ESSENTIALS,aqua-essentials,10
+PROMOTION TOOLS,promotion-tools,11
+COMBO PACKAGES,combo-packages,12

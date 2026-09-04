@@ -1,0 +1,107 @@
+-- ============================================================
+-- DAYJOY AI ASSIST — CONSOLIDATED RELATIONSHIP DOCUMENTATION
+-- ============================================================
+-- Documentation only (no DDL executed here). Lists every foreign-key
+-- relationship across the reconciled canonical schema
+-- (dayjoy_database_schema.sql) and the extension schema
+-- (dayjoy_full_production_schema.sql), plus a few "relationships by
+-- convention" that were deliberately NOT implemented as hard FKs so as
+-- not to modify already-reconciled tables.
+-- ============================================================
+
+-- ------------------------------------------------------------
+-- A. CANONICAL SCHEMA (dayjoy_database_schema.sql) — unchanged
+-- ------------------------------------------------------------
+-- categories.parent_category_id       -> categories.category_id (self, tree)
+-- products.category_id                -> categories.category_id
+-- products.brand_id                   -> brands.brand_id
+-- product_images.product_id           -> products.product_id
+-- product_faqs.product_id             -> products.product_id
+-- product_relationships.product_a_id  -> products.product_id
+-- product_relationships.product_b_id  -> products.product_id
+-- condition_recommendations.product_id_1..4 -> products.product_id
+-- knowledge_chunks.product_id         -> products.product_id
+-- (plan_ranks, business_matching_rules, plan_faqs, audit_log have no
+--  outbound FKs in the canonical file)
+
+-- ------------------------------------------------------------
+-- B. CATALOG / CONTENT EXTENSION TABLES
+-- ------------------------------------------------------------
+-- product_variants.product_id         -> products.product_id
+-- product_prices.product_id           -> products.product_id
+-- product_ingredients.product_id      -> products.product_id
+-- product_benefits.product_id         -> products.product_id
+-- policies.source_document_id         -> company_documents.document_id
+-- compensation_rules.rank_id                  -> plan_ranks.rank_id
+-- compensation_rules.business_matching_rule_id -> business_matching_rules.rule_id
+-- compensation_rules.source_document_id       -> company_documents.document_id
+-- knowledge_documents.source_id       -> knowledge_sources.source_id
+
+-- ------------------------------------------------------------
+-- C. IDENTITY / AUTH / ASSISTANT-MEMORY TABLES
+-- ------------------------------------------------------------
+-- profiles.auth_user_id               -> auth.users.id  (Supabase; unconstrained for portability)
+-- profiles.primary_role_id            -> roles.role_id
+-- user_roles.profile_id               -> profiles.profile_id
+-- user_roles.role_id                  -> roles.role_id
+-- user_roles.assigned_by              -> profiles.profile_id
+-- conversations.profile_id            -> profiles.profile_id
+-- messages.conversation_id            -> conversations.conversation_id
+-- messages.sender_id                  -> profiles.profile_id
+-- messages.matched_chunk_ids[]        -> knowledge_chunks.chunk_id (array, NOT a hard FK —
+--                                         Postgres cannot FK into an array column)
+-- memories.profile_id                 -> profiles.profile_id
+-- memories.source_conversation_id     -> conversations.conversation_id
+
+-- ------------------------------------------------------------
+-- D. MLM / BUSINESS HIERARCHY TABLES (schema only, no data yet)
+-- ------------------------------------------------------------
+-- distributors.profile_id             -> profiles.profile_id
+-- distributors.sponsor_distributor_id -> distributors.distributor_id (self, binary upline)
+-- distributors.current_rank_id        -> plan_ranks.rank_id
+-- teams.lead_distributor_id           -> distributors.distributor_id
+-- leaders.distributor_id              -> distributors.distributor_id (1:1)
+-- leaders.team_id                     -> teams.team_id
+-- customers.profile_id                -> profiles.profile_id
+-- customers.referred_by_distributor_id -> distributors.distributor_id
+
+-- ------------------------------------------------------------
+-- E. TRANSACTIONAL TABLES (schema only, no data yet)
+-- ------------------------------------------------------------
+-- orders.customer_id                  -> customers.customer_id
+-- orders.distributor_id               -> distributors.distributor_id
+-- order_items.order_id                -> orders.order_id
+-- order_items.product_id              -> products.product_id
+-- sales.order_id                      -> orders.order_id (nullable — allows offline sales)
+-- sales.product_id                    -> products.product_id
+-- sales.distributor_id                -> distributors.distributor_id
+-- sales.customer_id                   -> customers.customer_id
+-- bv_transactions.distributor_id      -> distributors.distributor_id
+-- bv_transactions.sale_id             -> sales.sale_id
+-- pv_transactions.distributor_id      -> distributors.distributor_id
+-- pv_transactions.sale_id             -> sales.sale_id
+-- targets.distributor_id              -> distributors.distributor_id
+-- rank_history.distributor_id         -> distributors.distributor_id
+-- rank_history.rank_id                -> plan_ranks.rank_id
+-- support_tickets.profile_id          -> profiles.profile_id
+-- support_tickets.customer_id         -> customers.customer_id
+-- support_tickets.distributor_id      -> distributors.distributor_id
+-- support_tickets.assigned_to         -> profiles.profile_id
+
+-- ------------------------------------------------------------
+-- F. RELATIONSHIPS BY CONVENTION (deliberately NOT a hard FK)
+-- ------------------------------------------------------------
+-- knowledge_chunks.source_file (text) <-> knowledge_documents.title / source_file
+--   Not linked by FK because knowledge_chunks is part of the already
+--   reconciled canonical schema and this extension avoids ALTERing it.
+--   Join application-side on source_file / product_id when correlating
+--   chunk-level RAG content with document-level provenance.
+--
+-- 06_IMAGES image metadata (CSV, not yet a table) <-> products.sku
+--   The canonical image metadata lives in
+--   06_IMAGES/metadata/dayjoy_image_metadata_CANONICAL.csv and is
+--   joined to products by sku (see dayjoy_image_metadata_FULL_SCHEMA.csv
+--   for the derived product_id column). If/when this is loaded into
+--   Postgres, use product_images (already in the canonical schema) or
+--   a straightforward product_id FK.
+-- ============================================================
